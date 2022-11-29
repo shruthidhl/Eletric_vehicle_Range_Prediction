@@ -1,0 +1,684 @@
+manufacturer,model,year,version,power(kW),fuel_date,odometer,trip_distance(km),quantity(kWh),fuel_type,tire_type,city,motor_way,country_roads,driving_style,consumption(kWh/100km),A/C,park_heating,avg_speed(km/h),ecr_deviation,fuel_note
+Volkswagen,Golf,2016,e-Golf,85,09.10.2022,96274,71.0,8.52,Electricity,Summer tires,1,1,1,Normal,12.0,1,0,68.0,-0.6999999999999993,Reichweite 81% = 123km
+Volkswagen,Golf,2016,e-Golf,85,09.10.2022,96203,86.0,11.43,Electricity,Summer tires,1,1,1,Normal,13.3,1,0,57.0,0.6000000000000014,Reichweite 88% = 129km
+Volkswagen,Golf,2016,e-Golf,85,08.10.2022,96117,61.0,6.89,Electricity,Summer tires,1,0,1,Normal,11.3,1,0,46.0,-1.3999999999999986,Reichweite 80% = 126km
+Volkswagen,Golf,2016,e-Golf,85,07.10.2022,96056,52.0,5.92,Electricity,Summer tires,1,0,1,Normal,11.4,1,0,42.0,-1.299999999999999,Reichweite 80% = 127km
+Volkswagen,Golf,2016,e-Golf,85,05.10.2022,96004,55.0,5.83,Electricity,Summer tires,1,0,1,Normal,10.6,1,0,40.0,-2.0999999999999996,Reichweite 80% = 129km
+Volkswagen,Golf,2016,e-Golf,85,02.10.2022,95949,59.0,9.44,Electricity,Summer tires,1,0,1,Normal,16.0,1,0,26.0,3.3000000000000007,Reichweite 100% = 127km
+Volkswagen,Golf,2016,e-Golf,85,28.09.2022,95890,35.0,6.3,Electricity,Summer tires,1,0,1,Normal,18.0,1,0,42.0,5.300000000000001,Reichweite 80% = 91km
+Volkswagen,Golf,2016,e-Golf,85,26.09.2022,95855,41.0,6.19,Electricity,Summer tires,1,0,1,Normal,15.1,1,0,49.0,2.4000000000000004,Reichweite 80% = 107km
+Volkswagen,Golf,2016,e-Golf,85,24.09.2022,95814,26.0,3.69,Electricity,Summer tires,1,1,1,Normal,14.2,0,0,56.0,1.5,Reichweite 69% = 94km
+Volkswagen,Golf,2016,e-Golf,85,24.09.2022,95788,112.0,15.23,Electricity,Summer tires,1,1,1,Normal,13.6,0,0,54.0,0.9000000000000004,Reichweite 100% = 135km
+Volkswagen,Golf,2016,e-Golf,85,23.09.2022,95676,56.0,7.28,Electricity,Summer tires,1,1,1,Normal,13.0,0,0,65.0,0.3000000000000007,
+Volkswagen,Golf,2016,e-Golf,85,23.09.2022,95620,77.0,9.08,Electricity,Summer tires,1,1,1,Normal,11.8,0,0,43.0,-0.8999999999999986,Reichweite 100% = 165km
+Volkswagen,Golf,2016,e-Golf,85,22.09.2022,95543,41.0,4.59,Electricity,Summer tires,1,0,1,Normal,11.2,0,0,40.0,-1.5,Reichweite 80% = 126km
+Volkswagen,Golf,2016,e-Golf,85,21.09.2022,95502,60.0,7.08,Electricity,Summer tires,1,0,1,Normal,11.8,1,0,40.0,-0.8999999999999986,Reichweite 80% = 134km
+Volkswagen,Golf,2016,e-Golf,85,20.09.2022,95442,104.0,13.72,Electricity,Summer tires,1,1,1,Normal,13.2,1,0,39.0,0.5,Reichweite 100% = 134km
+Volkswagen,Golf,2016,e-Golf,85,19.09.2022,95338,31.0,4.43,Electricity,Summer tires,1,0,1,Normal,14.3,1,0,45.0,1.6000000000000014,Reichweite 80% = 112km
+Volkswagen,Golf,2016,e-Golf,85,17.09.2022,95307,53.0,6.89,Electricity,Summer tires,1,1,1,Normal,13.0,1,0,63.0,0.3000000000000007,Reichweite 80% = 118km
+Volkswagen,Golf,2016,e-Golf,85,17.09.2022,95254,86.0,12.12,Electricity,Summer tires,1,1,1,Normal,14.1,1,0,56.0,1.4000000000000004,CCS
+Volkswagen,Golf,2016,e-Golf,85,16.09.2022,95168,58.0,7.07,Electricity,Summer tires,1,0,1,Normal,12.2,1,0,44.0,-0.5,Reichweite 80% = 126km
+Volkswagen,Golf,2016,e-Golf,85,15.09.2022,95110,105.0,13.44,Electricity,Summer tires,1,1,1,Normal,12.8,1,0,39.0,0.10000000000000142,Reichweite 100% = 152km
+Volkswagen,Golf,2016,e-Golf,85,14.09.2022,95005,23.0,2.46,Electricity,Summer tires,1,0,1,Normal,10.7,1,0,36.0,-2.0,
+Volkswagen,Golf,2016,e-Golf,85,14.09.2022,94982,89.0,9.97,Electricity,Summer tires,1,0,1,Normal,11.2,1,0,38.0,-1.5,CCS Waldshut
+Volkswagen,Golf,2016,e-Golf,85,12.09.2022,94893,77.0,8.7,Electricity,Summer tires,1,0,1,Normal,11.3,1,0,42.0,-1.3999999999999986,Reichweite 90% = 150km
+Volkswagen,Golf,2016,e-Golf,85,07.09.2022,94816,27.0,3.15,Electricity,Summer tires,1,0,1,Normal,11.7,1,0,39.0,-1.0,Reichweite 80% = 124km
+Volkswagen,Golf,2016,e-Golf,85,06.09.2022,94789,52.0,6.08,Electricity,Summer tires,1,0,1,Normal,11.7,1,0,47.0,-1.0,Reichweite 80% = 122km
+Volkswagen,Golf,2016,e-Golf,85,05.09.2022,94737,38.0,4.21,Electricity,Summer tires,1,0,1,Normal,11.1,1,0,37.0,-1.5999999999999996,
+Volkswagen,Golf,2016,e-Golf,85,04.09.2022,94699,77.0,8.47,Electricity,Summer tires,1,0,1,Normal,11.0,1,0,43.0,-1.6999999999999993,Reichweite 90% = 152km
+Volkswagen,Golf,2016,e-Golf,85,02.09.2022,94622,114.0,14.48,Electricity,Summer tires,1,1,1,Normal,12.7,1,0,51.0,0.0,Reichweite 100% = 136km 
+Volkswagen,Golf,2016,e-Golf,85,01.09.2022,94508,56.0,6.21,Electricity,Summer tires,1,0,1,Normal,11.1,1,0,37.0,-1.5999999999999996,Reichweite 80% = 132km 
+Volkswagen,Golf,2016,e-Golf,85,31.08.2022,94452,79.0,9.71,Electricity,Summer tires,1,0,1,Normal,12.3,1,0,45.0,-0.3999999999999986,Reichweite 100% = 167km 
+Volkswagen,Golf,2016,e-Golf,85,30.08.2022,94373,60.0,6.9,Electricity,Summer tires,1,0,1,Normal,11.5,1,0,42.0,-1.1999999999999993,Reichweite 80% = 131Km 
+Volkswagen,Golf,2016,e-Golf,85,26.08.2022,94313,61.0,6.95,Electricity,Summer tires,1,0,1,Normal,11.4,1,0,38.0,-1.299999999999999,Reichweite 80% = 131km
+Volkswagen,Golf,2016,e-Golf,85,24.08.2022,94252,61.0,7.01,Electricity,Summer tires,1,0,1,Normal,11.5,1,0,41.0,-1.1999999999999993,Reichweite 80% = 131km
+Volkswagen,Golf,2016,e-Golf,85,22.08.2022,94191,38.0,4.14,Electricity,Summer tires,1,0,1,Normal,10.9,1,0,44.0,-1.799999999999999,Reichweite 80% = 134km
+Volkswagen,Golf,2016,e-Golf,85,20.08.2022,94153,65.0,8.32,Electricity,Summer tires,1,0,1,Normal,12.8,1,0,43.0,0.10000000000000142,Reichweite 80% = 118km
+Volkswagen,Golf,2016,e-Golf,85,18.08.2022,94088,114.0,12.65,Electricity,Summer tires,1,0,1,Normal,11.1,1,0,45.0,-1.5999999999999996,Reichweite 100% = 157km
+Volkswagen,Golf,2016,e-Golf,85,16.08.2022,93974,58.0,6.96,Electricity,Summer tires,1,0,1,Normal,12.0,1,0,41.0,-0.6999999999999993,Reichweite 80% = 132km
+Volkswagen,Golf,2016,e-Golf,85,13.08.2022,93916,115.0,14.49,Electricity,Summer tires,1,1,1,Normal,12.6,1,0,61.0,-0.09999999999999964,Reichweite 100% = 153km
+Volkswagen,Golf,2016,e-Golf,85,12.08.2022,93801,28.0,3.33,Electricity,Summer tires,1,0,1,Normal,11.9,1,0,34.0,-0.7999999999999989,Reichweite 80% = 125km
+Volkswagen,Golf,2016,e-Golf,85,11.08.2022,93773,104.0,10.81,Electricity,Summer tires,1,0,1,Normal,10.4,1,0,37.0,-2.299999999999999,Reichweite 100% = 180km 
+Volkswagen,Golf,2016,e-Golf,85,09.08.2022,93669,48.0,5.42,Electricity,Summer tires,1,0,1,Normal,11.3,1,0,43.0,-1.3999999999999986,Reichweite 80% = 130km
+Volkswagen,Golf,2016,e-Golf,85,07.08.2022,93621,85.0,9.52,Electricity,Summer tires,1,1,1,Normal,11.2,1,0,51.0,-1.5,
+Volkswagen,Golf,2016,e-Golf,85,04.08.2022,93536,51.0,6.12,Electricity,Summer tires,1,0,1,Normal,12.0,1,0,39.0,-0.6999999999999993,Reichweite 80% = 126km
+Volkswagen,Golf,2016,e-Golf,85,03.08.2022,93485,25.0,3.05,Electricity,Summer tires,1,0,1,Normal,12.2,1,0,41.0,-0.5,
+Volkswagen,Golf,2016,e-Golf,85,03.08.2022,93460,93.0,12.09,Electricity,Summer tires,1,1,1,Normal,13.0,1,0,62.0,0.3000000000000007,Reichweite 100% = 148km
+Volkswagen,Golf,2016,e-Golf,85,02.08.2022,93367,48.0,5.18,Electricity,Summer tires,1,0,1,Normal,10.8,1,0,36.0,-1.8999999999999986,
+Volkswagen,Golf,2016,e-Golf,85,01.08.2022,93319,68.0,7.2,Electricity,Summer tires,1,0,1,Normal,10.6,1,0,40.0,-2.0999999999999996,
+Volkswagen,Golf,2016,e-Golf,85,30.07.2022,93251,74.0,7.62,Electricity,Summer tires,1,0,1,Normal,10.3,1,0,42.0,-2.3999999999999986,
+Volkswagen,Golf,2016,e-Golf,85,25.07.2022,93177,79.0,8.21,Electricity,Summer tires,1,0,1,Normal,10.4,1,0,46.0,-2.299999999999999,
+Volkswagen,Golf,2016,e-Golf,85,24.07.2022,93098,126.0,15.87,Electricity,Summer tires,1,1,1,Normal,12.6,1,0,65.0,-0.09999999999999964,
+Volkswagen,Golf,2016,e-Golf,85,23.07.2022,92972,111.0,14.2,Electricity,Summer tires,1,1,1,Normal,12.8,1,0,58.0,0.10000000000000142,
+Volkswagen,Golf,2016,e-Golf,85,22.07.2022,92861,48.0,4.94,Electricity,Summer tires,1,0,1,Normal,10.3,1,0,44.0,-2.3999999999999986,
+Volkswagen,Golf,2016,e-Golf,85,20.07.2022,92813,116.0,13.34,Electricity,Summer tires,1,1,1,Normal,11.5,1,0,63.0,-1.1999999999999993,
+Volkswagen,Golf,2016,e-Golf,85,20.07.2022,92697,85.0,10.11,Electricity,Summer tires,1,1,1,Normal,11.9,1,0,66.0,-0.7999999999999989,
+Volkswagen,Golf,2016,e-Golf,85,20.07.2022,92612,89.0,11.03,Electricity,Summer tires,1,1,1,Normal,12.4,1,0,58.0,-0.29999999999999893,
+Volkswagen,Golf,2016,e-Golf,85,19.07.2022,92523,30.0,3.15,Electricity,Summer tires,1,0,1,Normal,10.5,1,0,39.0,-2.1999999999999993,
+Volkswagen,Golf,2016,e-Golf,85,18.07.2022,92493,75.0,8.1,Electricity,Summer tires,1,0,1,Normal,10.8,1,0,40.0,-1.8999999999999986,Reichweite 80% = 129km
+Volkswagen,Golf,2016,e-Golf,85,17.07.2022,92418,75.0,9.45,Electricity,Summer tires,1,1,1,Normal,12.6,1,0,73.0,-0.09999999999999964,
+Volkswagen,Golf,2016,e-Golf,85,17.07.2022,92343,101.0,11.21,Electricity,Summer tires,0,1,0,Normal,11.1,1,0,63.0,-1.5999999999999996,CCS
+Volkswagen,Golf,2016,e-Golf,85,17.07.2022,92242,40.0,7.52,Electricity,Summer tires,0,1,0,Normal,18.8,1,0,84.0,6.100000000000001,"CCS, Gotthardsteigung Autobahn"
+Volkswagen,Golf,2016,e-Golf,85,16.07.2022,92202,56.0,6.38,Electricity,Summer tires,1,1,1,Normal,11.4,1,0,40.0,-1.299999999999999,CCS
+Volkswagen,Golf,2016,e-Golf,85,16.07.2022,92146,86.0,10.32,Electricity,Summer tires,0,1,0,Normal,12.0,1,0,39.0,-0.6999999999999993,"CCS, viel Stau"
+Volkswagen,Golf,2016,e-Golf,85,16.07.2022,92060,49.0,6.37,Electricity,Summer tires,0,1,0,Normal,13.0,1,0,50.0,0.3000000000000007,CCS
+Volkswagen,Golf,2016,e-Golf,85,16.07.2022,92011,75.0,9.75,Electricity,Summer tires,1,1,1,Normal,13.0,1,0,72.0,0.3000000000000007,
+Volkswagen,Golf,2016,e-Golf,85,15.07.2022,91936,122.0,12.93,Electricity,Summer tires,1,1,1,Normal,10.6,1,0,46.0,-2.0999999999999996,Reichweite 92% = 136km
+Volkswagen,Golf,2016,e-Golf,85,14.07.2022,91814,92.0,10.58,Electricity,Summer tires,1,1,1,Normal,11.5,1,0,46.0,-1.1999999999999993,EW Aach CCS Eigeltingen / D
+Volkswagen,Golf,2016,e-Golf,85,12.07.2022,91722,91.0,10.37,Electricity,Summer tires,1,1,1,Normal,11.4,1,0,38.0,-1.299999999999999,
+Volkswagen,Golf,2016,e-Golf,85,12.07.2022,91722,91.0,10.37,Electricity,Summer tires,1,1,1,Normal,11.4,1,0,38.0,-1.299999999999999,
+Volkswagen,Golf,2016,e-Golf,85,12.07.2022,91722,91.0,10.37,Electricity,Summer tires,1,1,1,Normal,11.4,1,0,38.0,-1.299999999999999,
+Volkswagen,Golf,2016,e-Golf,85,12.07.2022,91631,105.0,11.34,Electricity,Summer tires,1,1,1,Normal,10.8,1,0,38.0,-1.8999999999999986,
+Volkswagen,Golf,2016,e-Golf,85,08.07.2022,91526,83.0,10.46,Electricity,Summer tires,1,1,1,Normal,12.6,1,0,87.0,-0.09999999999999964,
+Volkswagen,Golf,2016,e-Golf,85,08.07.2022,91443,92.0,12.7,Electricity,Summer tires,1,1,1,Normal,13.8,1,0,59.0,1.1000000000000014,
+Volkswagen,Golf,2016,e-Golf,85,07.07.2022,91351,78.0,8.81,Electricity,Summer tires,1,1,1,Normal,11.3,1,0,44.0,-1.3999999999999986,
+Volkswagen,Golf,2016,e-Golf,85,06.07.2022,91273,103.0,13.08,Electricity,Summer tires,1,1,1,Normal,12.7,1,0,58.0,0.0,"EW Aach, Eigeltingen"
+Volkswagen,Golf,2016,e-Golf,85,05.07.2022,91170,106.0,13.89,Electricity,Summer tires,1,1,1,Normal,13.1,1,0,91.0,0.40000000000000036,
+Volkswagen,Golf,2016,e-Golf,85,05.07.2022,91064,101.0,14.75,Electricity,Summer tires,1,1,1,Normal,14.6,1,0,90.0,1.9000000000000004,CCS Allego Türkheim 
+Volkswagen,Golf,2016,e-Golf,85,05.07.2022,90963,103.0,11.74,Electricity,Summer tires,1,1,1,Normal,11.4,1,0,46.0,-1.299999999999999,CCS EWE Lindau
+Volkswagen,Golf,2016,e-Golf,85,04.07.2022,90860,87.0,10.96,Electricity,Summer tires,1,1,1,Normal,12.6,1,0,55.0,-0.09999999999999964,Reichweite 100% = 157km
+Volkswagen,Golf,2016,e-Golf,85,02.07.2022,90773,40.0,5.08,Electricity,Summer tires,1,0,1,Normal,12.7,0,0,36.0,0.0,23°C. Reichweite 80% = 129km
+Volkswagen,Golf,2016,e-Golf,85,30.06.2022,90733,46.0,5.43,Electricity,Summer tires,1,0,1,Normal,11.8,0,0,41.0,-0.8999999999999986,16°C. Reichweite 80% = 126km
+Volkswagen,Golf,2016,e-Golf,85,29.06.2022,90687,80.0,9.2,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,45.0,-1.1999999999999993,25°C. Reichweite 100% = 171km
+Volkswagen,Golf,2016,e-Golf,85,28.06.2022,90607,30.0,3.3,Electricity,Summer tires,1,0,1,Normal,11.0,0,0,34.0,-1.6999999999999993,20°C. Reichweite 80% = 134km
+Volkswagen,Golf,2016,e-Golf,85,27.06.2022,90577,122.0,12.68,Electricity,Summer tires,1,0,1,Normal,10.4,0,0,40.0,-2.299999999999999,20°C. Reichweite 90% = 147km
+Volkswagen,Golf,2016,e-Golf,85,26.06.2022,90455,40.0,4.16,Electricity,Summer tires,1,0,1,Normal,10.4,0,0,40.0,-2.299999999999999,27°C. Reichweite 80% = 138km
+Volkswagen,Golf,2016,e-Golf,85,25.06.2022,90415,88.0,10.47,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,55.0,-0.7999999999999989,21°C. Reichweite 90% = 149km
+Volkswagen,Golf,2016,e-Golf,85,24.06.2022,90327,30.0,3.24,Electricity,Summer tires,1,0,1,Normal,10.8,0,0,36.0,-1.8999999999999986,21.5°. Reichweite 90% = 155km
+Volkswagen,Golf,2016,e-Golf,85,23.06.2022,90297,51.0,5.5,Electricity,Summer tires,1,0,1,Normal,10.8,0,0,41.0,-1.8999999999999986,27°C. Reichweite 80% = 137km
+Volkswagen,Golf,2016,e-Golf,85,22.06.2022,90246,37.0,4.18,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,44.0,-1.3999999999999986,24°C. Reichweite 80% = 129km
+Volkswagen,Golf,2016,e-Golf,85,21.06.2022,90209,43.0,5.28,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,43.0,-0.3999999999999986,32°C. Reichweite 90% = 133km
+Volkswagen,Golf,2016,e-Golf,85,19.06.2022,90166,76.0,7.75,Electricity,Summer tires,1,1,1,Normal,10.2,0,0,48.0,-2.5,30.5°C. 
+Volkswagen,Golf,2016,e-Golf,85,19.06.2022,90090,45.0,5.58,Electricity,Summer tires,1,1,1,Normal,12.4,0,0,54.0,-0.29999999999999893,36°C. CCS Coop Oberentfelden
+Volkswagen,Golf,2016,e-Golf,85,19.06.2022,90045,54.0,5.83,Electricity,Summer tires,1,0,1,Normal,10.8,0,0,43.0,-1.8999999999999986,26°C. Reichweite 90% = 154km
+Volkswagen,Golf,2016,e-Golf,85,16.06.2022,89991,17.0,2.01,Electricity,Summer tires,1,0,1,Normal,11.8,0,0,30.0,-0.8999999999999986,27°C. Reichweite 80% = 130km
+Volkswagen,Golf,2016,e-Golf,85,16.06.2022,89974,56.0,6.44,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,43.0,-1.1999999999999993,17.5°. Reichweite 80% = 137km
+Volkswagen,Golf,2016,e-Golf,85,14.06.2022,89918,56.0,6.94,Electricity,Summer tires,1,0,1,Normal,12.4,0,0,41.0,-0.29999999999999893,27°C. Reichweite 80% = 127km
+Volkswagen,Golf,2016,e-Golf,85,12.06.2022,89862,56.0,5.99,Electricity,Summer tires,1,0,1,Normal,10.7,0,0,43.0,-2.0,26°C. Reichweite 80% = 139km
+Volkswagen,Golf,2016,e-Golf,85,11.06.2022,89806,24.0,3.02,Electricity,Summer tires,1,0,1,Normal,12.6,0,0,29.0,-0.09999999999999964,24.5°C. Reichweite 80% = 122km
+Volkswagen,Golf,2016,e-Golf,85,09.06.2022,89782,81.0,9.72,Electricity,Summer tires,1,0,1,Normal,12.0,0,0,54.0,-0.6999999999999993,16°C. Reichweite 100% = 167km
+Volkswagen,Golf,2016,e-Golf,85,08.06.2022,89701,27.0,2.94,Electricity,Summer tires,1,0,1,Normal,10.9,0,0,43.0,-1.799999999999999,16.5°C.
+Volkswagen,Golf,2016,e-Golf,85,08.06.2022,89674,75.0,8.32,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,41.0,-1.5999999999999996,17.5°C. Reichweite 80% = 121km
+Volkswagen,Golf,2016,e-Golf,85,04.06.2022,89599,64.0,6.33,Electricity,Summer tires,1,1,1,Normal,9.9,0,0,67.0,-2.799999999999999,23°C. Reichweite 90% = 163km
+Volkswagen,Golf,2016,e-Golf,85,04.06.2022,89535,82.0,11.72,Electricity,Summer tires,1,1,1,Normal,14.3,0,0,71.0,1.6000000000000014,CCS Horgen A3
+Volkswagen,Golf,2016,e-Golf,85,04.06.2022,89453,68.0,7.61,Electricity,Summer tires,1,0,1,Normal,11.2,0,0,42.0,-1.5,21°C. Reichweite 100% = 168km
+Volkswagen,Golf,2016,e-Golf,85,02.06.2022,89385,83.0,8.96,Electricity,Summer tires,1,0,1,Normal,10.8,0,0,41.0,-1.8999999999999986,22°C. Reichweite 100% = 175km
+Volkswagen,Golf,2016,e-Golf,85,01.06.2022,89302,45.0,5.27,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,42.0,-1.0,16°C. Reichweite 80% = 130km
+Volkswagen,Golf,2016,e-Golf,85,31.05.2022,89257,57.0,7.01,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,38.0,-0.3999999999999986,17°C. Reichweite 80% = 121km
+Volkswagen,Golf,2016,e-Golf,85,29.05.2022,89200,80.0,9.04,Electricity,Summer tires,1,1,1,Normal,11.3,0,0,53.0,-1.3999999999999986,Reichweite 89% = 153km
+Volkswagen,Golf,2016,e-Golf,85,29.05.2022,89120,56.0,6.88,Electricity,Summer tires,0,1,0,Normal,12.3,0,0,82.0,-0.3999999999999986,CCS Rothrist GoFast
+Volkswagen,Golf,2016,e-Golf,85,29.05.2022,89064,59.0,9.61,Electricity,Summer tires,0,1,0,Normal,16.3,0,0,95.0,3.6000000000000014,CCS Grauholz
+Volkswagen,Golf,2016,e-Golf,85,29.05.2022,89005,52.0,8.58,Electricity,Summer tires,0,1,0,Normal,16.5,0,0,89.0,3.8000000000000007,CCS Rose de la Broye Ionity
+Volkswagen,Golf,2016,e-Golf,85,29.05.2022,88953,43.0,5.8,Electricity,Summer tires,1,1,1,Normal,13.5,0,0,56.0,0.8000000000000007,CCS EPFL GoFast
+Volkswagen,Golf,2016,e-Golf,85,28.05.2022,88910,72.0,9.14,Electricity,Summer tires,0,1,0,Normal,12.7,0,0,96.0,0.0,CCS La Cote Move
+Volkswagen,Golf,2016,e-Golf,85,28.05.2022,88838,121.0,14.88,Electricity,Summer tires,0,1,1,Normal,12.3,0,0,70.0,-0.3999999999999986,CCS Rose de la Broye Move
+Volkswagen,Golf,2016,e-Golf,85,28.05.2022,88717,95.0,11.4,Electricity,Summer tires,1,1,1,Normal,12.0,0,0,61.0,-0.6999999999999993,CCS Deitingen
+Volkswagen,Golf,2016,e-Golf,85,27.05.2022,88622,34.0,4.08,Electricity,Summer tires,1,0,1,Normal,12.0,0,0,36.0,-0.6999999999999993,23.5°C. Reichweite 90% = 147km
+Volkswagen,Golf,2016,e-Golf,85,26.05.2022,88588,64.0,7.04,Electricity,Summer tires,1,0,1,Normal,11.0,0,0,40.0,-1.6999999999999993,21°C. Reichweite 80% = 137km
+Volkswagen,Golf,2016,e-Golf,85,23.05.2022,88524,75.0,8.1,Electricity,Summer tires,1,0,1,Normal,10.8,0,0,39.0,-1.8999999999999986,20.5°C. Reichweite 80% = 136km
+Volkswagen,Golf,2016,e-Golf,85,19.05.2022,88449,65.0,7.08,Electricity,Summer tires,1,0,1,Normal,10.9,0,0,42.0,-1.799999999999999,27°C. Reichweite 80% = 134km
+Volkswagen,Golf,2016,e-Golf,85,15.05.2022,88384,44.0,5.58,Electricity,Summer tires,1,0,1,Normal,12.7,0,0,41.0,0.0,24°C. Reichweite 80% = 123km
+Volkswagen,Golf,2016,e-Golf,85,12.05.2022,88340,58.0,6.72,Electricity,Summer tires,1,0,1,Normal,11.6,0,0,43.0,-1.0999999999999996,19°C. Reichweite 80% = 131km
+Volkswagen,Golf,2016,e-Golf,85,11.05.2022,88282,70.0,7.7,Electricity,Summer tires,1,0,1,Normal,11.0,0,0,43.0,-1.6999999999999993,25.5°C. Reichweite 80% = 137km
+Volkswagen,Golf,2016,e-Golf,85,09.05.2022,88212,132.0,15.97,Electricity,Summer tires,1,1,1,Normal,12.1,0,0,49.0,-0.5999999999999996,23°C. Reichweite 100% = 147km
+Volkswagen,Golf,2016,e-Golf,85,08.05.2022,88080,67.0,7.63,Electricity,Summer tires,1,1,1,Normal,11.4,0,0,68.0,-1.299999999999999,18°C. Reichweite 80% = 133km
+Volkswagen,Golf,2016,e-Golf,85,08.05.2022,88013,90.0,12.69,Electricity,Summer tires,1,1,1,Normal,14.1,0,0,65.0,1.4000000000000004,17.5°C. Reichweite 100% = 139km
+Volkswagen,Golf,2016,e-Golf,85,07.05.2022,87923,66.0,7.72,Electricity,Summer tires,1,1,1,Normal,11.7,0,0,68.0,-1.0,15°C. Reichweite 84% = 138km
+Volkswagen,Golf,2016,e-Golf,85,07.05.2022,87857,90.0,12.6,Electricity,Summer tires,1,1,1,Normal,14.0,0,0,63.0,1.3000000000000007,13.5°C. Reichweite 100% = 139km
+Volkswagen,Golf,2016,e-Golf,85,06.05.2022,87767,43.0,5.8,Electricity,Summer tires,1,0,1,Normal,13.5,0,0,44.0,0.8000000000000007,12°C. Reichweite 80% = 117km
+Volkswagen,Golf,2016,e-Golf,85,06.05.2022,87724,33.0,4.58,Electricity,Summer tires,1,0,1,Normal,13.9,0,0,42.0,1.200000000000001,15°C. Reichweite 80% = 114km
+Volkswagen,Golf,2016,e-Golf,85,04.05.2022,87691,38.0,4.56,Electricity,Summer tires,1,0,1,Normal,12.0,0,0,42.0,-0.6999999999999993,17.5°C. Reichweite 80% = 126km
+Volkswagen,Golf,2016,e-Golf,85,03.05.2022,87653,56.0,6.83,Electricity,Summer tires,1,0,1,Normal,12.2,0,0,45.0,-0.5,13°C. Reichweite 80% = 127km
+Volkswagen,Golf,2016,e-Golf,85,01.05.2022,87597,43.0,4.9,Electricity,Summer tires,1,0,1,Normal,11.4,0,0,42.0,-1.299999999999999,11.5°C. Reichweite 80% = 128km
+Volkswagen,Golf,2016,e-Golf,85,29.04.2022,87554,43.0,5.29,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,43.0,-0.3999999999999986,17.5°C. Reichweite 80% = 129km
+Volkswagen,Golf,2016,e-Golf,85,27.04.2022,87511,88.0,12.5,Electricity,Summer tires,1,0,1,Normal,14.2,0,0,44.0,1.5,16°C. Reichweite 100% = 138km
+Volkswagen,Golf,2016,e-Golf,85,26.04.2022,87423,24.0,3.62,Electricity,Summer tires,1,0,1,Normal,15.1,0,0,47.0,2.4000000000000004,9°C
+Volkswagen,Golf,2016,e-Golf,85,25.04.2022,87399,58.0,8.99,Electricity,Summer tires,1,0,1,Normal,15.5,0,0,42.0,2.8000000000000007,9.5°C. Reichweite 80% = 105km
+Volkswagen,Golf,2016,e-Golf,85,24.04.2022,87341,20.0,2.2,Electricity,Summer tires,1,0,1,Normal,11.0,0,0,39.0,-1.6999999999999993,12.0°C. Reichweite 80% = 138km
+Volkswagen,Golf,2016,e-Golf,85,22.04.2022,87321,61.0,7.44,Electricity,Summer tires,1,0,1,Normal,12.2,0,0,45.0,-0.5,19.5°C. Reichweite 80% = 129km
+Volkswagen,Golf,2016,e-Golf,85,21.04.2022,87260,65.0,8.19,Electricity,Summer tires,1,0,1,Normal,12.6,0,0,44.0,-0.09999999999999964,19°C. Reichweite 80% = 111km
+Volkswagen,Golf,2016,e-Golf,85,19.04.2022,87195,38.0,4.56,Electricity,Summer tires,1,0,1,Normal,12.0,0,0,42.0,-0.6999999999999993,20.5°C. Reichweite 80% = 126km
+Volkswagen,Golf,2016,e-Golf,85,18.04.2022,87157,25.0,2.77,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,40.0,-1.5999999999999996,15°C. Reichweite 80% = 131km
+Volkswagen,Golf,2016,e-Golf,85,16.04.2022,87132,50.0,6.05,Electricity,Summer tires,1,1,1,Normal,12.1,0,0,63.0,-0.5999999999999996,13.5°C. 
+Volkswagen,Golf,2016,e-Golf,85,16.04.2022,87082,72.0,10.58,Electricity,Summer tires,1,1,1,Normal,14.7,0,0,79.0,2.0,CCS GO Fast Oftringen
+Volkswagen,Golf,2016,e-Golf,85,15.04.2022,87010,123.0,15.99,Electricity,Summer tires,1,1,1,Normal,13.0,0,0,69.0,0.3000000000000007,CCS Grauholz 
+Volkswagen,Golf,2016,e-Golf,85,14.04.2022,86887,41.0,4.67,Electricity,Summer tires,1,0,1,Normal,11.4,0,0,41.0,-1.299999999999999,21°C. Reichweite 80% = 133km
+Volkswagen,Golf,2016,e-Golf,85,13.04.2022,86846,26.0,2.78,Electricity,Winter tires,1,0,1,Normal,10.7,0,0,39.0,-2.0,20.5°C. Reichweite 80% = 132km
+Volkswagen,Golf,2016,e-Golf,85,12.04.2022,86820,135.0,17.2,Electricity,Winter tires,1,1,1,Normal,12.74,0,0,44.0,0.040000000000000924,15.0°C. Reichweite 100% = 149km
+Volkswagen,Golf,2016,e-Golf,85,11.04.2022,86685,38.0,5.51,Electricity,Winter tires,1,0,1,Normal,14.5,0,0,49.0,1.8000000000000007,13.0°C. Reichweite 80% = 115km
+Volkswagen,Golf,2016,e-Golf,85,10.04.2022,86647,31.0,3.99,Electricity,Winter tires,1,0,1,Normal,12.9,0,0,49.0,0.20000000000000107,10.5°C. Reichweite 80% = 115km
+Volkswagen,Golf,2016,e-Golf,85,09.04.2022,86616,59.0,8.73,Electricity,Winter tires,1,0,1,Normal,14.8,0,0,37.0,2.1000000000000014,9.5°C. Reichweite 90% = 126km
+Volkswagen,Golf,2016,e-Golf,85,07.04.2022,86557,55.0,6.71,Electricity,Winter tires,1,0,1,Normal,12.2,0,0,43.0,-0.5,9.5°C. Reichweite 80% = 123km
+Volkswagen,Golf,2016,e-Golf,85,06.04.2022,86502,33.0,4.62,Electricity,Winter tires,1,0,1,Normal,14.0,0,0,41.0,1.3000000000000007,14°C. Reichweite 80% = 119km
+Volkswagen,Golf,2016,e-Golf,85,05.04.2022,86469,44.0,4.57,Electricity,Winter tires,1,1,1,Normal,10.4,0,0,45.0,-2.299999999999999,12.5°C. Reichweite 100% = 172km
+Volkswagen,Golf,2016,e-Golf,85,05.04.2022,86425,91.0,11.73,Electricity,Winter tires,1,1,1,Normal,12.9,0,0,44.0,0.20000000000000107,CCS Würenlos
+Volkswagen,Golf,2016,e-Golf,85,04.04.2022,86334,25.0,2.6,Electricity,Winter tires,1,0,1,Normal,10.4,0,0,44.0,-2.299999999999999,9°C. Strecke Flussabwärts. Reichweite 100% = 172km
+Volkswagen,Golf,2016,e-Golf,85,04.04.2022,86309,37.0,6.92,Electricity,Winter tires,1,0,1,Normal,18.7,0,0,44.0,6.0,Kostenlos bei Amag während Wartung
+Volkswagen,Golf,2016,e-Golf,85,02.04.2022,86272,43.0,7.27,Electricity,Winter tires,1,0,1,Normal,16.9,0,0,46.0,4.199999999999999,1.5°C. Reichweite 80% = 94km
+Volkswagen,Golf,2016,e-Golf,85,01.04.2022,86229,42.0,8.32,Electricity,Winter tires,1,0,1,Normal,19.8,0,0,41.0,7.100000000000001,1.5°C. Reichweite 80% = 79km
+Volkswagen,Golf,2016,e-Golf,85,31.03.2022,86187,19.0,3.15,Electricity,Winter tires,1,0,1,Normal,16.6,0,0,34.0,3.900000000000002,8.5°C. Reichweite 80% = 108km
+Volkswagen,Golf,2016,e-Golf,85,30.03.2022,86168,93.0,14.13,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,43.0,2.5,12°C. Reichweite 100% = 116km
+Volkswagen,Golf,2016,e-Golf,85,29.03.2022,86075,101.0,12.52,Electricity,Winter tires,1,0,1,Normal,12.4,0,0,45.0,-0.29999999999999893,16°C. Reichweite 100% = 160km
+Volkswagen,Golf,2016,e-Golf,85,28.03.2022,85974,22.0,3.21,Electricity,Winter tires,1,0,1,Normal,14.6,0,0,44.0,1.9000000000000004,15.5°C. Reichweite 80% = 108km
+Volkswagen,Golf,2016,e-Golf,85,26.03.2022,85952,122.0,15.86,Electricity,Winter tires,1,1,1,Normal,13.0,0,0,67.0,0.3000000000000007,11.5°C. Reichweite 100% = 139km
+Volkswagen,Golf,2016,e-Golf,85,25.03.2022,85830,34.0,4.59,Electricity,Winter tires,1,0,1,Normal,13.5,0,0,42.0,0.8000000000000007,15°C. Reichweite 80% = 116km
+Volkswagen,Golf,2016,e-Golf,85,24.03.2022,85796,37.0,5.03,Electricity,Winter tires,1,0,1,Normal,13.6,0,0,47.0,0.9000000000000004,12.5°C. Reichweite 80% = 119km
+Volkswagen,Golf,2016,e-Golf,85,23.03.2022,85759,82.0,11.64,Electricity,Winter tires,1,0,1,Normal,14.2,0,0,40.0,1.5,"15°C, morgens -1°C. Reichweite 100% = 147km"
+Volkswagen,Golf,2016,e-Golf,85,22.03.2022,85677,30.0,4.35,Electricity,Winter tires,1,0,1,Normal,14.5,0,0,49.0,1.8000000000000007,11°C. Reichweite 80% = 113km
+Volkswagen,Golf,2016,e-Golf,85,21.03.2022,85647,25.0,3.82,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,47.0,2.6000000000000014,13.5°C. Reichweite 80% = 110km
+Volkswagen,Golf,2016,e-Golf,85,20.03.2022,85622,112.0,14.11,Electricity,Winter tires,1,1,1,Normal,12.6,0,0,70.0,-0.09999999999999964,17°C. Reichweite 100% = 142km
+Volkswagen,Golf,2016,e-Golf,85,19.03.2022,85510,58.0,7.07,Electricity,Winter tires,1,0,1,Normal,12.2,0,0,43.0,-0.5,11°C. Reichweite 80% = 129km
+Volkswagen,Golf,2016,e-Golf,85,17.03.2022,85452,66.0,8.31,Electricity,Winter tires,1,0,1,Normal,12.6,0,0,46.0,-0.09999999999999964,15.5°C. Reichweite 80% = 107km
+Volkswagen,Golf,2016,e-Golf,85,15.03.2022,85386,63.0,9.07,Electricity,Winter tires,1,0,1,Normal,14.4,0,0,46.0,1.700000000000001,6°C. Reichweite 80% = 98km
+Volkswagen,Golf,2016,e-Golf,85,13.03.2022,85323,23.0,2.46,Electricity,Winter tires,1,0,1,Normal,10.7,0,0,49.0,-2.0,15°C.
+Volkswagen,Golf,2016,e-Golf,85,12.03.2022,85300,87.0,11.04,Electricity,Winter tires,1,0,1,Normal,12.7,0,0,45.0,0.0,11°C.
+Volkswagen,Golf,2016,e-Golf,85,10.03.2022,85213,14.0,3.15,Electricity,Winter tires,1,0,1,Normal,22.5,0,0,38.0,9.8,2.5°C. Reichweite 80% = 92km
+Volkswagen,Golf,2016,e-Golf,85,09.03.2022,85199,39.0,3.97,Electricity,Winter tires,1,1,1,Normal,10.2,0,0,44.0,-2.5,7.5°C. Reichweite 80% = 137km Strecke leicht abwärts.
+Volkswagen,Golf,2016,e-Golf,85,09.03.2022,85160,103.0,15.66,Electricity,Winter tires,1,1,1,Normal,15.2,0,0,50.0,2.5,CCS Würenlos
+Volkswagen,Golf,2016,e-Golf,85,08.03.2022,85057,35.0,5.21,Electricity,Winter tires,1,0,1,Normal,14.9,0,0,38.0,2.200000000000001,6.5°C. Reichweite 80% = 111km
+Volkswagen,Golf,2016,e-Golf,85,07.03.2022,85022,32.0,4.54,Electricity,Winter tires,1,0,1,Normal,14.2,0,0,43.0,1.5,7.5°C. Reichweite 80% = 112km
+Volkswagen,Golf,2016,e-Golf,85,06.03.2022,84990,16.0,2.48,Electricity,Winter tires,1,0,1,Normal,15.5,0,0,43.0,2.8000000000000007,3.5°C. Reichweite 80% = 120km
+Volkswagen,Golf,2016,e-Golf,85,05.03.2022,84974,21.0,3.63,Electricity,Winter tires,1,0,1,Normal,17.3,0,0,30.0,4.600000000000001,1.5°C. Reichweite 80% = 96km
+Volkswagen,Golf,2016,e-Golf,85,04.03.2022,84953,46.0,7.03,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,42.0,2.6000000000000014,8.5°C. Reichweite 80% = 108km
+Volkswagen,Golf,2016,e-Golf,85,03.03.2022,84907,38.0,5.73,Electricity,Winter tires,1,0,1,Normal,15.1,0,0,49.0,2.4000000000000004,5.0°C. Reichweite 80% = 106km
+Volkswagen,Golf,2016,e-Golf,85,02.03.2022,84869,58.0,7.71,Electricity,Winter tires,1,0,1,Normal,13.3,0,0,44.0,0.6000000000000014,8°C. Reichweite 80% = 117km
+Volkswagen,Golf,2016,e-Golf,85,01.03.2022,84811,26.0,4.99,Electricity,Winter tires,1,0,1,Normal,19.2,0,0,43.0,6.5,7.5°C. Reichweite 80% = 92km
+Volkswagen,Golf,2016,e-Golf,85,28.02.2022,84785,22.0,3.58,Electricity,Winter tires,1,0,1,Normal,16.3,0,0,41.0,3.6000000000000014,5°C. Reichweite 80% = 95km
+Volkswagen,Golf,2016,e-Golf,85,27.02.2022,84763,29.0,3.56,Electricity,Winter tires,1,0,1,Normal,12.3,0,0,48.0,-0.3999999999999986,7°C. Reichweite 80% = 128km
+Volkswagen,Golf,2016,e-Golf,85,26.02.2022,84734,83.0,10.7,Electricity,Winter tires,1,0,1,Normal,12.9,0,0,44.0,0.20000000000000107,7°C. Reichweite 80% = 109km
+Volkswagen,Golf,2016,e-Golf,85,25.02.2022,84651,23.0,3.88,Electricity,Winter tires,1,0,1,Normal,16.9,0,0,42.0,4.199999999999999,7.5°. Reichweite 80% = 96km
+Volkswagen,Golf,2016,e-Golf,85,24.02.2022,84628,20.0,4.02,Electricity,Winter tires,1,0,1,Normal,20.1,0,0,46.0,7.400000000000002,3°C. Reichweite 80% = 91km
+Volkswagen,Golf,2016,e-Golf,85,23.02.2022,84608,30.0,3.51,Electricity,Winter tires,1,0,1,Normal,11.7,0,0,42.0,-1.0,9.5°C. Reichweite 80% = 119km
+Volkswagen,Golf,2016,e-Golf,85,22.02.2022,84578,31.0,5.51,Electricity,Winter tires,1,0,1,Normal,17.8,0,0,43.0,5.100000000000001,7°C. Reichweite 80% = 97km
+Volkswagen,Golf,2016,e-Golf,85,21.02.2022,84547,43.0,6.66,Electricity,Winter tires,1,0,1,Normal,15.5,0,0,48.0,2.8000000000000007,3.5°C. Reichweite 80% = 104km
+Volkswagen,Golf,2016,e-Golf,85,20.02.2022,84504,16.0,1.9,Electricity,Winter tires,1,0,1,Normal,11.9,0,0,45.0,-0.7999999999999989,7.5°C. Rechweite 80% = 123km
+Volkswagen,Golf,2016,e-Golf,85,19.02.2022,84488,37.0,4.51,Electricity,Winter tires,1,0,1,Normal,12.2,0,0,41.0,-0.5,7.0°C. Reichweite 80% = 120km
+Volkswagen,Golf,2016,e-Golf,85,18.02.2022,84451,35.0,4.2,Electricity,Winter tires,1,0,1,Normal,12.0,0,0,45.0,-0.6999999999999993,12.5°C. Reichweite 80% = 119km
+Volkswagen,Golf,2016,e-Golf,85,17.02.2022,84416,15.0,2.09,Electricity,Winter tires,1,0,1,Normal,13.9,0,0,38.0,1.200000000000001,9.5°C. Reichweite 80% = 101km
+Volkswagen,Golf,2016,e-Golf,85,16.02.2022,84401,36.0,6.66,Electricity,Winter tires,1,0,1,Normal,18.5,0,0,45.0,5.800000000000001,7.0°C. Reichweite 80% = 88km
+Volkswagen,Golf,2016,e-Golf,85,15.02.2022,84365,35.0,6.51,Electricity,Winter tires,1,0,1,Normal,18.6,0,0,44.0,5.900000000000002,0.5°C. Reichweite 80% = 89km
+Volkswagen,Golf,2016,e-Golf,85,14.02.2022,84330,43.0,7.22,Electricity,Winter tires,1,1,1,Normal,16.8,0,0,43.0,4.100000000000001,3.5°C. Reichweite 80% = 101km
+Volkswagen,Golf,2016,e-Golf,85,14.02.2022,84287,109.0,16.45,Electricity,Winter tires,1,1,1,Normal,15.1,0,0,52.0,2.4000000000000004,2°C. CCS Würenlos. Reichweite 100% = 122km
+Volkswagen,Golf,2016,e-Golf,85,13.02.2022,84178,19.0,2.85,Electricity,Winter tires,1,0,1,Normal,15.0,0,0,38.0,2.3000000000000007,5°C. Reichweite 80% = 107km
+Volkswagen,Golf,2016,e-Golf,85,12.02.2022,84159,55.0,8.41,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,43.0,2.6000000000000014,4°C. Reichweite 80% = 111km
+Volkswagen,Golf,2016,e-Golf,85,11.02.2022,84104,40.0,6.52,Electricity,Winter tires,1,0,1,Normal,16.3,0,0,50.0,3.6000000000000014,1.5°C. Reichweite 80% = 94km
+Volkswagen,Golf,2016,e-Golf,85,10.02.2022,84064,39.0,4.79,Electricity,Winter tires,1,0,1,Normal,12.3,0,0,43.0,-0.3999999999999986,8°C. Reichweite 80% = 115km
+Volkswagen,Golf,2016,e-Golf,85,10.02.2022,84025,37.0,3.99,Electricity,Winter tires,1,1,1,Normal,10.8,0,0,56.0,-1.8999999999999986,11.0°C. Strecke hatte leichtes Gefälle.
+Volkswagen,Golf,2016,e-Golf,85,10.02.2022,83988,68.0,11.08,Electricity,Winter tires,1,1,1,Normal,16.3,0,0,50.0,3.6000000000000014,3.0°C. Reichweite 100% = 114km
+Volkswagen,Golf,2016,e-Golf,85,09.02.2022,83920,44.0,7.08,Electricity,Winter tires,1,0,1,Normal,16.1,0,0,42.0,3.400000000000002,3°C. Reichweite 80% = 94km
+Volkswagen,Golf,2016,e-Golf,85,08.02.2022,83876,26.0,4.11,Electricity,Winter tires,1,0,1,Normal,15.8,0,0,40.0,3.1000000000000014,7.0°C. Reichweite 80% = 102km
+Volkswagen,Golf,2016,e-Golf,85,07.02.2022,83850,35.0,5.53,Electricity,Winter tires,1,0,1,Normal,15.8,0,0,43.0,3.1000000000000014,4.0°C. Reichweite 80% = 97km
+Volkswagen,Golf,2016,e-Golf,85,05.02.2022,83815,32.0,4.54,Electricity,Winter tires,1,0,1,Normal,14.2,0,0,42.0,1.5,4.5°C. Reichweite 80% = 108km
+Volkswagen,Golf,2016,e-Golf,85,03.02.2022,83783,65.0,8.97,Electricity,Winter tires,1,0,1,Normal,13.8,0,0,43.0,1.1000000000000014,6.0°C. Reichweite 80% = 98km
+Volkswagen,Golf,2016,e-Golf,85,02.02.2022,83718,43.0,6.54,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,42.0,2.5,7.0°C. Reichweite 80% = 99km
+Volkswagen,Golf,2016,e-Golf,85,01.02.2022,83675,21.0,4.41,Electricity,Winter tires,1,0,1,Normal,21.0,0,0,42.0,8.3,0.5°C. Reichweite 80% = 80km
+Volkswagen,Golf,2016,e-Golf,85,31.01.2022,83654,22.0,3.72,Electricity,Winter tires,1,0,1,Normal,16.9,0,0,48.0,4.199999999999999,3.0°C. Reichweite 80% = 93km
+Volkswagen,Golf,2016,e-Golf,85,29.01.2022,83632,26.0,3.9,Electricity,Winter tires,1,0,1,Normal,15.0,0,0,54.0,2.3000000000000007,6.0°C
+Volkswagen,Golf,2016,e-Golf,85,29.01.2022,83606,63.0,9.57,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,45.0,2.5,2.5°C.
+Volkswagen,Golf,2016,e-Golf,85,27.01.2022,83543,86.0,13.67,Electricity,Winter tires,1,0,1,Normal,15.9,0,0,51.0,3.200000000000001,0°C. Reichweite 100% = 114km
+Volkswagen,Golf,2016,e-Golf,85,26.01.2022,83457,35.0,7.1,Electricity,Winter tires,1,0,1,Normal,20.3,0,0,44.0,7.600000000000001,3°C. Reichweite 80% = 78km
+Volkswagen,Golf,2016,e-Golf,85,25.01.2022,83422,26.0,5.38,Electricity,Winter tires,1,0,1,Normal,20.7,0,0,44.0,8.0,2°C. Reichweite 80% = 82km
+Volkswagen,Golf,2016,e-Golf,85,24.01.2022,83396,20.0,4.08,Electricity,Winter tires,1,0,1,Normal,20.4,0,0,47.0,7.699999999999999,0°C. Reichweite 80% = 83km
+Volkswagen,Golf,2016,e-Golf,85,23.01.2022,83376,13.0,2.89,Electricity,Winter tires,1,0,1,Normal,22.3,0,0,36.0,9.600000000000001,2°C. Reichweite 80% = 89km
+Volkswagen,Golf,2016,e-Golf,85,21.01.2022,83363,60.0,10.38,Electricity,Winter tires,1,0,1,Normal,17.3,0,0,42.0,4.600000000000001,0.5°C. Reichweite 80% = 83km
+Volkswagen,Golf,2016,e-Golf,85,20.01.2022,83303,34.0,6.08,Electricity,Winter tires,1,0,1,Normal,17.9,0,0,44.0,5.199999999999999,2.5°C. Reichweite 80% = 93km
+Volkswagen,Golf,2016,e-Golf,85,19.01.2022,83269,24.0,4.22,Electricity,Winter tires,1,0,1,Normal,17.6,0,0,41.0,4.900000000000002,3.5°C. Reichweite 80% = 91km
+Volkswagen,Golf,2016,e-Golf,85,18.01.2022,83245,27.0,5.4,Electricity,Winter tires,1,0,1,Normal,20.0,0,0,44.0,7.300000000000001,4.5°C. Reichweite 80% = 82km
+Volkswagen,Golf,2016,e-Golf,85,17.01.2022,83218,27.0,5.31,Electricity,Winter tires,1,0,1,Normal,19.7,0,0,47.0,7.0,2.0°C. Reichweite 80% = 82km
+Volkswagen,Golf,2016,e-Golf,85,14.01.2022,83191,24.0,4.56,Electricity,Winter tires,1,0,1,Normal,19.0,0,0,43.0,6.300000000000001,-1°C. Reichweite 80% = 87km
+Volkswagen,Golf,2016,e-Golf,85,13.01.2022,83167,24.0,4.77,Electricity,Winter tires,1,0,1,Normal,19.9,0,0,40.0,7.199999999999999,-2°C. Reichweite 80% = 84km
+Volkswagen,Golf,2016,e-Golf,85,12.01.2022,83143,23.0,4.96,Electricity,Winter tires,1,0,1,Normal,21.6,0,0,43.0,8.900000000000002,-1.0°C. Reichweite 80% = 79km
+Volkswagen,Golf,2016,e-Golf,85,11.01.2022,83120,27.0,5.4,Electricity,Winter tires,1,0,1,Normal,20.0,0,0,43.0,7.300000000000001,3.5°C. Reichweite 80% = 82km
+Volkswagen,Golf,2016,e-Golf,85,10.01.2022,83093,21.0,3.84,Electricity,Winter tires,1,0,1,Normal,18.3,0,0,47.0,5.600000000000001,4°C. Reichweite 80% = 88km
+Volkswagen,Golf,2016,e-Golf,85,09.01.2022,83072,26.0,4.68,Electricity,Winter tires,1,0,1,Normal,18.0,0,0,41.0,5.300000000000001,3.5°C. Reichweite 80% = 87km
+Volkswagen,Golf,2016,e-Golf,85,08.01.2022,83046,41.0,7.95,Electricity,Winter tires,1,0,1,Normal,19.4,0,0,40.0,6.699999999999999,2.5°C. Reichweite 80% = 83km
+Volkswagen,Golf,2016,e-Golf,85,06.01.2022,83005,16.0,3.58,Electricity,Winter tires,1,0,1,Normal,22.4,0,0,37.0,9.7,-1.0°C. Reichweite 80% = 88km
+Volkswagen,Golf,2016,e-Golf,85,05.01.2022,82989,30.0,5.04,Electricity,Winter tires,1,0,1,Normal,16.8,0,0,42.0,4.100000000000001,4°C. Reichweite 80% = 102km
+Volkswagen,Golf,2016,e-Golf,85,04.01.2022,82959,36.0,5.25,Electricity,Winter tires,1,0,1,Normal,14.6,0,0,45.0,1.9000000000000004,8.5°C. Reichweite 80% = 102km
+Volkswagen,Golf,2016,e-Golf,85,03.01.2022,82923,21.0,3.67,Electricity,Winter tires,1,0,1,Normal,17.5,0,0,44.0,4.800000000000001,7.5°C. Reichweite 80% = 95km
+Volkswagen,Golf,2016,e-Golf,85,02.01.2022,82902,25.0,4.45,Electricity,Winter tires,1,0,1,Normal,17.8,0,0,46.0,5.100000000000001,3°C. Reichweite 80% = 100km
+Volkswagen,Golf,2016,e-Golf,85,01.01.2022,82877,16.0,2.03,Electricity,Winter tires,1,0,1,Normal,12.7,0,0,45.0,0.0,10°C. Reichweite 80% = 124km
+Volkswagen,Golf,2016,e-Golf,85,31.12.2021,82861,101.0,12.52,Electricity,Winter tires,1,0,1,Normal,12.4,0,0,44.0,-0.29999999999999893,10°C. Reichweite 100% = 136km 
+Volkswagen,Golf,2016,e-Golf,85,29.12.2021,82760,20.0,3.46,Electricity,Winter tires,1,0,1,Normal,17.3,0,0,73.0,4.600000000000001,Reichweite 80% = 92km
+Volkswagen,Golf,2016,e-Golf,85,27.12.2021,82740,44.0,7.21,Electricity,Winter tires,1,0,1,Normal,16.4,0,0,45.0,3.6999999999999993,Reichweite 80% = 96km
+Volkswagen,Golf,2016,e-Golf,85,26.12.2021,82696,60.0,8.76,Electricity,Winter tires,1,1,1,Normal,14.6,0,0,66.0,1.9000000000000004,Reichweite 88% = 121km
+Volkswagen,Golf,2016,e-Golf,85,26.12.2021,82636,53.0,8.63,Electricity,Winter tires,0,1,0,Normal,16.3,0,0,98.0,3.6000000000000014,CCS Gunzgen Süd 
+Volkswagen,Golf,2016,e-Golf,85,26.12.2021,82583,63.0,10.26,Electricity,Winter tires,1,1,1,Normal,16.3,0,0,40.0,3.6000000000000014,CCS Grauholz Strom ohne Karte! Viel Stau.
+Volkswagen,Golf,2016,e-Golf,85,26.12.2021,82520,60.0,9.24,Electricity,Winter tires,1,1,1,Normal,15.4,0,0,67.0,2.700000000000001,CCS Gunzgen Nord
+Volkswagen,Golf,2016,e-Golf,85,24.12.2021,82460,92.0,15.54,Electricity,Winter tires,1,0,1,Normal,16.9,0,0,42.0,4.199999999999999,Reichweite 100% = 106km
+Volkswagen,Golf,2016,e-Golf,85,23.12.2021,82368,31.0,5.64,Electricity,Winter tires,1,0,1,Normal,18.2,0,0,42.0,5.5,Reichweite 80% = 86km
+Volkswagen,Golf,2016,e-Golf,85,22.12.2021,82337,22.0,4.53,Electricity,Winter tires,1,0,1,Normal,20.6,0,0,42.0,7.900000000000002,Reichweite 80% = 79km
+Volkswagen,Golf,2016,e-Golf,85,21.12.2021,82315,27.0,5.62,Electricity,Winter tires,1,0,1,Normal,20.8,0,0,44.0,8.100000000000001,Reichweite 80% = 77km
+Volkswagen,Golf,2016,e-Golf,85,20.12.2021,82288,30.0,6.03,Electricity,Winter tires,1,0,1,Normal,20.1,0,0,49.0,7.400000000000002,Reichweite 80% = 81km
+Volkswagen,Golf,2016,e-Golf,85,18.12.2021,82258,70.0,11.41,Electricity,Winter tires,1,0,1,Normal,16.3,0,0,41.0,3.6000000000000014,
+Volkswagen,Golf,2016,e-Golf,85,15.12.2021,82188,71.0,11.86,Electricity,Winter tires,1,0,1,Normal,16.7,0,0,37.0,4.0,Reichweite 100% = 120km
+Volkswagen,Golf,2016,e-Golf,85,14.12.2021,82117,51.0,8.61,Electricity,Winter tires,1,1,1,Normal,16.9,0,0,44.0,4.199999999999999,Reichweite 86% = 105km
+Volkswagen,Golf,2016,e-Golf,85,14.12.2021,82066,39.0,7.64,Electricity,Winter tires,1,1,1,Normal,19.6,0,0,48.0,6.900000000000002,CCS Würenlos
+Volkswagen,Golf,2016,e-Golf,85,13.12.2021,82027,19.0,3.91,Electricity,Winter tires,1,0,1,Normal,20.6,0,0,41.0,7.900000000000002,
+Volkswagen,Golf,2016,e-Golf,85,11.12.2021,82008,44.0,7.17,Electricity,Winter tires,1,0,1,Normal,16.3,0,0,46.0,3.6000000000000014,Reichweite 80% = 101km
+Volkswagen,Golf,2016,e-Golf,85,11.12.2021,81964,23.0,4.07,Electricity,Winter tires,1,0,1,Normal,17.7,0,0,42.0,5.0,Reichweite 80% = 94km
+Volkswagen,Golf,2016,e-Golf,85,10.12.2021,81941,22.0,3.87,Electricity,Winter tires,1,0,1,Normal,17.6,0,0,43.0,4.900000000000002,Reichweite 80% = 97km
+Volkswagen,Golf,2016,e-Golf,85,10.12.2021,81919,33.0,6.3,Electricity,Winter tires,1,0,1,Normal,19.1,0,0,44.0,6.400000000000002,Reichweite 80% = 80km
+Volkswagen,Golf,2016,e-Golf,85,09.12.2021,81886,46.0,7.72,Electricity,Winter tires,1,0,1,Normal,16.8,0,0,41.0,4.100000000000001,Reichweite 100% = 115km
+Volkswagen,Golf,2016,e-Golf,85,08.12.2021,81840,33.0,5.87,Electricity,Winter tires,1,0,1,Normal,17.8,0,0,45.0,5.100000000000001,Reichweite 80% = 88km
+Volkswagen,Golf,2016,e-Golf,85,07.12.2021,81807,59.0,10.44,Electricity,Winter tires,1,0,1,Normal,17.7,0,0,43.0,5.0,Reichweite 80% = 76km
+Volkswagen,Golf,2016,e-Golf,85,06.12.2021,81748,72.0,12.6,Electricity,Winter tires,1,0,1,Normal,17.5,0,0,43.0,4.800000000000001,Reichweite 100% = 118km
+Volkswagen,Golf,2016,e-Golf,85,05.12.2021,81676,27.0,4.56,Electricity,Winter tires,1,1,1,Normal,16.9,0,0,63.0,4.199999999999999,
+Volkswagen,Golf,2016,e-Golf,85,04.12.2021,81649,92.0,14.26,Electricity,Winter tires,1,1,1,Normal,15.5,0,0,77.0,2.8000000000000007,CCS Mumpf-Süd
+Volkswagen,Golf,2016,e-Golf,85,04.12.2021,81557,35.0,6.16,Electricity,Winter tires,1,0,1,Normal,17.6,0,0,46.0,4.900000000000002,Reichweite 100% = 129km
+Volkswagen,Golf,2016,e-Golf,85,03.12.2021,81522,22.0,3.82,Electricity,Winter tires,1,0,1,Normal,17.4,0,0,44.0,4.699999999999999,Reichweite 80% = 97km
+Volkswagen,Golf,2016,e-Golf,85,02.12.2021,81500,48.0,8.68,Electricity,Winter tires,1,0,1,Normal,18.1,0,0,36.0,5.400000000000002,Reichweite 100% = 119km
+Volkswagen,Golf,2016,e-Golf,85,02.12.2021,81452,20.0,3.84,Electricity,Winter tires,1,0,1,Normal,19.2,0,0,39.0,6.5,
+Volkswagen,Golf,2016,e-Golf,85,01.12.2021,81432,11.0,2.57,Electricity,Winter tires,1,0,1,Normal,23.4,0,0,29.0,10.7,
+Volkswagen,Golf,2016,e-Golf,85,01.12.2021,81421,33.0,6.86,Electricity,Winter tires,1,0,1,Normal,20.8,0,0,40.0,8.100000000000001,Reichweite 80% = 77km
+Volkswagen,Golf,2016,e-Golf,85,30.11.2021,81388,23.0,5.1,Electricity,Winter tires,1,0,1,Normal,22.2,0,0,43.0,9.5,Reichweite 80% = 75km
+Volkswagen,Golf,2016,e-Golf,85,29.11.2021,81365,33.0,6.73,Electricity,Winter tires,1,0,1,Normal,20.4,0,0,46.0,7.699999999999999,Reichweite 80% = 77km
+Volkswagen,Golf,2016,e-Golf,85,28.11.2021,81332,37.0,6.81,Electricity,Winter tires,1,0,1,Normal,18.4,0,0,48.0,5.699999999999999,Reichweite 80% = 94km
+Volkswagen,Golf,2016,e-Golf,85,27.11.2021,81295,59.0,9.55,Electricity,Winter tires,1,0,1,Normal,16.2,0,0,45.0,3.5,
+Volkswagen,Golf,2016,e-Golf,85,26.11.2021,81236,48.0,8.59,Electricity,Winter tires,1,0,1,Normal,17.9,0,0,43.0,5.199999999999999,Reichweite 80% = 90km
+Volkswagen,Golf,2016,e-Golf,85,24.11.2021,81188,27.0,5.15,Electricity,Winter tires,1,0,1,Normal,19.1,0,0,46.0,6.400000000000002,Reichweite 80% = 90km
+Volkswagen,Golf,2016,e-Golf,85,23.11.2021,81161,57.0,9.17,Electricity,Winter tires,1,0,1,Normal,16.1,0,0,41.0,3.400000000000002,Reichweite 100% = 131km
+Volkswagen,Golf,2016,e-Golf,85,22.11.2021,81104,31.0,5.11,Electricity,Winter tires,1,0,1,Normal,16.5,0,0,47.0,3.8000000000000007,Reichweite 80% = 96km
+Volkswagen,Golf,2016,e-Golf,85,21.11.2021,81073,17.0,3.09,Electricity,Winter tires,1,0,1,Normal,18.2,0,0,39.0,5.5,Reichweite 80% = 92km
+Volkswagen,Golf,2016,e-Golf,85,19.11.2021,81056,32.0,5.53,Electricity,Winter tires,1,0,1,Normal,17.3,0,0,44.0,4.600000000000001,Reichweite 80% = 93km
+Volkswagen,Golf,2016,e-Golf,85,18.11.2021,81024,77.0,11.7,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,42.0,2.5,Reichweite 100% = 138km
+Volkswagen,Golf,2016,e-Golf,85,15.11.2021,80947,64.0,8.7,Electricity,Winter tires,1,0,1,Normal,13.6,0,0,45.0,0.9000000000000004,Reichweite 80% = 101km
+Volkswagen,Golf,2016,e-Golf,85,14.11.2021,80883,30.0,5.4,Electricity,Winter tires,1,0,1,Normal,18.0,0,0,46.0,5.300000000000001,Reichweite 80% = 93km
+Volkswagen,Golf,2016,e-Golf,85,11.11.2021,80853,26.0,5.4,Electricity,Winter tires,1,0,1,Normal,20.8,0,0,41.0,8.100000000000001,Reichweite 80% = 83km
+Volkswagen,Golf,2016,e-Golf,85,10.11.2021,80827,24.0,3.86,Electricity,Winter tires,1,0,1,Normal,16.1,0,0,41.0,3.400000000000002,Reichweite 80% = 96km
+Volkswagen,Golf,2016,e-Golf,85,09.11.2021,80803,36.0,7.16,Electricity,Winter tires,1,0,1,Normal,19.9,0,0,45.0,7.199999999999999,Reichweite 80% = 79km
+Volkswagen,Golf,2016,e-Golf,85,08.11.2021,80767,33.0,5.94,Electricity,Winter tires,1,0,1,Normal,18.0,0,0,44.0,5.300000000000001,Reichweite 80% = 94km
+Volkswagen,Golf,2016,e-Golf,85,07.11.2021,80734,41.0,4.8,Electricity,Winter tires,1,0,1,Normal,11.7,0,0,45.0,-1.0,Reichweite 80% = 124km
+Volkswagen,Golf,2016,e-Golf,85,05.11.2021,80693,42.0,7.85,Electricity,Winter tires,1,0,1,Normal,18.7,0,0,37.0,6.0,Reichweite 80% = 94km
+Volkswagen,Golf,2016,e-Golf,85,04.11.2021,80651,56.0,9.58,Electricity,Winter tires,1,0,1,Normal,17.1,0,0,42.0,4.400000000000002,Reichweite 80% = 81km
+Volkswagen,Golf,2016,e-Golf,85,03.11.2021,80595,46.0,8.69,Electricity,Winter tires,1,0,1,Normal,18.9,0,0,41.0,6.199999999999999,Reichweite 100% = 115km
+Volkswagen,Golf,2016,e-Golf,85,02.11.2021,80549,48.0,7.3,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,45.0,2.5,Reichweite 80% = 106km
+Volkswagen,Golf,2016,e-Golf,85,31.10.2021,80501,92.0,12.88,Electricity,Winter tires,1,1,1,Normal,14.0,0,0,66.0,1.3000000000000007,Reichweite 100% = 136km
+Volkswagen,Golf,2016,e-Golf,85,30.10.2021,80409,36.0,6.41,Electricity,Winter tires,1,0,1,Normal,17.8,0,0,39.0,5.100000000000001,Reichweite 80% = 102km
+Volkswagen,Golf,2016,e-Golf,85,28.10.2021,80373,11.0,1.89,Electricity,Winter tires,1,0,1,Normal,17.2,0,0,42.0,4.5,
+Volkswagen,Golf,2016,e-Golf,85,27.10.2021,80362,82.0,12.38,Electricity,Winter tires,1,0,1,Normal,15.1,0,0,42.0,2.4000000000000004,Reichweite 100% = 135km
+Volkswagen,Golf,2016,e-Golf,85,26.10.2021,80280,45.0,7.52,Electricity,Winter tires,1,0,1,Normal,16.7,0,0,48.0,4.0,Reichweite 80% = 98km
+Volkswagen,Golf,2016,e-Golf,85,25.10.2021,80235,42.0,7.14,Electricity,Winter tires,1,0,1,Normal,17.0,0,0,44.0,4.300000000000001,Reichweite 80% = 93km
+Volkswagen,Golf,2016,e-Golf,85,24.10.2021,80193,69.0,9.73,Electricity,Winter tires,1,0,1,Normal,14.1,0,0,42.0,1.4000000000000004,Reichweite 80% = 101km
+Volkswagen,Golf,2016,e-Golf,85,22.10.2021,80124,67.0,7.84,Electricity,Winter tires,1,0,1,Normal,11.7,0,0,48.0,-1.0,Reichweite 80% = 133km
+Volkswagen,Golf,2016,e-Golf,85,21.10.2021,80057,35.0,4.48,Electricity,Winter tires,1,0,1,Normal,12.8,0,0,43.0,0.10000000000000142,Reichweite 80% = 125km
+Volkswagen,Golf,2016,e-Golf,85,20.10.2021,80022,87.0,11.65,Electricity,Winter tires,1,0,1,Normal,13.4,0,0,38.0,0.7000000000000011,Reichweite 100% = 149km
+Volkswagen,Golf,2016,e-Golf,85,18.10.2021,79935,32.0,5.31,Electricity,Winter tires,1,0,1,Normal,16.6,0,0,44.0,3.900000000000002,Reichweite 80% = 106km
+Volkswagen,Golf,2016,e-Golf,85,17.10.2021,79903,78.0,11.31,Electricity,Winter tires,1,0,1,Normal,14.5,0,0,43.0,1.8000000000000007,Reichweite 100% = 138km
+Volkswagen,Golf,2016,e-Golf,85,16.10.2021,79825,11.0,1.49,Electricity,Winter tires,1,0,1,Normal,13.6,0,0,36.0,0.9000000000000004,
+Volkswagen,Golf,2016,e-Golf,85,14.10.2021,79814,74.0,9.32,Electricity,Winter tires,1,0,1,Normal,12.6,0,0,45.0,-0.09999999999999964,Reichweite 80% = Total 113km
+Volkswagen,Golf,2016,e-Golf,85,12.10.2021,79740,61.0,8.29,Electricity,Winter tires,1,0,1,Normal,13.6,0,0,40.0,0.9000000000000004,Reichweite 80% = 109km
+Volkswagen,Golf,2016,e-Golf,85,10.10.2021,79679,91.0,11.01,Electricity,Winter tires,1,0,1,Normal,12.1,0,0,57.0,-0.5999999999999996,Reichweite 100% = 168km
+Volkswagen,Golf,2016,e-Golf,85,09.10.2021,79588,76.0,9.5,Electricity,Winter tires,1,0,1,Normal,12.5,0,0,56.0,-0.1999999999999993,Resichweite 100% = 163km
+Volkswagen,Golf,2016,e-Golf,85,08.10.2021,79512,79.0,9.32,Electricity,Winter tires,1,0,1,Normal,11.8,0,0,41.0,-0.8999999999999986,Reichweite 80% = 113km
+Volkswagen,Golf,2016,e-Golf,85,06.10.2021,79433,60.0,8.28,Electricity,Summer tires,1,0,1,Normal,13.8,0,0,48.0,1.1000000000000014,Reichweite 80% = 115km
+Volkswagen,Golf,2016,e-Golf,85,05.10.2021,79373,81.0,9.15,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,38.0,-1.3999999999999986,Reichweite 80% = 122km
+Volkswagen,Golf,2016,e-Golf,85,01.10.2021,79292,66.0,8.58,Electricity,Summer tires,1,0,1,Normal,13.0,0,0,36.0,0.3000000000000007,Reichweite 80% = 109km
+Volkswagen,Golf,2016,e-Golf,85,29.09.2021,79226,113.0,13.22,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,46.0,-1.0,Reichweite 100% = 164km
+Volkswagen,Golf,2016,e-Golf,85,28.09.2021,79113,38.0,4.71,Electricity,Summer tires,1,0,1,Normal,12.4,0,0,40.0,-0.29999999999999893,Reichweite 100% = 171km
+Volkswagen,Golf,2016,e-Golf,85,27.09.2021,79075,52.0,6.24,Electricity,Summer tires,1,0,1,Normal,12.0,0,0,44.0,-0.6999999999999993,Reichweite 100% = 165km
+Volkswagen,Golf,2016,e-Golf,85,26.09.2021,79023,21.0,2.56,Electricity,Summer tires,1,0,1,Normal,12.2,0,0,41.0,-0.5,Reichweite 80% = 125km
+Volkswagen,Golf,2016,e-Golf,85,25.09.2021,79002,77.0,8.7,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,42.0,-1.3999999999999986,Reichweite 80% = 116km
+Volkswagen,Golf,2016,e-Golf,85,22.09.2021,78925,84.0,9.15,Electricity,Summer tires,1,0,1,Normal,10.9,0,0,41.0,-1.799999999999999,Reichweite 80% = 120km
+Volkswagen,Golf,2016,e-Golf,85,20.09.2021,78841,41.0,4.59,Electricity,Summer tires,1,0,1,Normal,11.2,0,0,41.0,-1.5,Reichweite 80% = 132km
+Volkswagen,Golf,2016,e-Golf,85,18.09.2021,78800,71.0,8.94,Electricity,Summer tires,1,0,1,Normal,12.6,0,0,42.0,-0.09999999999999964,Reichweite 80% = 126km
+Volkswagen,Golf,2016,e-Golf,85,17.09.2021,78729,67.0,7.3,Electricity,Summer tires,1,1,1,Normal,10.9,0,0,56.0,-1.799999999999999,Reichweite 80% = 135km
+Volkswagen,Golf,2016,e-Golf,85,17.09.2021,78662,102.0,12.34,Electricity,Summer tires,1,1,1,Normal,12.1,0,0,46.0,-0.5999999999999996,CCS Rastplatz Oftringen 80%
+Volkswagen,Golf,2016,e-Golf,85,16.09.2021,78560,95.0,10.45,Electricity,Summer tires,1,0,1,Normal,11.0,0,0,44.0,-1.6999999999999993,Reichweite 100% = Total 176km
+Volkswagen,Golf,2016,e-Golf,85,15.09.2021,78465,68.0,8.09,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,47.0,-0.7999999999999989,
+Volkswagen,Golf,2016,e-Golf,85,15.09.2021,78397,79.0,9.63,Electricity,Summer tires,1,0,1,Normal,12.2,0,0,50.0,-0.5,Reichweite 100% = 160km
+Volkswagen,Golf,2016,e-Golf,85,14.09.2021,78318,29.0,3.16,Electricity,Summer tires,1,0,1,Normal,10.9,0,0,43.0,-1.799999999999999,Reichweite 80% = 136km
+Volkswagen,Golf,2016,e-Golf,85,12.09.2021,78289,117.0,13.68,Electricity,Summer tires,1,1,1,Normal,11.7,0,0,57.0,-1.0,Reichweite 100% = 163km
+Volkswagen,Golf,2016,e-Golf,85,11.09.2021,78172,47.0,5.21,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,43.0,-1.5999999999999996,Reichweite 80% = 134km
+Volkswagen,Golf,2016,e-Golf,85,09.09.2021,78125,116.0,13.68,Electricity,Summer tires,1,1,1,Normal,11.8,0,0,52.0,-0.8999999999999986,Reichweite 100% = 154km
+Volkswagen,Golf,2016,e-Golf,85,08.09.2021,78009,84.0,8.82,Electricity,Summer tires,1,0,1,Normal,10.5,0,0,37.0,-2.1999999999999993,Reichweite 100% = 182km
+Volkswagen,Golf,2016,e-Golf,85,07.09.2021,77925,65.0,7.08,Electricity,Summer tires,1,0,1,Normal,10.9,0,0,42.0,-1.799999999999999,Reichweite 80% = 142km
+Volkswagen,Golf,2016,e-Golf,85,03.09.2021,77860,94.0,10.43,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,42.0,-1.5999999999999996,Reichweite 80% = 121km
+Volkswagen,Golf,2016,e-Golf,85,30.08.2021,77766,113.0,12.43,Electricity,Summer tires,1,0,1,Normal,11.0,0,0,40.0,-1.6999999999999993,Reichweite 100% = 174km
+Volkswagen,Golf,2016,e-Golf,85,29.08.2021,77653,11.0,1.33,Electricity,Summer tires,1,0,1,Normal,12.1,0,0,37.0,-0.5999999999999996,Reichweite 80% = 120km
+Volkswagen,Golf,2016,e-Golf,85,28.08.2021,77642,108.0,14.25,Electricity,Summer tires,1,1,1,Normal,13.2,0,0,63.0,0.5,Reichweite 100% = 136km
+Volkswagen,Golf,2016,e-Golf,85,28.08.2021,77534,24.0,2.61,Electricity,Summer tires,1,0,1,Normal,10.9,0,0,43.0,-1.799999999999999,Reichweite 100% = 179km
+Volkswagen,Golf,2016,e-Golf,85,27.08.2021,77510,43.0,4.98,Electricity,Summer tires,1,0,1,Normal,11.6,0,0,43.0,-1.0999999999999996,Reichweite 80% = 130km
+Volkswagen,Golf,2016,e-Golf,85,26.08.2021,77467,111.0,13.76,Electricity,Summer tires,1,1,1,Normal,12.4,0,0,53.0,-0.29999999999999893,Reichweite 100% = 148km
+Volkswagen,Golf,2016,e-Golf,85,25.08.2021,77356,47.0,5.68,Electricity,Summer tires,1,0,1,Normal,12.1,0,0,46.0,-0.5999999999999996,Reichweite 80% = 131km
+Volkswagen,Golf,2016,e-Golf,85,24.08.2021,77309,46.0,5.1,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,48.0,-1.5999999999999996,Reichweite 80% = 135km
+Volkswagen,Golf,2016,e-Golf,85,23.08.2021,77263,114.0,14.02,Electricity,Summer tires,1,1,1,Normal,12.3,0,0,64.0,-0.3999999999999986,Reichweite 100% = 151km
+Volkswagen,Golf,2016,e-Golf,85,22.08.2021,77149,73.0,8.24,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,43.0,-1.3999999999999986,Reichweite 80% = 133km
+Volkswagen,Golf,2016,e-Golf,85,19.08.2021,77076,119.0,13.56,Electricity,Summer tires,1,1,1,Normal,11.4,0,0,47.0,-1.299999999999999,Reichweite 100% = 161km
+Volkswagen,Golf,2016,e-Golf,85,17.08.2021,76957,22.0,2.7,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,35.0,-0.3999999999999986,Reichweite 80% = 130km
+Volkswagen,Golf,2016,e-Golf,85,16.08.2021,76935,37.0,4.18,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,41.0,-1.3999999999999986,Reichweite 80% = 125km
+Volkswagen,Golf,2016,e-Golf,85,15.08.2021,76898,49.0,5.48,Electricity,Summer tires,1,1,1,Normal,11.2,0,0,60.0,-1.5,Reichweite 80% = 137km
+Volkswagen,Golf,2016,e-Golf,85,15.08.2021,76849,69.0,7.31,Electricity,Summer tires,1,1,1,Normal,10.6,0,0,44.0,-2.0999999999999996,Reichweite 80% = 135km
+Volkswagen,Golf,2016,e-Golf,85,15.08.2021,76780,118.0,15.1,Electricity,Summer tires,1,1,1,Normal,12.8,0,0,58.0,0.10000000000000142,Reichweite 100% = 144km
+Volkswagen,Golf,2016,e-Golf,85,14.08.2021,76662,29.0,3.56,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,42.0,-0.3999999999999986,Reichweite 80% = 127km
+Volkswagen,Golf,2016,e-Golf,85,13.08.2021,76633,130.0,14.66,Electricity,Summer tires,1,0,1,Normal,11.27,0,0,44.0,-1.4299999999999997,Restreichweite 37km = Total 167km
+Volkswagen,Golf,2016,e-Golf,85,10.08.2021,76503,21.0,2.39,Electricity,Summer tires,1,0,1,Normal,11.4,0,0,46.0,-1.299999999999999,Reichweite 80% = 132km
+Volkswagen,Golf,2016,e-Golf,85,09.08.2021,76482,64.0,7.23,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,51.0,-1.3999999999999986,Reichweite 80% = 135km
+Volkswagen,Golf,2016,e-Golf,85,05.08.2021,76418,69.0,8.97,Electricity,Summer tires,1,0,1,Normal,13.0,0,0,43.0,0.3000000000000007,Total 80%: 108km
+Volkswagen,Golf,2016,e-Golf,85,03.08.2021,76349,75.0,9.0,Electricity,Summer tires,1,0,1,Normal,12.0,0,0,45.0,-0.6999999999999993,Reichweite Total bei 80%: 118km
+Volkswagen,Golf,2016,e-Golf,85,29.07.2021,76274,114.0,14.14,Electricity,Summer tires,1,0,1,Normal,12.4,0,0,54.0,-0.29999999999999893,Restreichweite 33km = Total 147km
+Volkswagen,Golf,2016,e-Golf,85,28.07.2021,76160,70.0,8.61,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,45.0,-0.3999999999999986,
+Volkswagen,Golf,2016,e-Golf,85,25.07.2021,76090,30.0,3.81,Electricity,Summer tires,1,0,1,Normal,12.7,0,0,42.0,0.0,
+Volkswagen,Golf,2016,e-Golf,85,02.07.2021,76060,75.0,8.77,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,40.0,-1.0,
+Volkswagen,Golf,2016,e-Golf,85,01.07.2021,75985,118.0,13.8,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,44.0,-1.0,Restreichweite 34km = Total 152km
+Volkswagen,Golf,2016,e-Golf,85,29.06.2021,75867,77.0,9.0,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,41.0,-1.0,
+Volkswagen,Golf,2016,e-Golf,85,28.06.2021,75790,61.0,7.32,Electricity,Summer tires,1,0,1,Normal,12.0,0,0,43.0,-0.6999999999999993,
+Volkswagen,Golf,2016,e-Golf,85,24.06.2021,75729,107.0,11.88,Electricity,Summer tires,1,1,1,Normal,11.1,0,0,44.0,-1.5999999999999996,Restreichweite 65km = Total 172km
+Volkswagen,Golf,2016,e-Golf,85,22.06.2021,75622,21.0,2.41,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,44.0,-1.1999999999999993,Restreichweite 123km = Total (80%)144km
+Volkswagen,Golf,2016,e-Golf,85,21.06.2021,75601,108.0,13.17,Electricity,Summer tires,1,1,1,Normal,12.2,0,0,57.0,-0.5,Restreichweite 47km = Total 155km
+Volkswagen,Golf,2016,e-Golf,85,20.06.2021,75493,76.0,8.89,Electricity,Summer tires,1,1,1,Normal,11.7,0,0,52.0,-1.0,
+Volkswagen,Golf,2016,e-Golf,85,20.06.2021,75417,103.0,12.46,Electricity,Summer tires,1,1,1,Normal,12.1,0,0,63.0,-0.5999999999999996,Restreichweite 65km = Total 168km
+Volkswagen,Golf,2016,e-Golf,85,19.06.2021,75314,78.0,8.97,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,38.0,-1.1999999999999993,Restreichweite 97km = Total 175km
+Volkswagen,Golf,2016,e-Golf,85,17.06.2021,75236,96.0,11.04,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,40.0,-1.1999999999999993,Restreichweite 76km = Total 172km
+Volkswagen,Golf,2016,e-Golf,85,14.06.2021,75140,67.0,7.97,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,45.0,-0.7999999999999989,Restreichweite 100km = Total 167km
+Volkswagen,Golf,2016,e-Golf,85,12.06.2021,75073,96.0,11.42,Electricity,Summer tires,1,1,1,Moderate,11.9,0,0,66.0,-0.7999999999999989,
+Volkswagen,Golf,2016,e-Golf,85,12.06.2021,74977,106.0,12.29,Electricity,Summer tires,1,1,1,Moderate,11.6,0,0,52.0,-1.0999999999999996,CCS St.Katarina Restreichweite 56km = Total 162km
+Volkswagen,Golf,2016,e-Golf,85,11.06.2021,74871,66.0,7.59,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,44.0,-1.1999999999999993,Restreichweite 105km = Total 171km
+Volkswagen,Golf,2016,e-Golf,85,10.06.2021,74805,99.0,11.48,Electricity,Summer tires,1,0,1,Moderate,11.6,0,0,41.0,-1.0999999999999996,Restreichweite 72km = Total 171km
+Volkswagen,Golf,2016,e-Golf,85,08.06.2021,74706,112.0,12.76,Electricity,Summer tires,1,1,1,Moderate,11.4,0,0,40.0,-1.299999999999999,Restreichweite 50km = Total 162km
+Volkswagen,Golf,2016,e-Golf,85,03.06.2021,74594,13.0,1.67,Electricity,Summer tires,1,0,1,Normal,12.9,0,0,39.0,0.20000000000000107,25.5°C
+Volkswagen,Golf,2016,e-Golf,85,02.06.2021,74581,79.0,8.45,Electricity,Summer tires,1,0,1,Moderate,10.7,0,0,43.0,-2.0,18.5°C
+Volkswagen,Golf,2016,e-Golf,85,31.05.2021,74502,114.0,13.79,Electricity,Summer tires,1,1,1,Normal,12.1,0,0,57.0,-0.5999999999999996,Restreichweite 34km = Total 148km
+Volkswagen,Golf,2016,e-Golf,85,30.05.2021,74388,27.0,3.32,Electricity,Summer tires,1,1,1,Moderate,12.3,0,0,63.0,-0.3999999999999986,19°C
+Volkswagen,Golf,2016,e-Golf,85,29.05.2021,74361,116.0,14.38,Electricity,Summer tires,1,1,1,Moderate,12.4,0,0,59.0,-0.29999999999999893,CCS
+Volkswagen,Golf,2016,e-Golf,85,28.05.2021,74245,26.0,3.22,Electricity,Summer tires,1,1,1,Moderate,12.4,0,0,66.0,-0.29999999999999893,18°C
+Volkswagen,Golf,2016,e-Golf,85,28.05.2021,74219,145.0,16.96,Electricity,Summer tires,1,1,1,Moderate,11.7,0,0,55.0,-1.0,CCS Rastplatz Mumpf-Süd 
+Volkswagen,Golf,2016,e-Golf,85,27.05.2021,74074,41.0,4.75,Electricity,Summer tires,1,0,1,Normal,11.6,0,0,44.0,-1.0999999999999996,16.5°C
+Volkswagen,Golf,2016,e-Golf,85,26.05.2021,74033,137.0,16.02,Electricity,Summer tires,1,1,1,Normal,11.7,0,0,39.0,-1.0,Restreichweite 12km = Total 149km
+Volkswagen,Golf,2016,e-Golf,85,25.05.2021,73896,22.0,2.77,Electricity,Summer tires,1,0,1,Moderate,12.6,0,0,29.0,-0.09999999999999964,Restreichweite 146km = Total 168km
+Volkswagen,Golf,2016,e-Golf,85,24.05.2021,73874,61.0,7.14,Electricity,Summer tires,1,0,1,Moderate,11.7,0,0,39.0,-1.0,13.5°C
+Volkswagen,Golf,2016,e-Golf,85,21.05.2021,73813,116.0,15.08,Electricity,Summer tires,1,1,1,Normal,13.0,0,0,30.0,0.3000000000000007,Restreichweite 19km = Total 135km
+Volkswagen,Golf,2016,e-Golf,85,20.05.2021,73697,79.0,8.37,Electricity,Summer tires,1,1,1,Moderate,10.6,0,0,42.0,-2.0999999999999996,16°C
+Volkswagen,Golf,2016,e-Golf,85,20.05.2021,73618,55.0,6.93,Electricity,Summer tires,1,0,1,Moderate,12.6,0,0,36.0,-0.09999999999999964,Gratisladung in Uniklinik Balgrist
+Volkswagen,Golf,2016,e-Golf,85,19.05.2021,73563,69.0,8.83,Electricity,Summer tires,1,0,1,Normal,12.8,0,0,45.0,0.10000000000000142,Restreichweite 92km = Total 161km
+Volkswagen,Golf,2016,e-Golf,85,18.05.2021,73494,69.0,9.59,Electricity,Summer tires,1,0,1,Normal,13.9,0,0,43.0,1.200000000000001,Restreichweite 85km = Total 154km
+Volkswagen,Golf,2016,e-Golf,85,17.05.2021,73425,63.0,8.76,Electricity,Summer tires,1,0,1,Normal,13.9,0,0,36.0,1.200000000000001,11°C
+Volkswagen,Golf,2016,e-Golf,85,14.05.2021,73362,91.0,11.28,Electricity,Summer tires,1,0,1,Normal,12.4,0,0,44.0,-0.29999999999999893,Restreichweite 70km = Total 161km
+Volkswagen,Golf,2016,e-Golf,85,11.05.2021,73271,103.0,12.26,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,42.0,-0.7999999999999989,12°C
+Volkswagen,Golf,2016,e-Golf,85,09.05.2021,73168,112.0,11.87,Electricity,Summer tires,1,1,1,Moderate,10.6,0,0,53.0,-2.0999999999999996,21°C
+Volkswagen,Golf,2016,e-Golf,85,09.05.2021,73056,31.0,3.63,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,40.0,-1.0,27.5°C
+Volkswagen,Golf,2016,e-Golf,85,07.05.2021,73025,59.0,8.61,Electricity,Summer tires,1,0,1,Normal,14.6,0,0,37.0,1.9000000000000004,12.5°C
+Volkswagen,Golf,2016,e-Golf,85,05.05.2021,72966,78.0,10.76,Electricity,Summer tires,1,0,1,Normal,13.8,0,0,45.0,1.1000000000000014,"13.0°C, Restreichweite 72km = Total 150km"
+Volkswagen,Golf,2016,e-Golf,85,04.05.2021,72888,21.0,3.02,Electricity,Summer tires,1,0,1,Normal,14.4,0,0,45.0,1.700000000000001,14.5°C
+Volkswagen,Golf,2016,e-Golf,85,03.05.2021,72867,30.0,4.11,Electricity,Summer tires,1,0,1,Normal,13.7,0,0,49.0,1.0,14.5°C
+Volkswagen,Golf,2016,e-Golf,85,02.05.2021,72837,49.0,7.2,Electricity,Summer tires,1,0,1,Normal,14.7,0,0,43.0,2.0,9.0°C
+Volkswagen,Golf,2016,e-Golf,85,29.04.2021,72788,108.0,13.93,Electricity,Summer tires,1,0,1,Normal,12.9,0,0,53.0,0.20000000000000107,"14°C, Restreichweite 35km = Total 143km"
+Volkswagen,Golf,2016,e-Golf,85,28.04.2021,72680,52.0,5.62,Electricity,Summer tires,1,0,1,Moderate,10.8,0,0,46.0,-1.8999999999999986,18°C
+Volkswagen,Golf,2016,e-Golf,85,27.04.2021,72628,51.0,6.17,Electricity,Summer tires,1,0,1,Normal,12.1,0,0,45.0,-0.5999999999999996,19.0°C
+Volkswagen,Golf,2016,e-Golf,85,25.04.2021,72577,71.0,8.31,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,44.0,-1.0,17.5°C
+Volkswagen,Golf,2016,e-Golf,85,22.04.2021,72506,59.0,6.9,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,44.0,-1.0,14.5°C
+Volkswagen,Golf,2016,e-Golf,85,20.04.2021,72447,57.0,8.09,Electricity,Summer tires,1,0,1,Normal,14.2,0,0,48.0,1.5,13.5°C
+Volkswagen,Golf,2016,e-Golf,85,16.04.2021,72390,73.0,11.02,Electricity,Winter tires,1,0,1,Normal,15.1,0,0,42.0,2.4000000000000004,11°C
+Volkswagen,Golf,2016,e-Golf,85,14.04.2021,72317,82.0,10.0,Electricity,Winter tires,1,0,1,Moderate,12.2,0,0,49.0,-0.5,7.5°C
+Volkswagen,Golf,2016,e-Golf,85,13.04.2021,72235,41.0,7.26,Electricity,Winter tires,1,0,1,Normal,17.7,0,0,48.0,5.0,2°C
+Volkswagen,Golf,2016,e-Golf,85,10.04.2021,72194,109.0,12.61,Electricity,Winter tires,1,0,1,Moderate,11.57,0,0,46.0,-1.129999999999999,16°C
+Volkswagen,Golf,2016,e-Golf,85,08.04.2021,72085,55.0,6.16,Electricity,Winter tires,1,0,1,Moderate,11.2,0,0,40.0,-1.5,10°C
+Volkswagen,Golf,2016,e-Golf,85,07.04.2021,72030,16.0,2.45,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,48.0,2.6000000000000014,2°C
+Volkswagen,Golf,2016,e-Golf,85,07.04.2021,72014,99.0,15.25,Electricity,Winter tires,1,0,1,Normal,15.4,0,0,50.0,2.700000000000001,"3.5°C, Restreichweite 17km = Total 116km"
+Volkswagen,Golf,2016,e-Golf,85,06.04.2021,71915,21.0,3.97,Electricity,Winter tires,1,0,1,Normal,18.9,0,0,46.0,6.199999999999999,1°C
+Volkswagen,Golf,2016,e-Golf,85,05.04.2021,71894,41.0,4.96,Electricity,Winter tires,1,0,1,Moderate,12.1,0,0,58.0,-0.5999999999999996,7°C
+Volkswagen,Golf,2016,e-Golf,85,04.04.2021,71853,103.0,11.23,Electricity,Winter tires,1,0,1,Moderate,10.9,0,0,43.0,-1.799999999999999,18°C
+Volkswagen,Golf,2016,e-Golf,85,01.04.2021,71750,27.0,3.4,Electricity,Winter tires,1,0,1,Moderate,12.6,0,0,49.0,-0.09999999999999964,"6°C, Restreichweite 137km = Total 164km"
+Volkswagen,Golf,2016,e-Golf,85,31.03.2021,71723,104.0,13.31,Electricity,Winter tires,1,1,1,Normal,12.8,1,0,57.0,0.10000000000000142,"23.5°C, Restreichweite 40km = Total 144km"
+Volkswagen,Golf,2016,e-Golf,85,30.03.2021,71619,21.0,2.75,Electricity,Winter tires,1,0,1,Normal,13.1,1,0,47.0,0.40000000000000036,"15°C, Restreichweite 149km = Total 170km"
+Volkswagen,Golf,2016,e-Golf,85,29.03.2021,71598,119.0,16.66,Electricity,Winter tires,1,1,1,Normal,64.0,1,0,14.0,51.3,"15.5°C, Restreichweite 11km = Total 131km"
+Volkswagen,Golf,2016,e-Golf,85,28.03.2021,71479,65.0,7.35,Electricity,Winter tires,1,0,1,Normal,11.3,1,0,42.0,-1.3999999999999986,"15°C, Restreichweite 106km = Total 171km"
+Volkswagen,Golf,2016,e-Golf,85,25.03.2021,71414,120.0,14.04,Electricity,Winter tires,1,0,1,Normal,11.7,1,0,46.0,-1.0,"15.5°C, Restreichweite 37km = Total 157km"
+Volkswagen,Golf,2016,e-Golf,85,23.03.2021,71294,85.0,11.47,Electricity,Winter tires,1,1,1,Normal,13.5,1,0,51.0,0.8000000000000007,"7.5°C, Restreichweite 71km = Total 156km"
+Volkswagen,Golf,2016,e-Golf,85,22.03.2021,71209,31.0,5.2,Electricity,Winter tires,1,0,1,Normal,16.8,1,0,47.0,4.100000000000001,"5.0°C, Restreichweite 111km = Total 141km"
+Volkswagen,Golf,2016,e-Golf,85,21.03.2021,71178,80.0,13.04,Electricity,Winter tires,1,0,1,Normal,16.3,1,0,47.0,3.6000000000000014,"4.5°C, Restreichweite 38km = Total 118km"
+Volkswagen,Golf,2016,e-Golf,85,17.03.2021,71098,70.0,10.92,Electricity,Winter tires,1,0,1,Normal,15.6,1,0,48.0,2.9000000000000004,"6°C, Restreichweite 74km = Total 144km"
+Volkswagen,Golf,2016,e-Golf,85,17.03.2021,71028,101.0,16.36,Electricity,Winter tires,1,1,1,Normal,16.2,1,0,50.0,3.5,"4.5°C, Restreichweite 17km = Total 118km Laden CCS Bad Zurzach nur Parkgebühr Fr.1.-"
+Volkswagen,Golf,2016,e-Golf,85,16.03.2021,70927,80.0,13.52,Electricity,Winter tires,1,0,1,Normal,16.9,1,0,46.0,4.199999999999999,"4°C,Restreichweite 37km = Total 117km"
+Volkswagen,Golf,2016,e-Golf,85,12.03.2021,70847,89.0,14.68,Electricity,Winter tires,1,0,1,Normal,16.5,1,0,47.0,3.8000000000000007,Restreichweite 22km = Total 111km
+Volkswagen,Golf,2016,e-Golf,85,08.03.2021,70758,60.0,8.88,Electricity,Winter tires,1,0,1,Normal,14.8,1,0,45.0,2.1000000000000014,"6.5°C, Restreichweite 77km = Total 137km"
+Volkswagen,Golf,2016,e-Golf,85,05.03.2021,70698,106.0,14.84,Electricity,Winter tires,1,0,1,Normal,14.0,1,0,40.0,1.3000000000000007,"5°C, Restreichweite 21km = Total 127km"
+Volkswagen,Golf,2016,e-Golf,85,01.03.2021,70592,105.0,14.28,Electricity,Winter tires,1,1,1,Normal,13.6,1,0,48.0,0.9000000000000004,Restreichweite 31km = Total 136km
+Volkswagen,Golf,2016,e-Golf,85,28.02.2021,70487,33.0,5.04,Electricity,Winter tires,1,0,1,Normal,15.3,1,0,39.0,2.6000000000000014,Restreichweite 128km = Total 161km
+Volkswagen,Golf,2016,e-Golf,85,24.02.2021,70454,98.0,13.23,Electricity,Winter tires,1,0,1,Normal,13.5,1,0,45.0,0.8000000000000007,"15.5°C, Restreichweite 32km = Total 130km"
+Volkswagen,Golf,2016,e-Golf,85,20.02.2021,70356,119.0,17.13,Electricity,Winter tires,1,1,1,Normal,14.4,1,0,52.0,1.700000000000001,"6.0°C, Restreichweite 11km = Total 130km"
+Volkswagen,Golf,2016,e-Golf,85,19.02.2021,70237,55.0,8.19,Electricity,Winter tires,1,0,1,Normal,14.9,1,0,43.0,2.200000000000001,"7.5°C, Restreichweite 66km = Total 121km"
+Volkswagen,Golf,2016,e-Golf,85,18.02.2021,70182,73.0,13.72,Electricity,Winter tires,1,0,1,Normal,18.8,1,0,43.0,6.100000000000001,"3.0°C, Restreichweite 27km = Total 100km"
+Volkswagen,Golf,2016,e-Golf,85,13.02.2021,70109,61.0,11.4,Electricity,Winter tires,1,0,1,Normal,18.7,1,0,49.0,6.0,"-5.5°C, Restreichweite 52km = Total 112km"
+Volkswagen,Golf,2016,e-Golf,85,12.02.2021,70048,32.0,7.9,Electricity,Winter tires,1,0,1,Normal,24.7,1,0,23.0,12.0,"-0.5°C, Restreichweite 88km = Total 120km"
+Volkswagen,Golf,2016,e-Golf,85,11.02.2021,70016,23.0,5.4,Electricity,Winter tires,1,0,1,Normal,23.5,1,0,36.0,10.8,"-3.5°C, Restreichweite 97km = Total 120km"
+Volkswagen,Golf,2016,e-Golf,85,10.02.2021,69993,21.0,4.76,Electricity,Winter tires,1,0,1,Normal,22.7,1,0,42.0,10.0,"-4.5°C, Restreichweite 109km = Total 130km"
+Volkswagen,Golf,2016,e-Golf,85,09.02.2021,69972,25.0,3.47,Electricity,Winter tires,1,0,1,Normal,13.9,1,0,47.0,1.200000000000001,"4°C, Strecke leicht abwärts"
+Volkswagen,Golf,2016,e-Golf,85,09.02.2021,69947,45.0,8.46,Electricity,Winter tires,1,1,1,Normal,18.8,1,0,52.0,6.100000000000001,4°C
+Volkswagen,Golf,2016,e-Golf,85,08.02.2021,69902,22.0,4.29,Electricity,Winter tires,1,0,1,Normal,19.5,1,0,46.0,6.800000000000001,0.5°C
+Volkswagen,Golf,2016,e-Golf,85,08.02.2021,69880,62.0,10.29,Electricity,Winter tires,1,0,1,Normal,16.6,1,0,44.0,3.900000000000002,1.5°C
+Volkswagen,Golf,2016,e-Golf,85,05.02.2021,69818,105.0,14.49,Electricity,Winter tires,1,1,1,Normal,13.8,1,0,61.0,1.1000000000000014,"10.5°C, Restreichweite 24km = Total 129km"
+Volkswagen,Golf,2016,e-Golf,85,03.02.2021,69713,51.0,8.26,Electricity,Winter tires,1,0,1,Normal,16.2,1,0,43.0,3.5,"7.5°C, Restreichweite 79km = Total 130km"
+Volkswagen,Golf,2016,e-Golf,85,01.02.2021,69662,69.0,10.76,Electricity,Winter tires,1,0,1,Normal,15.6,1,0,48.0,2.9000000000000004,"7°C, Restreichweite 64km = Total 133km"
+Volkswagen,Golf,2016,e-Golf,85,31.01.2021,69593,79.0,12.79,Electricity,Winter tires,1,0,1,Normal,16.2,1,0,45.0,3.5,"5.5°C, Restreichweite 42km = Total 121km"
+Volkswagen,Golf,2016,e-Golf,85,27.01.2021,69514,62.0,11.84,Electricity,Winter tires,1,0,1,Normal,19.1,1,0,46.0,6.400000000000002,0°C Restreichweite 52km = Total 114km
+Volkswagen,Golf,2016,e-Golf,85,26.01.2021,69452,37.0,5.8,Electricity,Winter tires,1,1,1,Normal,15.7,1,0,49.0,3.0,3°C 
+Volkswagen,Golf,2016,e-Golf,85,26.01.2021,69415,70.0,13.44,Electricity,Winter tires,1,0,1,Normal,19.2,1,0,47.0,6.5,2°C / CCS Agrola Höri 48Rp./Kwh 
+Volkswagen,Golf,2016,e-Golf,85,24.01.2021,69345,47.0,9.44,Electricity,Winter tires,1,0,1,Normal,20.1,1,0,43.0,7.400000000000002,-2°C
+Volkswagen,Golf,2016,e-Golf,85,20.01.2021,69298,78.0,15.67,Electricity,Winter tires,1,0,1,Normal,20.1,1,0,46.0,7.400000000000002,0°C
+Volkswagen,Golf,2016,e-Golf,85,16.01.2021,69220,24.0,5.18,Electricity,Winter tires,1,0,1,Normal,21.6,1,0,37.0,8.900000000000002,-3.5°C
+Volkswagen,Golf,2016,e-Golf,85,15.01.2021,69196,21.0,3.9,Electricity,Winter tires,1,0,1,Normal,18.6,1,0,39.0,5.900000000000002,1.5°C
+Volkswagen,Golf,2016,e-Golf,85,15.01.2021,69175,44.0,9.63,Electricity,Winter tires,1,0,1,Normal,21.9,1,0,31.0,9.2,-3°C
+Volkswagen,Golf,2016,e-Golf,85,14.01.2021,69131,12.0,3.18,Electricity,Winter tires,1,0,1,Normal,26.5,1,0,32.0,13.8,Kurzstrecke und 0°C
+Volkswagen,Golf,2016,e-Golf,85,14.01.2021,69119,103.0,17.3,Electricity,Winter tires,1,0,1,Normal,16.8,1,0,45.0,4.100000000000001,0°C
+Volkswagen,Golf,2016,e-Golf,85,11.01.2021,69016,21.0,4.68,Electricity,Winter tires,1,0,1,Normal,22.3,1,0,47.0,9.600000000000001,-3°C
+Volkswagen,Golf,2016,e-Golf,85,10.01.2021,68995,33.0,6.4,Electricity,Winter tires,1,0,1,Normal,19.4,1,0,40.0,6.699999999999999,Restreichweite 81km = Total 114km
+Volkswagen,Golf,2016,e-Golf,85,07.01.2021,68962,13.0,2.69,Electricity,Winter tires,1,0,1,Normal,20.7,1,0,41.0,8.0,-3°C
+Volkswagen,Golf,2016,e-Golf,85,07.01.2021,68949,92.0,15.36,Electricity,Winter tires,1,1,1,Normal,16.7,1,0,65.0,4.0,Restreichweite 25km = Total 117km
+Volkswagen,Golf,2016,e-Golf,85,06.01.2021,68857,35.0,7.87,Electricity,Winter tires,1,0,1,Normal,22.5,0,0,43.0,9.8,Restreichweite 64km = Total 99km
+Volkswagen,Golf,2016,e-Golf,85,05.01.2021,68822,42.0,8.52,Electricity,Winter tires,1,0,1,Normal,20.3,0,0,50.0,7.600000000000001,Restreichweite 67km = Total 109km
+Volkswagen,Golf,2016,e-Golf,85,03.01.2021,68780,32.0,6.43,Electricity,Winter tires,1,0,1,Normal,20.1,0,0,43.0,7.400000000000002,Restreichweite 86km = Total 118km
+Volkswagen,Golf,2016,e-Golf,85,28.12.2020,68748,13.0,2.67,Electricity,Winter tires,1,0,1,Normal,20.6,0,0,37.0,7.900000000000002,
+Volkswagen,Golf,2016,e-Golf,85,25.12.2020,68735,64.0,10.81,Electricity,Winter tires,1,0,1,Normal,16.9,0,0,44.0,4.199999999999999,Restreichweite 58km = Total 122km
+Volkswagen,Golf,2016,e-Golf,85,23.12.2020,68671,60.0,8.04,Electricity,Winter tires,1,0,1,Normal,13.4,0,0,40.0,0.7000000000000011,10°C warm im Dezember
+Volkswagen,Golf,2016,e-Golf,85,21.12.2020,68611,96.0,14.4,Electricity,Winter tires,1,1,1,Normal,15.0,0,0,56.0,2.3000000000000007,Restreichweite 40km = Total 136km
+Volkswagen,Golf,2016,e-Golf,85,20.12.2020,68515,38.0,6.99,Electricity,Winter tires,1,0,1,Normal,18.4,0,0,39.0,5.699999999999999,Restreichweite 89km = Total 127km
+Volkswagen,Golf,2016,e-Golf,85,10.12.2020,68477,100.0,15.5,Electricity,Winter tires,1,1,1,Normal,15.5,0,0,50.0,2.8000000000000007,Restreichweite 22km = Total 122km
+Volkswagen,Golf,2016,e-Golf,85,09.12.2020,68377,35.0,7.31,Electricity,Winter tires,1,0,1,Normal,20.9,0,0,44.0,8.2,Restreichweite 70km = Total 105km
+Volkswagen,Golf,2016,e-Golf,85,07.12.2020,68342,61.0,10.79,Electricity,Winter tires,1,0,1,Normal,17.7,0,0,43.0,5.0,Restreichweite 56km = Total 117km
+Volkswagen,Golf,2016,e-Golf,85,06.12.2020,68281,81.0,13.93,Electricity,Winter tires,1,0,1,Normal,17.2,0,0,47.0,4.5,Restreichweite 35km = Total 116km
+Volkswagen,Golf,2016,e-Golf,85,03.12.2020,68200,96.0,14.49,Electricity,Winter tires,1,1,1,Normal,15.1,0,0,56.0,2.4000000000000004,Restreichweite 23km = Total 119km
+Volkswagen,Golf,2016,e-Golf,85,02.12.2020,68104,68.0,12.1,Electricity,Winter tires,1,0,1,Normal,17.8,0,0,46.0,5.100000000000001,Restreichweite 48km = Total 116km
+Volkswagen,Golf,2016,e-Golf,85,01.12.2020,68036,25.0,5.3,Electricity,Winter tires,1,0,1,Normal,21.2,0,0,39.0,8.5,Restreichweite 101km = Total 126km
+Volkswagen,Golf,2016,e-Golf,85,30.11.2020,68011,65.0,13.19,Electricity,Winter tires,1,0,1,Normal,20.3,0,0,44.0,7.600000000000001,Restreichweite 35km = Total 100km
+Volkswagen,Golf,2016,e-Golf,85,28.11.2020,67946,65.0,11.83,Electricity,Winter tires,1,0,1,Normal,18.2,0,0,40.0,5.5,Restreichweite 46km = Total 111km
+Volkswagen,Golf,2016,e-Golf,85,26.11.2020,67881,92.0,14.35,Electricity,Winter tires,1,1,1,Normal,15.6,0,0,57.0,2.9000000000000004,Restreichweite 28km = Total 120km
+Volkswagen,Golf,2016,e-Golf,85,25.11.2020,67789,68.0,12.98,Electricity,Winter tires,1,0,1,Normal,19.1,0,0,42.0,6.400000000000002,Restreichweite 41km = Total 109km
+Volkswagen,Golf,2016,e-Golf,85,24.11.2020,67721,57.0,9.4,Electricity,Winter tires,1,0,1,Normal,16.5,0,0,42.0,3.8000000000000007,Restreichweite 73km = Total 130km
+Volkswagen,Golf,2016,e-Golf,85,21.11.2020,67664,38.0,6.49,Electricity,Winter tires,1,0,1,Normal,17.1,0,0,47.0,4.400000000000002,Restreichweite 102km = Total 140km
+Volkswagen,Golf,2016,e-Golf,85,19.11.2020,67626,101.0,15.65,Electricity,Winter tires,1,1,1,Normal,15.5,0,0,49.0,2.8000000000000007,Restreichweite 29km = Total 130km
+Volkswagen,Golf,2016,e-Golf,85,18.11.2020,67525,83.0,12.11,Electricity,Winter tires,1,1,1,Normal,14.6,0,0,47.0,1.9000000000000004,Restreichweite 62km = Total 145km
+Volkswagen,Golf,2016,e-Golf,85,17.11.2020,67442,45.0,6.84,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,48.0,2.5,
+Volkswagen,Golf,2016,e-Golf,85,16.11.2020,67397,67.0,10.98,Electricity,Winter tires,1,0,1,Normal,16.4,0,0,39.0,3.6999999999999993,Restreichweite 63km = Total 130km
+Volkswagen,Golf,2016,e-Golf,85,12.11.2020,67330,91.0,11.37,Electricity,Winter tires,1,1,1,Normal,12.5,0,0,52.0,-0.1999999999999993,Restreichweite 64km = Total 155km
+Volkswagen,Golf,2016,e-Golf,85,11.11.2020,67239,47.0,8.74,Electricity,Winter tires,1,0,1,Normal,18.6,0,0,45.0,5.900000000000002,Restreichweite 73km = Total 120km
+Volkswagen,Golf,2016,e-Golf,85,09.11.2020,67192,51.0,7.24,Electricity,Winter tires,1,0,1,Normal,14.2,0,0,41.0,1.5,Restreichweite 98km = Total 149km
+Volkswagen,Golf,2016,e-Golf,85,08.11.2020,67141,73.0,11.16,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,44.0,2.6000000000000014,Restreichweite 59km = Total 132km
+Volkswagen,Golf,2016,e-Golf,85,05.11.2020,67068,91.0,14.65,Electricity,Winter tires,1,1,1,Normal,16.1,0,0,59.0,3.400000000000002,Restreichweite 34km = Total 125km
+Volkswagen,Golf,2016,e-Golf,85,04.11.2020,66977,55.0,10.01,Electricity,Winter tires,1,0,1,Normal,18.2,0,0,46.0,5.5,Restreichweite 63km = Total 118km
+Volkswagen,Golf,2016,e-Golf,85,02.11.2020,66922,115.0,12.99,Electricity,Winter tires,1,0,1,Normal,11.3,0,0,45.0,-1.3999999999999986,Restreichweite 54km = Total 169km
+Volkswagen,Golf,2016,e-Golf,85,30.10.2020,66807,102.0,14.28,Electricity,Winter tires,1,0,1,Normal,14.0,0,0,41.0,1.3000000000000007,Restreichweite 34km = Total 136km
+Volkswagen,Golf,2016,e-Golf,85,28.10.2020,66705,45.0,5.26,Electricity,Winter tires,1,0,1,Normal,11.7,0,0,44.0,-1.0,Restreichweite 131km = Total 176km
+Volkswagen,Golf,2016,e-Golf,85,27.10.2020,66660,93.0,12.92,Electricity,Winter tires,1,0,1,Normal,13.9,0,0,45.0,1.200000000000001,Restreichweite 55km = Total 148km
+Volkswagen,Golf,2016,e-Golf,85,26.10.2020,66567,32.0,5.56,Electricity,Winter tires,1,0,1,Normal,17.4,0,0,46.0,4.699999999999999,Restreichweite 89km = Total 121km
+Volkswagen,Golf,2016,e-Golf,85,25.10.2020,66535,87.0,11.13,Electricity,Winter tires,1,0,1,Normal,12.8,0,0,43.0,0.10000000000000142,Restreichweite 70km = Total 157km
+Volkswagen,Golf,2016,e-Golf,85,22.10.2020,66448,68.0,11.08,Electricity,Winter tires,1,0,1,Normal,16.3,0,0,45.0,3.6000000000000014,Restreichweite 60km = Total 128km
+Volkswagen,Golf,2016,e-Golf,85,19.10.2020,66380,72.0,11.95,Electricity,Winter tires,1,0,1,Normal,16.6,0,0,47.0,3.900000000000002,Restreichweite 52km = Total 124km
+Volkswagen,Golf,2016,e-Golf,85,16.10.2020,66308,59.0,9.68,Electricity,Winter tires,1,0,1,Normal,16.4,0,0,35.0,3.6999999999999993,Restreichweite 82km = Total 141km
+Volkswagen,Golf,2016,e-Golf,85,14.10.2020,66249,78.0,13.1,Electricity,Summer tires,1,0,1,Normal,16.8,0,0,39.0,4.100000000000001,Restreichweite 48km = Total 126km
+Volkswagen,Golf,2016,e-Golf,85,12.10.2020,66171,50.0,7.8,Electricity,Summer tires,1,0,1,Normal,15.6,0,0,43.0,2.9000000000000004,Restreichweite 84km = Total 134km
+Volkswagen,Golf,2016,e-Golf,85,08.10.2020,66121,101.0,12.63,Electricity,Summer tires,1,1,1,Normal,12.5,0,0,38.0,-0.1999999999999993,Restreichweite 47km = Total 148km
+Volkswagen,Golf,2016,e-Golf,85,07.10.2020,66020,17.0,2.38,Electricity,Summer tires,1,0,1,Normal,14.0,0,0,39.0,1.3000000000000007,Restreichweite 149km = Total 166km
+Volkswagen,Golf,2016,e-Golf,85,05.10.2020,66003,108.0,13.39,Electricity,Summer tires,1,0,1,Normal,12.4,0,0,44.0,-0.29999999999999893,Restreichweite 44km = Total 152km
+Volkswagen,Golf,2016,e-Golf,85,30.09.2020,65895,79.0,11.62,Electricity,Summer tires,1,0,1,Normal,14.9,0,0,41.0,2.200000000000001,Restreichweite 60km = Total 139km
+Volkswagen,Golf,2016,e-Golf,85,25.09.2020,65816,116.0,13.8,Electricity,Summer tires,1,0,1,Normal,11.9,0,0,41.0,-0.7999999999999989,
+Volkswagen,Golf,2016,e-Golf,85,21.09.2020,65700,124.0,13.27,Electricity,Summer tires,1,0,1,Normal,10.7,0,0,39.0,-2.0,Restreichweite 43km = Total 167km
+Volkswagen,Golf,2016,e-Golf,85,19.09.2020,65576,155.0,15.97,Electricity,Summer tires,1,0,1,Normal,10.3,0,0,38.0,-2.3999999999999986,
+Volkswagen,Golf,2016,e-Golf,85,16.09.2020,65421,26.0,3.07,Electricity,Summer tires,1,0,1,Normal,11.8,0,0,33.0,-0.8999999999999986,
+Volkswagen,Golf,2016,e-Golf,85,15.09.2020,65394,111.0,12.77,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,41.0,-1.1999999999999993,Restreichweite 56km = Total 167km
+Volkswagen,Golf,2016,e-Golf,85,10.09.2020,65284,96.0,10.56,Electricity,Summer tires,1,0,1,Normal,11.0,0,0,44.0,-1.6999999999999993,Restreichweite 88km = Total 184km
+Volkswagen,Golf,2016,e-Golf,85,06.09.2020,65188,154.0,17.86,Electricity,Summer tires,1,1,1,Normal,11.6,0,0,59.0,-1.0999999999999996,Restreichweite 9km = Total 163km
+Volkswagen,Golf,2016,e-Golf,85,05.09.2020,65034,121.0,14.76,Electricity,Summer tires,1,1,1,Normal,12.2,0,0,64.0,-0.5,Restreichweite 34km = Total 155km
+Volkswagen,Golf,2016,e-Golf,85,04.09.2020,64913,23.0,2.43,Electricity,Summer tires,1,0,1,Normal,10.6,0,0,45.0,-2.0999999999999996,Restreichweite 164km = Total 187km
+Volkswagen,Golf,2016,e-Golf,85,02.09.2020,64890,106.0,11.44,Electricity,Summer tires,1,0,1,Normal,10.8,1,0,39.0,-1.8999999999999986,Restreichweite 77km = Total 183km
+Volkswagen,Golf,2016,e-Golf,85,01.09.2020,64784,103.0,12.05,Electricity,Summer tires,1,0,1,Normal,11.7,1,0,43.0,-1.0,Restreichweite 66km = Total 169km
+Volkswagen,Golf,2016,e-Golf,85,27.08.2020,64681,102.0,11.52,Electricity,Summer tires,1,0,1,Normal,11.3,1,0,41.0,-1.3999999999999986,Restreichweite 74km = Total 176km
+Volkswagen,Golf,2016,e-Golf,85,23.08.2020,64578,43.0,4.73,Electricity,Summer tires,1,0,1,Normal,11.0,1,0,39.0,-1.6999999999999993,
+Volkswagen,Golf,2016,e-Golf,85,21.08.2020,64536,101.0,11.11,Electricity,Summer tires,1,0,1,Normal,11.0,1,0,44.0,-1.6999999999999993,Restreichweite 80km = Total 181km
+Volkswagen,Golf,2016,e-Golf,85,19.08.2020,64435,102.0,10.3,Electricity,Summer tires,1,1,1,Normal,10.1,1,0,54.0,-2.5999999999999996,Restreichweite 88km = Total 190km
+Volkswagen,Golf,2016,e-Golf,85,18.08.2020,64333,61.0,7.74,Electricity,Summer tires,1,1,1,Normal,12.7,1,0,41.0,0.0,Restreichweite 103km = Total 164km
+Volkswagen,Golf,2016,e-Golf,85,17.08.2020,64272,101.0,11.31,Electricity,Summer tires,1,0,1,Normal,11.2,1,0,43.0,-1.5,Restreichweite 77km = Total 178km
+Volkswagen,Golf,2016,e-Golf,85,12.08.2020,64171,99.0,12.07,Electricity,Summer tires,1,0,1,Normal,12.2,1,0,43.0,-0.5,Restreichweite 68km = Total 167km
+Volkswagen,Golf,2016,e-Golf,85,07.08.2020,64072,109.0,11.88,Electricity,Summer tires,1,0,1,Moderate,10.9,1,0,43.0,-1.799999999999999,Restreichweite 69km = Total 178km
+Volkswagen,Golf,2016,e-Golf,85,04.08.2020,63963,48.0,5.8,Electricity,Summer tires,1,0,1,Moderate,12.1,1,0,44.0,-0.5999999999999996,Restreichweite 131km = Total 179km
+Volkswagen,Golf,2016,e-Golf,85,02.08.2020,63915,144.0,16.7,Electricity,Summer tires,1,1,1,Moderate,11.6,1,0,52.0,-1.0999999999999996,Restreichweite 22km = Total 166km
+Volkswagen,Golf,2016,e-Golf,85,01.08.2020,63771,125.0,13.87,Electricity,Summer tires,1,0,1,Moderate,11.1,1,0,43.0,-1.5999999999999996,Restreichweite 41km = Total 166km
+Volkswagen,Golf,2016,e-Golf,85,26.07.2020,63646,114.0,11.05,Electricity,Summer tires,1,1,1,Moderate,9.7,0,0,39.0,-3.0,Restreichweite 81km = Total 195km
+Volkswagen,Golf,2016,e-Golf,85,23.07.2020,63532,63.0,7.68,Electricity,Summer tires,1,1,1,Normal,12.2,0,0,45.0,-0.5,Gratisladung Uniklinik Balgrist Zürich
+Volkswagen,Golf,2016,e-Golf,85,22.07.2020,63469,94.0,10.71,Electricity,Summer tires,1,0,1,Normal,11.4,0,0,37.0,-1.299999999999999,Restreichweite 81km = Total 175km
+Volkswagen,Golf,2016,e-Golf,85,15.07.2020,63375,69.0,6.55,Electricity,Summer tires,1,0,1,Normal,9.5,0,0,45.0,-3.1999999999999993,
+Volkswagen,Golf,2016,e-Golf,85,13.07.2020,63306,64.0,7.29,Electricity,Summer tires,1,1,1,Normal,11.4,0,0,39.0,-1.299999999999999,Kostenlos Ikea Spreitenbach
+Volkswagen,Golf,2016,e-Golf,85,12.07.2020,63242,112.0,11.98,Electricity,Summer tires,1,0,1,Normal,10.7,0,0,45.0,-2.0,Restreichweite 72km = Total 184km
+Volkswagen,Golf,2016,e-Golf,85,02.07.2020,63130,83.0,10.37,Electricity,Summer tires,1,0,1,Normal,12.5,0,0,45.0,-0.1999999999999993,Restreichweite 86km = Total 169km
+Volkswagen,Golf,2016,e-Golf,85,28.06.2020,63047,142.0,16.89,Electricity,Summer tires,1,1,1,Normal,11.9,0,0,63.0,-0.7999999999999989,Restreichweite 20km = Total 162km
+Volkswagen,Golf,2016,e-Golf,85,27.06.2020,62905,40.0,3.96,Electricity,Summer tires,1,0,1,Moderate,9.9,0,0,44.0,-2.799999999999999,
+Volkswagen,Golf,2016,e-Golf,85,26.06.2020,62865,76.0,8.58,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,39.0,-1.3999999999999986,Bei IKEA kostenlos geladen
+Volkswagen,Golf,2016,e-Golf,85,25.06.2020,62789,49.0,6.03,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,40.0,-0.3999999999999986,Restreichweite 129km = Total 178km
+Volkswagen,Golf,2016,e-Golf,85,23.06.2020,62740,99.0,10.99,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,39.0,-1.5999999999999996,Restreichweite 83km = Total 182km
+Volkswagen,Golf,2016,e-Golf,85,18.06.2020,62641,134.0,15.68,Electricity,Summer tires,1,0,1,Normal,11.7,0,0,46.0,-1.0,Restreichweite 22km = Total 156km
+Volkswagen,Golf,2016,e-Golf,85,14.06.2020,62507,148.0,17.02,Electricity,Summer tires,1,1,1,Normal,11.5,0,0,48.0,-1.1999999999999993,Restreichweite 22km = Total 170km
+Volkswagen,Golf,2016,e-Golf,85,13.06.2020,62359,26.0,2.7,Electricity,Summer tires,1,0,1,Normal,10.4,0,0,37.0,-2.299999999999999,
+Volkswagen,Golf,2016,e-Golf,85,13.06.2020,62333,105.0,11.03,Electricity,Summer tires,1,0,1,Normal,10.5,0,0,43.0,-2.1999999999999993,
+Volkswagen,Golf,2016,e-Golf,85,11.06.2020,62228,40.0,4.72,Electricity,Summer tires,1,0,1,Normal,11.8,0,0,45.0,-0.8999999999999986,Restreichweite 137km = Total 177km
+Volkswagen,Golf,2016,e-Golf,85,09.06.2020,62188,100.0,11.5,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,44.0,-1.1999999999999993,Restreichweite 72km = Total 172km
+Volkswagen,Golf,2016,e-Golf,85,04.06.2020,62088,135.0,14.31,Electricity,Summer tires,1,1,1,Normal,10.6,0,0,37.0,-2.0999999999999996,Restreichweite 33km = Total 168km
+Volkswagen,Golf,2016,e-Golf,85,02.06.2020,61953,95.0,10.26,Electricity,Summer tires,1,0,1,Normal,10.8,0,0,46.0,-1.8999999999999986,Restreichweite 88km = Total 183km
+Volkswagen,Golf,2016,e-Golf,85,27.05.2020,61858,98.0,10.98,Electricity,Summer tires,1,0,1,Normal,11.2,0,0,41.0,-1.5,Restreichweite 82km = Total 180km
+Volkswagen,Golf,2016,e-Golf,85,24.05.2020,61760,123.0,13.9,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,42.0,-1.3999999999999986,Restreichweite 40km = Total 163km
+Volkswagen,Golf,2016,e-Golf,85,18.05.2020,61637,112.0,12.66,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,44.0,-1.3999999999999986,Restreichweite 64km = Total 176km
+Volkswagen,Golf,2016,e-Golf,85,14.05.2020,61525,64.0,9.79,Electricity,Summer tires,1,0,1,Normal,15.3,0,0,44.0,2.6000000000000014,Restreichweite 79km = Total 143km
+Volkswagen,Golf,2016,e-Golf,85,10.05.2020,61461,114.0,12.65,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,44.0,-1.5999999999999996,Restreichweite 55km = Total 169km
+Volkswagen,Golf,2016,e-Golf,85,05.05.2020,61347,75.0,11.33,Electricity,Summer tires,1,0,1,Normal,15.1,0,0,43.0,2.4000000000000004,Restreichweite 57km = Total 132km
+Volkswagen,Golf,2016,e-Golf,85,29.04.2020,61272,111.0,12.77,Electricity,Summer tires,1,0,1,Normal,11.5,0,0,43.0,-1.1999999999999993,Restreichweite 50km = Total 161km
+Volkswagen,Golf,2016,e-Golf,85,23.04.2020,61161,95.0,11.97,Electricity,Summer tires,1,0,1,Normal,12.6,0,0,41.0,-0.09999999999999964,Restreichweite 64km = Total 159km
+Volkswagen,Golf,2016,e-Golf,85,11.04.2020,61066,146.0,16.21,Electricity,Summer tires,1,0,1,Normal,11.1,0,0,44.0,-1.5999999999999996,Restreichweite 11km = Total 157km
+Volkswagen,Golf,2016,e-Golf,85,08.04.2020,60920,102.0,14.08,Electricity,Winter tires,1,0,1,Normal,13.8,0,0,43.0,1.1000000000000014,Restreichweite 33km = Total 135km
+Volkswagen,Golf,2016,e-Golf,85,01.04.2020,60818,77.0,11.16,Electricity,Winter tires,1,0,1,Normal,14.5,0,0,45.0,1.8000000000000007,Restreichweite 70km = Total 147km
+Volkswagen,Golf,2016,e-Golf,85,29.03.2020,60741,100.0,14.0,Electricity,Winter tires,1,0,1,Normal,14.0,0,0,46.0,1.3000000000000007,Restreichweite 44km = Total 144km
+Volkswagen,Golf,2016,e-Golf,85,26.03.2020,60641,95.0,14.25,Electricity,Winter tires,1,0,1,Normal,15.0,0,0,45.0,2.3000000000000007,Restreichweite 40km = Total 135km
+Volkswagen,Golf,2016,e-Golf,85,21.03.2020,60546,112.0,13.78,Electricity,Winter tires,1,0,1,Normal,12.3,0,0,45.0,-0.3999999999999986,Restreichweite 37km = Total 149km
+Volkswagen,Golf,2016,e-Golf,85,16.03.2020,60434,68.0,9.11,Electricity,Winter tires,1,0,1,Normal,13.4,0,0,39.0,0.7000000000000011,Restreichweite 86km = Total 154km
+Volkswagen,Golf,2016,e-Golf,85,12.03.2020,60366,68.0,8.77,Electricity,Winter tires,1,0,1,Normal,12.9,0,0,39.0,0.20000000000000107,Restreichweite 89km = Total 157km
+Volkswagen,Golf,2016,e-Golf,85,11.03.2020,60298,65.0,9.69,Electricity,Winter tires,1,0,1,Normal,14.9,0,0,42.0,2.200000000000001,Restreichweite 72km = Total 137km
+Volkswagen,Golf,2016,e-Golf,85,09.03.2020,60233,84.0,11.42,Electricity,Winter tires,1,0,1,Normal,13.6,0,0,46.0,0.9000000000000004,Restreichweite 64km = Total 148km
+Volkswagen,Golf,2016,e-Golf,85,08.03.2020,60149,81.0,10.29,Electricity,Winter tires,1,0,1,Normal,12.7,0,0,47.0,0.0,Restreichweite 78km = Total 159km
+Volkswagen,Golf,2016,e-Golf,85,05.03.2020,60068,54.0,9.56,Electricity,Winter tires,1,0,1,Normal,17.7,0,0,,5.0,
+Volkswagen,Golf,2016,e-Golf,85,03.03.2020,60014,51.0,9.49,Electricity,Winter tires,1,0,1,Normal,18.6,0,0,49.0,5.900000000000002,Restreichweite 65km = Total 116km
+Volkswagen,Golf,2016,e-Golf,85,01.03.2020,59963,73.0,11.17,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,42.0,2.6000000000000014,Restreichweite 62km = Total 135km
+Volkswagen,Golf,2016,e-Golf,85,27.02.2020,59890,67.0,12.46,Electricity,Winter tires,1,0,1,Normal,18.6,0,0,43.0,5.900000000000002,Restreichweite 50km = Total 117km
+Volkswagen,Golf,2016,e-Golf,85,26.02.2020,59823,37.0,8.07,Electricity,Winter tires,1,0,1,Normal,21.8,0,0,38.0,9.100000000000001,Restreichweite 74km = Total 111km
+Volkswagen,Golf,2016,e-Golf,85,25.02.2020,59786,65.0,10.27,Electricity,Winter tires,1,0,1,Normal,15.8,0,0,45.0,3.1000000000000014,Restreichweite 67km = Total 132km
+Volkswagen,Golf,2016,e-Golf,85,22.02.2020,59721,132.0,15.05,Electricity,Winter tires,1,0,1,Normal,11.4,0,0,47.0,-1.299999999999999,Akku war nicht voll
+Volkswagen,Golf,2016,e-Golf,85,22.02.2020,59589,45.0,6.62,Electricity,Winter tires,1,0,1,Normal,14.7,0,0,43.0,2.0,Restreichweite 109km = Total 154km
+Volkswagen,Golf,2016,e-Golf,85,20.02.2020,59544,80.0,10.24,Electricity,Winter tires,1,0,1,Normal,12.8,0,0,42.0,0.10000000000000142,Restreichweite 81km = Total 161km Heute 11°C gewesen
+Volkswagen,Golf,2016,e-Golf,85,19.02.2020,59464,38.0,7.79,Electricity,Winter tires,1,0,1,Normal,20.5,0,0,40.0,7.800000000000001,Restreichweite 80km = Total 118km
+Volkswagen,Golf,2016,e-Golf,85,18.02.2020,59426,66.0,10.89,Electricity,Winter tires,1,0,1,Normal,16.5,0,0,44.0,3.8000000000000007,Restreichweite 61km = Total 127km
+Volkswagen,Golf,2016,e-Golf,85,15.02.2020,59360,93.0,14.32,Electricity,Winter tires,1,0,1,Normal,15.4,0,0,41.0,2.700000000000001,Restreichweite 28km = Total 121km
+Volkswagen,Golf,2016,e-Golf,85,13.02.2020,59267,72.0,11.16,Electricity,Winter tires,1,0,1,Normal,15.5,0,0,42.0,2.8000000000000007,Restreichweite 64km = Total 136km
+Volkswagen,Golf,2016,e-Golf,85,12.02.2020,59195,69.0,12.28,Electricity,Winter tires,1,0,1,Normal,17.8,0,0,45.0,5.100000000000001,Restreichweite 50km = Total 119km
+Volkswagen,Golf,2016,e-Golf,85,11.02.2020,59126,46.0,8.33,Electricity,Winter tires,1,0,1,Normal,18.1,0,0,43.0,5.400000000000002,Restreichweite 73km = Total 119km
+Volkswagen,Golf,2016,e-Golf,85,09.02.2020,59080,73.0,12.19,Electricity,Winter tires,1,0,1,Normal,16.7,0,0,50.0,4.0,Restreichweite 48km = Total 121km
+Volkswagen,Golf,2016,e-Golf,85,07.02.2020,59007,17.0,3.52,Electricity,Winter tires,1,0,1,Normal,20.7,0,0,42.0,8.0,Restreichweite 121km = Total 138km
+Volkswagen,Golf,2016,e-Golf,85,05.02.2020,58990,68.0,10.27,Electricity,Winter tires,1,0,1,Normal,15.1,0,0,44.0,2.4000000000000004,Restreichweite 70km = Total 138km
+Volkswagen,Golf,2016,e-Golf,85,30.01.2020,58922,58.0,11.19,Electricity,Winter tires,1,0,1,Normal,19.3,1,0,44.0,6.600000000000001,Restreichweite 60km = Total 118km
+Volkswagen,Golf,2016,e-Golf,85,28.01.2020,58864,43.0,8.21,Electricity,Winter tires,1,0,1,Normal,19.1,1,0,47.0,6.400000000000002,Restreichweite 75km = Total 118km
+Volkswagen,Golf,2016,e-Golf,85,26.01.2020,58821,69.0,12.28,Electricity,Winter tires,1,0,1,Normal,17.8,1,1,45.0,5.100000000000001,Restreichweite 38km = Total 107km
+Volkswagen,Golf,2016,e-Golf,85,24.01.2020,58752,70.0,14.63,Electricity,Winter tires,1,0,1,Normal,20.9,1,1,45.0,8.2,Restreichweite 22km = Total 92km
+Volkswagen,Golf,2016,e-Golf,85,22.01.2020,58682,41.0,9.39,Electricity,Winter tires,1,0,1,Normal,22.9,1,0,47.0,10.2,
+Volkswagen,Golf,2016,e-Golf,85,20.01.2020,58641,21.0,4.22,Electricity,Winter tires,1,0,1,Normal,20.1,1,0,49.0,7.400000000000002,
+Volkswagen,Golf,2016,e-Golf,85,19.01.2020,58620,74.0,13.32,Electricity,Winter tires,1,0,1,Normal,18.0,1,1,46.0,5.300000000000001,
+Volkswagen,Golf,2016,e-Golf,85,16.01.2020,58546,57.0,10.55,Electricity,Winter tires,1,0,1,Normal,18.5,1,0,37.0,5.800000000000001,Restreichweite 58km = Total 115km
+Volkswagen,Golf,2016,e-Golf,85,15.01.2020,58489,54.0,10.75,Electricity,Winter tires,1,0,1,Normal,19.9,1,0,40.0,7.199999999999999,Restreichweite 57km = Total 111km
+Volkswagen,Golf,2016,e-Golf,85,13.01.2020,58435,47.0,9.07,Electricity,Winter tires,1,0,1,Normal,19.3,1,1,43.0,6.600000000000001,Restreichweite 63km = Total 110km
+Volkswagen,Golf,2016,e-Golf,85,12.01.2020,58388,52.0,8.63,Electricity,Winter tires,1,0,1,Normal,16.6,1,0,45.0,3.900000000000002,Restreichweite 78km = Total 130km
+Volkswagen,Golf,2016,e-Golf,85,09.01.2020,58336,51.0,8.16,Electricity,Winter tires,1,0,1,Normal,16.0,1,0,42.0,3.3000000000000007,Restreichweite 92km = Total 143km
+Volkswagen,Golf,2016,e-Golf,85,08.01.2020,58285,39.0,8.0,Electricity,Winter tires,1,0,1,Normal,20.5,1,0,43.0,7.800000000000001,Restreichweite 72km = Total 111km
+Volkswagen,Golf,2016,e-Golf,85,07.01.2020,58246,53.0,11.08,Electricity,Winter tires,1,0,1,Normal,20.9,1,0,42.0,8.2,Restreichweite 51km = Total 104km
+Volkswagen,Golf,2016,e-Golf,85,05.01.2020,58193,56.0,9.41,Electricity,Winter tires,1,0,1,Normal,16.8,1,0,39.0,4.100000000000001,Restreichweite 70km = Total 126km
+Volkswagen,Golf,2016,e-Golf,85,01.01.2020,58137,57.0,11.0,Electricity,Winter tires,1,0,1,Normal,19.3,1,1,42.0,6.600000000000001,Restreichweite 53km = Total 110km
+Volkswagen,Golf,2016,e-Golf,85,30.12.2019,58080,29.0,6.26,Electricity,Winter tires,1,0,1,Normal,21.6,1,0,41.0,8.900000000000002,Restreichweite 88km = Total 117km
+Volkswagen,Golf,2016,e-Golf,85,29.12.2019,58051,41.0,7.71,Electricity,Winter tires,1,0,1,Normal,18.8,1,0,42.0,6.100000000000001,Restreichweite 75km = Total 116km
+Volkswagen,Golf,2016,e-Golf,85,28.12.2019,58010,19.0,3.14,Electricity,Winter tires,1,0,1,Normal,16.5,1,0,38.0,3.8000000000000007,Restreichweite 139km = Total 158km
+Volkswagen,Golf,2016,e-Golf,85,27.12.2019,57991,78.0,12.32,Electricity,Winter tires,1,1,1,Normal,15.8,1,0,65.0,3.1000000000000014,Restreichweite 50km = Total 128km
+Volkswagen,Golf,2016,e-Golf,85,27.12.2019,57913,79.0,13.51,Electricity,Winter tires,1,1,1,Normal,17.1,1,0,62.0,4.400000000000002,Bei Freunden zuhause gratis geladen
+Volkswagen,Golf,2016,e-Golf,85,27.12.2019,57834,26.0,3.72,Electricity,Winter tires,1,0,1,Normal,14.3,0,0,52.0,1.6000000000000014,Restreichweite 125km = Total 151km
+Volkswagen,Golf,2016,e-Golf,85,26.12.2019,57808,37.0,6.62,Electricity,Winter tires,1,0,1,Normal,17.9,0,0,48.0,5.199999999999999,Restreichweite 97km = Total 134km
+Volkswagen,Golf,2016,e-Golf,85,25.12.2019,57771,47.0,8.23,Electricity,Winter tires,1,0,1,Normal,17.5,0,0,43.0,4.800000000000001,Restreichweite 78km = Total 125km
+Volkswagen,Golf,2016,e-Golf,85,23.12.2019,57724,46.0,8.97,Electricity,Winter tires,1,0,1,Normal,19.5,0,0,41.0,6.800000000000001,Restreichweite 68km = Total 114km
+Volkswagen,Golf,2016,e-Golf,85,22.12.2019,57678,86.0,14.19,Electricity,Winter tires,1,0,1,Normal,16.5,0,0,46.0,3.8000000000000007,Restreichweite 44km = Total 130km
+Volkswagen,Golf,2016,e-Golf,85,21.12.2019,57592,49.0,8.13,Electricity,Winter tires,1,0,1,Normal,16.6,0,0,42.0,3.900000000000002,Restreichweite 83km = Total 132km
+Volkswagen,Golf,2016,e-Golf,85,20.12.2019,57543,64.0,10.37,Electricity,Winter tires,1,1,1,Normal,16.2,0,0,67.0,3.5,
+Volkswagen,Golf,2016,e-Golf,85,20.12.2019,57479,91.0,14.19,Electricity,Winter tires,1,1,1,Normal,15.6,0,0,42.0,2.9000000000000004,CCS Uster kostenlos
+Volkswagen,Golf,2016,e-Golf,85,20.12.2019,57388,96.0,16.03,Electricity,Winter tires,1,0,1,Normal,16.7,0,0,43.0,4.0,"CCS Thermalbad Zurzach Parkgebühr Fr.1.00, Strom kostenlos"
+Volkswagen,Golf,2016,e-Golf,85,17.12.2019,57292,25.0,5.1,Electricity,Winter tires,1,0,1,Normal,20.4,0,0,47.0,7.699999999999999,Restreichweite 100km = Total 125km
+Volkswagen,Golf,2016,e-Golf,85,16.12.2019,57267,61.0,10.0,Electricity,Winter tires,1,0,1,Normal,16.4,0,0,45.0,3.6999999999999993,Restreichweite 63km = Total 124km
+Volkswagen,Golf,2016,e-Golf,85,13.12.2019,57206,72.0,13.61,Electricity,Winter tires,1,0,1,Normal,18.9,0,0,45.0,6.199999999999999,
+Volkswagen,Golf,2016,e-Golf,85,12.12.2019,57134,26.0,4.32,Electricity,Winter tires,1,0,1,Normal,16.6,0,0,40.0,3.900000000000002,Restreichweite 118km = Total 144km
+Volkswagen,Golf,2016,e-Golf,85,11.12.2019,57108,65.0,11.64,Electricity,Winter tires,1,0,1,Normal,17.9,0,0,46.0,5.199999999999999,Restreichweite 59km = Total 124km
+Volkswagen,Golf,2016,e-Golf,85,10.12.2019,57043,36.0,6.59,Electricity,Winter tires,1,0,1,Normal,18.3,0,0,37.0,5.600000000000001,Restreichweite 97km = Total 133km
+Volkswagen,Golf,2016,e-Golf,85,09.12.2019,57007,68.0,10.4,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,49.0,2.6000000000000014,Restreichweite 63km = Total 131km
+Volkswagen,Golf,2016,e-Golf,85,09.12.2019,56939,25.0,3.4,Electricity,Winter tires,1,0,1,Normal,13.6,0,0,44.0,0.9000000000000004,Restreichweite 131km = Total 156km
+Volkswagen,Golf,2016,e-Golf,85,07.12.2019,56914,84.0,11.84,Electricity,Winter tires,1,0,1,Normal,14.1,0,0,46.0,1.4000000000000004,Restreichweite 63km = Total 147km
+Volkswagen,Golf,2016,e-Golf,85,07.12.2019,56830,60.0,10.02,Electricity,Winter tires,1,0,1,Normal,16.7,0,0,42.0,4.0,Restreichweite 68km = Total 128km
+Volkswagen,Golf,2016,e-Golf,85,05.12.2019,56770,59.0,8.85,Electricity,Winter tires,1,1,1,Normal,15.0,0,0,63.0,2.3000000000000007,
+Volkswagen,Golf,2016,e-Golf,85,05.12.2019,56711,65.0,11.31,Electricity,Winter tires,1,1,1,Normal,17.4,0,0,71.0,4.699999999999999,CCS Gunzgen Süd
+Volkswagen,Golf,2016,e-Golf,85,05.12.2019,56646,51.0,9.13,Electricity,Winter tires,1,1,1,Normal,17.9,0,0,88.0,5.199999999999999,CCS Ionity Grauholz
+Volkswagen,Golf,2016,e-Golf,85,05.12.2019,56595,62.0,11.1,Electricity,Winter tires,1,1,1,Normal,17.9,0,0,57.0,5.199999999999999,CCS Gunzgen Nord
+Volkswagen,Golf,2016,e-Golf,85,04.12.2019,56533,44.0,9.37,Electricity,Winter tires,1,0,1,Normal,21.3,0,0,43.0,8.600000000000001,Restreichweite 64km = Total 108km
+Volkswagen,Golf,2016,e-Golf,85,03.12.2019,56489,45.0,9.32,Electricity,Winter tires,1,0,1,Normal,20.7,0,0,45.0,8.0,Restreichweite 64km = Total 109km
+Volkswagen,Golf,2016,e-Golf,85,02.12.2019,56444,51.0,10.05,Electricity,Winter tires,1,0,1,Normal,19.7,0,0,43.0,7.0,Restreichweite 57km = Total 108km
+Volkswagen,Golf,2016,e-Golf,85,30.11.2019,56393,70.0,13.72,Electricity,Winter tires,1,0,1,Normal,19.6,0,0,42.0,6.900000000000002,Restreichweite 37km = Total 107km
+Volkswagen,Golf,2016,e-Golf,85,27.11.2019,56323,50.0,6.9,Electricity,Winter tires,1,0,1,Normal,13.8,0,0,40.0,1.1000000000000014,Restreichweite 101km = Total 151km
+Volkswagen,Golf,2016,e-Golf,85,25.11.2019,56273,79.0,12.17,Electricity,Winter tires,1,0,1,Normal,15.4,0,0,44.0,2.700000000000001,Restreichweite 54km = Total 133km
+Volkswagen,Golf,2016,e-Golf,85,23.11.2019,56194,78.0,12.17,Electricity,Winter tires,1,0,1,Normal,15.6,0,0,48.0,2.9000000000000004,Restreichweite 54km = Total 132km
+Volkswagen,Golf,2016,e-Golf,85,22.11.2019,56116,40.0,7.52,Electricity,Winter tires,1,0,1,Normal,18.8,0,0,38.0,6.100000000000001,Restreichweite 77km = Total 117km
+Volkswagen,Golf,2016,e-Golf,85,21.11.2019,56076,81.0,11.26,Electricity,Winter tires,1,0,1,Normal,13.9,0,0,43.0,1.200000000000001,Restreichweite 63km = Total 144km
+Volkswagen,Golf,2016,e-Golf,85,20.11.2019,55995,33.0,6.53,Electricity,Winter tires,1,0,1,Normal,19.8,0,0,35.0,7.100000000000001,Restreichweite 75km = Total 108km
+Volkswagen,Golf,2016,e-Golf,85,19.11.2019,55962,79.0,14.77,Electricity,Winter tires,1,0,1,Normal,18.7,0,0,43.0,6.0,Restreichweite 24km = Total 103km
+Volkswagen,Golf,2016,e-Golf,85,17.11.2019,55883,48.0,9.36,Electricity,Winter tires,1,0,1,Normal,19.5,0,0,43.0,6.800000000000001,Restreichweite 65km = Total 113km
+Volkswagen,Golf,2016,e-Golf,85,15.11.2019,55835,21.0,3.57,Electricity,Winter tires,1,0,1,Normal,17.0,0,0,50.0,4.300000000000001,
+Volkswagen,Golf,2016,e-Golf,85,15.11.2019,55814,55.0,9.13,Electricity,Winter tires,1,0,1,Normal,16.6,0,0,42.0,3.900000000000002,
+Volkswagen,Golf,2016,e-Golf,85,14.11.2019,55759,65.0,12.03,Electricity,Winter tires,1,0,1,Normal,18.5,0,0,39.0,5.800000000000001,Restreichweite 42km = Total 107km
+Volkswagen,Golf,2016,e-Golf,85,12.11.2019,55694,65.0,10.99,Electricity,Winter tires,1,0,1,Normal,16.9,0,0,47.0,4.199999999999999,Restreichweite 58km = Total 123km
+Volkswagen,Golf,2016,e-Golf,85,10.11.2019,55629,47.0,7.19,Electricity,Winter tires,1,0,1,Normal,15.3,0,0,41.0,2.6000000000000014,Restreichweite 96km = Total 143km
+Volkswagen,Golf,2016,e-Golf,85,09.11.2019,55582,113.0,15.93,Electricity,Winter tires,1,1,1,Normal,14.1,0,0,54.0,1.4000000000000004,Restreichweite 22km = Total 135km
+Volkswagen,Golf,2016,e-Golf,85,08.11.2019,55469,92.0,15.46,Electricity,Winter tires,1,0,1,Normal,16.8,0,0,41.0,4.100000000000001,Restreichweite 18km = Total 110km
+Volkswagen,Golf,2016,e-Golf,85,06.11.2019,55377,83.0,13.28,Electricity,Winter tires,1,0,1,Normal,16.0,0,0,38.0,3.3000000000000007,Restreichweite 40km = Total 123km
+Volkswagen,Golf,2016,e-Golf,85,04.11.2019,55294,29.0,4.79,Electricity,Winter tires,1,0,1,Normal,16.5,0,0,42.0,3.8000000000000007,Restreichweite 112km = Total 141km
+Volkswagen,Golf,2016,e-Golf,85,02.11.2019,55265,115.0,14.95,Electricity,Winter tires,1,0,1,Normal,13.0,0,0,42.0,0.3000000000000007,Restreichweite 35km = Total 150km
+Volkswagen,Golf,2016,e-Golf,85,31.10.2019,55150,67.0,11.72,Electricity,Winter tires,1,0,1,Normal,17.5,0,0,41.0,4.800000000000001,Restreichweite 54km = Total 121km
+Volkswagen,Golf,2016,e-Golf,85,29.10.2019,55083,74.0,11.25,Electricity,Winter tires,1,0,1,Normal,15.2,0,0,40.0,2.5,Restreichweite 66km = Total 140km
+Volkswagen,Golf,2016,e-Golf,85,27.10.2019,55009,92.0,11.32,Electricity,Summer tires,1,0,1,Normal,12.3,0,0,50.0,-0.3999999999999986,Restreichweite 73km = Total 165km
+Volkswagen,Golf,2016,e-Golf,85,25.10.2019,54917,26.0,3.9,Electricity,Summer tires,1,0,1,Normal,15.0,0,0,45.0,2.3000000000000007,
+Volkswagen,Golf,2016,e-Golf,85,25.10.2019,54891,104.0,13.52,Electricity,Summer tires,1,0,1,Normal,13.0,0,0,42.0,0.3000000000000007,
+Volkswagen,Golf,2016,e-Golf,85,22.10.2019,54787,58.0,7.66,Electricity,Summer tires,1,0,1,Normal,13.2,0,0,38.0,0.5,Restreichweite 99km = Total 157km
+Volkswagen,Golf,2016,e-Golf,85,21.10.2019,54729,108.0,15.12,Electricity,Summer tires,1,1,1,Normal,14.0,0,0,55.0,1.3000000000000007,Restreichweite 24km = Total 132km
+Volkswagen,Golf,2016,e-Golf,85,21.10.2019,54621,48.0,5.86,Electricity,Summer tires,1,0,1,Normal,12.2,0,0,41.0,-0.5,Restreichweite 128km = Total 176km
+Volkswagen,Golf,2016,e-Golf,85,20.10.2019,54573,43.0,6.67,Electricity,Summer tires,1,0,1,Normal,15.5,0,0,46.0,2.8000000000000007,Restreichweite 96km = Total 139km
+Volkswagen,Golf,2016,e-Golf,85,19.10.2019,54530,113.0,14.69,Electricity,Summer tires,1,0,1,Normal,13.0,0,0,40.0,0.3000000000000007,Restreichweite 31km = Total 144km
+Volkswagen,Golf,2016,e-Golf,85,15.10.2019,54417,75.0,9.53,Electricity,Summer tires,1,0,1,Normal,12.7,0,0,45.0,0.0,
+Volkswagen,Golf,2016,e-Golf,85,13.10.2019,54342,115.0,14.14,Electricity,Summer tires,1,1,1,Normal,12.3,0,0,50.0,-0.3999999999999986,Restreichweite 48km = Total 163km
+Volkswagen,Golf,2016,e-Golf,85,11.10.2019,54227,43.0,5.89,Electricity,Summer tires,1,0,1,Normal,13.7,0,0,40.0,1.0,Restreichweite 118km = Total 161km
+Volkswagen,Golf,2016,e-Golf,85,10.10.2019,54184,114.0,15.5,Electricity,Summer tires,1,1,1,Moderate,13.6,0,0,51.0,0.9000000000000004,Restreichweite 31km = Total 145km
+Volkswagen,Golf,2016,e-Golf,85,09.10.2019,54070,52.0,8.06,Electricity,Summer tires,1,0,1,Moderate,15.5,0,0,43.0,2.8000000000000007,Restreichweite 93km = Total 145km
+Volkswagen,Golf,2016,e-Golf,85,08.10.2019,54018,87.0,11.22,Electricity,Summer tires,1,0,1,Normal,12.9,0,0,40.0,0.20000000000000107,Restreichweite 74km = Total 161km
+Volkswagen,Golf,2016,e-Golf,85,05.10.2019,53931,92.0,13.25,Electricity,Summer tires,1,1,1,Normal,14.4,0,0,58.0,1.700000000000001,Restreichweite 41km = Total 132km
+Volkswagen,Golf,2016,e-Golf,85,04.10.2019,53839,89.0,10.77,Electricity,Summer tires,1,0,1,Normal,12.1,0,0,42.0,-0.5999999999999996,Restreichweite 76km = Total 165km
+Volkswagen,Golf,2016,e-Golf,85,03.10.2019,53750,93.0,12.56,Electricity,Summer tires,1,1,1,Normal,13.5,0,0,65.0,0.8000000000000007,Restreichweite 50km = Total 143km
+Volkswagen,Golf,2016,e-Golf,85,02.10.2019,53657,60.0,6.78,Electricity,Summer tires,1,0,1,Normal,11.3,0,0,37.0,-1.3999999999999986,Restreichweite 119km = Total 179km
+Volkswagen,Golf,2016,e-Golf,85,01.10.2019,53597,102.0,12.03,Electricity,Summer tires,1,1,1,Normal,11.8,0,0,45.0,-0.8999999999999986,
+Volkswagen,Golf,2016,e-Golf,85,01.10.2019,53495,93.0,12.0,Electricity,Summer tires,1,1,1,Normal,12.9,0,0,57.0,0.20000000000000107,CCS Restreichweite 58km = Total 151km
+Volkswagen,Golf,2016,e-Golf,85,29.09.2019,53402,132.0,14.65,Electricity,Summer tires,1,1,1,Normal,11.1,0,0,58.0,-1.5999999999999996,
+Volkswagen,Golf,2016,e-Golf,85,28.09.2019,53270,92.0,11.32,Electricity,Summer tires,1,1,1,Normal,12.3,0,0,56.0,-0.3999999999999986,CCS
+Volkswagen,Golf,2016,e-Golf,85,27.09.2019,53178,90.0,11.61,Electricity,Summer tires,1,0,1,Normal,12.9,0,0,36.0,0.20000000000000107,
+Volkswagen,Golf,2016,e-Golf,85,25.09.2019,53088,113.0,14.24,Electricity,Summer tires,1,0,1,Normal,12.6,0,0,43.0,-0.09999999999999964,Restreichweite 42km = Total 155km

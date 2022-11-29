@@ -1,0 +1,1302 @@
+manufacturer,model,year,version,power(kW),fuel_date,odometer,trip_distance(km),quantity(kWh),fuel_type,tire_type,city,motor_way,country_roads,driving_style,consumption(kWh/100km),A/C,park_heating,avg_speed(km/h),ecr_deviation,fuel_note
+Opel,Ampera,2017,Ampera-e First Edition,150,11.10.2022,162231,121.0,26.52,Electricity,Summer tires,1,1,0,Fast,,0,0,,,31-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.10.2022,162110,107.0,15.74,Electricity,Summer tires,0,1,0,Normal,,0,0,,,"40-62, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,09.10.2022,162003,273.0,23.53,Electricity,Summer tires,1,1,1,Normal,,0,0,,,"27-68%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,09.10.2022,161730,120.0,20.0,Electricity,Summer tires,1,0,1,Normal,16.67,0,0,,0.1700000000000017,70-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.10.2022,161610,51.0,32.28,Electricity,Summer tires,0,0,1,Normal,16.34,0,0,,-0.16000000000000014,57-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.10.2022,161559,352.0,33.56,Electricity,Summer tires,0,1,1,Normal,16.34,0,0,,-0.16000000000000014,"21-71%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,06.10.2022,161207,6.0,23.0,Electricity,Summer tires,1,0,0,Fast,19.16,0,0,,2.66,62-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.10.2022,161201,22.0,7.7,Electricity,Summer tires,1,0,0,Fast,19.16,0,0,,2.66,"55-65%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.10.2022,161179,70.0,13.68,Electricity,Summer tires,0,1,0,Fast,19.16,0,0,,2.66,"39-61%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.10.2022,161109,189.0,25.81,Electricity,Summer tires,0,1,1,Fast,19.16,0,1,,2.66,19-55%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.10.2022,160920,222.0,27.33,Electricity,Summer tires,0,1,1,Fast,19.16,0,0,,2.66,31-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.10.2022,160698,22.0,26.73,Electricity,Summer tires,1,1,1,Fast,20.33,0,0,,3.8299999999999983,67-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.09.2022,160676,110.0,44.6,Electricity,Summer tires,0,1,0,Fast,20.33,0,0,,3.8299999999999983,"11-75%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.09.2022,160566,209.0,18.55,Electricity,Summer tires,0,1,0,Fast,20.33,0,0,,3.8299999999999983,"16-44%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.09.2022,160357,232.0,30.71,Electricity,Summer tires,0,1,0,Fast,20.33,0,0,,3.8299999999999983,"28-72%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.09.2022,160125,37.0,3.4,Electricity,Summer tires,0,1,0,Fast,20.33,0,0,,3.8299999999999983,"87-92%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.09.2022,160088,5.0,1.0,Electricity,Summer tires,1,0,0,Fast,,0,0,,,
+Opel,Ampera,2017,Ampera-e First Edition,150,04.08.2022,160083,193.0,12.7,Electricity,Summer tires,0,1,0,Fast,,1,0,,,"8-25%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.08.2022,159890,183.0,33.85,Electricity,Summer tires,0,1,0,Fast,,1,0,,,"11-70%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.08.2022,159707,205.0,36.28,Electricity,Summer tires,0,1,0,Fast,,1,0,,,"6-67%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.08.2022,159502,88.0,24.63,Electricity,Summer tires,1,1,1,Fast,,0,0,,,30-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.08.2022,159414,119.0,23.0,Electricity,Summer tires,1,1,0,Fast,,0,0,,,19-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.07.2022,159295,130.0,19.37,Electricity,Summer tires,1,1,0,Fast,,0,0,,,"17-55%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,28.07.2022,159165,104.0,19.0,Electricity,Summer tires,1,1,0,Fast,,0,0,,,19-53%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.07.2022,159061,67.0,13.98,Electricity,Summer tires,0,1,0,Fast,,0,0,,,"24-50%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,26.07.2022,158994,228.0,19.1,Electricity,Summer tires,1,1,1,Fast,,0,0,,,11-44%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.07.2022,158766,117.0,13.0,Electricity,Summer tires,1,1,1,Fast,,0,0,,,50-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.07.2022,158649,132.0,22.05,Electricity,Summer tires,1,1,1,Fast,16.7,1,0,,0.1999999999999993,"44-81%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,18.07.2022,158517,86.0,17.0,Electricity,Summer tires,1,1,1,Fast,15.95,0,0,,-0.5500000000000007,51-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.07.2022,158431,123.0,22.46,Electricity,Summer tires,1,1,1,Fast,15.95,0,0,,-0.5500000000000007,"36-78%, BEW "
+Opel,Ampera,2017,Ampera-e First Edition,150,14.07.2022,158308,71.0,20.17,Electricity,Summer tires,0,1,0,Fast,15.95,0,0,,-0.5500000000000007,37-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.07.2022,158237,127.0,15.0,Electricity,Summer tires,1,1,1,Fast,15.95,0,0,,-0.5500000000000007,"32-60%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,12.07.2022,158110,205.0,23.0,Electricity,Summer tires,1,1,1,Fast,15.95,0,0,,-0.5500000000000007,24-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.07.2022,157905,16.0,2.36,Electricity,Summer tires,1,0,0,Fast,14.75,0,0,,-1.75,"79-83%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,07.07.2022,157889,79.0,17.15,Electricity,Summer tires,1,1,0,Fast,16.01,0,0,,-0.48999999999999844,"50-83%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,07.07.2022,157810,101.0,24.62,Electricity,Summer tires,1,1,1,Fast,16.01,0,0,,-0.48999999999999844,33-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.07.2022,157709,120.0,18.69,Electricity,Summer tires,1,1,1,Fast,16.01,0,0,,-0.48999999999999844,"20-63%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.07.2022,157589,231.0,23.94,Electricity,Summer tires,1,1,1,Fast,16.01,0,0,,-0.48999999999999844,19-61%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.06.2022,157358,171.0,28.0,Electricity,Summer tires,1,1,1,Fast,16.01,0,0,,-0.48999999999999844,30-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.06.2022,157187,119.0,21.78,Electricity,Summer tires,1,1,1,Fast,18.3,0,0,,1.8000000000000007,45-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.06.2022,157068,87.0,12.81,Electricity,Summer tires,1,1,1,Fast,14.72,0,0,,-1.7799999999999994,60-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.06.2022,156981,125.0,19.0,Electricity,Summer tires,1,1,1,Fast,15.2,0,0,,-1.3000000000000007,50-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.06.2022,156856,82.0,24.16,Electricity,Summer tires,0,1,0,Fast,16.42,1,0,,-0.0799999999999983,"39-83%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.06.2022,156774,156.0,22.47,Electricity,Summer tires,1,1,0,Fast,16.42,1,0,,-0.0799999999999983,23-64%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.06.2022,156618,90.0,27.03,Electricity,Summer tires,0,1,1,Fast,16.42,1,0,,-0.0799999999999983,"28-76%, KVW"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.06.2022,156528,214.0,14.76,Electricity,Summer tires,1,0,1,Fast,16.42,1,0,,-0.0799999999999983,"29-59%, VKW"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.06.2022,156314,2.0,13.92,Electricity,Summer tires,1,0,0,Fast,16.42,1,0,,-0.0799999999999983,"56-79%, VKW"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.06.2022,156312,88.0,8.58,Electricity,Summer tires,1,1,1,Fast,16.42,1,0,,-0.0799999999999983,"40-56%, VKW"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.06.2022,156224,160.0,29.97,Electricity,Summer tires,1,1,1,Fast,16.42,0,0,,-0.0799999999999983,"12-69%, VKW"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.06.2022,156064,87.0,15.04,Electricity,Summer tires,1,1,1,Fast,16.42,0,0,,-0.0799999999999983,38-68%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.06.2022,155977,116.0,18.04,Electricity,Summer tires,1,1,1,Fast,16.42,0,0,,-0.0799999999999983,31-68%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.06.2022,155861,158.0,15.37,Electricity,Summer tires,1,1,1,Fast,16.42,0,0,,-0.0799999999999983,35-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.06.2022,155703,98.0,27.26,Electricity,Summer tires,1,1,0,Fast,15.89,0,0,,-0.6099999999999994,34-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.06.2022,155605,182.0,17.24,Electricity,Summer tires,1,1,1,Fast,15.89,0,0,,-0.6099999999999994,"29-61%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,02.06.2022,155423,158.0,26.09,Electricity,Summer tires,1,1,1,Fast,16.51,0,0,,0.010000000000001563,35-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.05.2022,155265,82.0,21.74,Electricity,Summer tires,1,1,1,Fast,16.79,0,0,,0.28999999999999915,45-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.05.2022,155183,106.0,36.2,Electricity,Summer tires,1,1,1,Fast,16.79,0,0,,0.28999999999999915,"12-74%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,29.05.2022,155077,102.0,20.9,Electricity,Summer tires,0,1,1,Fast,16.79,0,0,,0.28999999999999915,"6-38%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,29.05.2022,154975,45.0,2.72,Electricity,Summer tires,1,1,1,Fast,16.79,0,0,,0.28999999999999915,36-39%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.05.2022,154930,184.0,12.03,Electricity,Summer tires,0,1,1,Fast,16.79,1,0,,0.28999999999999915,"26-50%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.05.2022,154746,128.0,31.8,Electricity,Summer tires,0,1,0,Normal,16.79,1,0,,0.28999999999999915,10-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.05.2022,154618,94.0,17.37,Electricity,Summer tires,0,1,1,Normal,16.79,1,0,,0.28999999999999915,30-61%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.05.2022,154524,152.0,14.03,Electricity,Summer tires,1,0,1,Normal,16.79,1,0,,0.28999999999999915,"40-65%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.05.2022,154372,64.0,15.03,Electricity,Summer tires,0,1,1,Fast,16.79,1,0,,0.28999999999999915,"46-71%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.05.2022,154308,159.0,21.54,Electricity,Summer tires,0,1,0,Fast,16.79,1,0,,0.28999999999999915,31-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.05.2022,154149,214.0,29.96,Electricity,Summer tires,0,1,1,Fast,16.79,0,0,,0.28999999999999915,20-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.05.2022,153935,3.0,2.96,Electricity,Summer tires,1,0,0,Fast,18.73,0,0,,2.2300000000000004,77-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.05.2022,153932,11.0,13.97,Electricity,Summer tires,1,0,0,Fast,18.73,0,0,,2.2300000000000004,"55-78%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.05.2022,153921,83.0,15.0,Electricity,Summer tires,1,1,0,Fast,18.73,0,0,,2.2300000000000004,31-59%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.05.2022,153838,161.0,18.0,Electricity,Summer tires,1,1,1,Fast,18.73,0,0,,2.2300000000000004,32-
+Opel,Ampera,2017,Ampera-e First Edition,150,17.05.2022,153677,149.0,26.23,Electricity,Summer tires,1,1,0,Fast,18.73,0,0,,2.2300000000000004,33-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.05.2022,153528,92.0,29.0,Electricity,Summer tires,1,1,1,Fast,18.73,0,0,,2.2300000000000004,20-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.05.2022,153436,172.0,17.47,Electricity,Summer tires,1,1,0,Fast,18.73,0,0,,2.2300000000000004,18-
+Opel,Ampera,2017,Ampera-e First Edition,150,10.05.2022,153264,101.0,23.98,Electricity,Summer tires,1,1,0,Fast,18.73,0,0,,2.2300000000000004,24-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.05.2022,153163,160.0,23.86,Electricity,Summer tires,0,1,0,Fast,18.73,0,0,,2.2300000000000004,7-53%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.04.2022,153003,156.0,33.34,Electricity,Summer tires,0,1,1,Fast,18.73,0,0,,2.2300000000000004,"17-79%, EnelX"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.04.2022,152847,52.0,12.26,Electricity,Summer tires,1,0,0,Fast,17.04,0,0,,0.5399999999999991,-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.04.2022,152795,73.0,23.05,Electricity,Summer tires,0,1,0,Fast,17.04,0,0,,0.5399999999999991,27-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.04.2022,152722,206.0,21.1,Electricity,Summer tires,1,1,1,Fast,17.04,0,0,,0.5399999999999991,11-51%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.04.2022,152516,126.0,24.89,Electricity,Summer tires,1,1,0,Fast,19.75,0,0,,3.25,40-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.04.2022,152390,88.0,34.49,Electricity,Summer tires,1,1,0,Fast,17.74,0,0,,1.2399999999999984,19-84%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.04.2022,152302,70.0,21.55,Electricity,Summer tires,0,1,0,Fast,17.74,0,0,,1.2399999999999984,5-44%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.04.2022,152232,118.0,4.79,Electricity,Summer tires,1,1,1,Fast,17.74,0,1,,1.2399999999999984,24-34%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.04.2022,152114,210.0,25.39,Electricity,Summer tires,1,1,1,Fast,17.74,0,1,,1.2399999999999984,16-62%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.04.2022,151904,122.0,27.86,Electricity,Summer tires,1,1,0,Fast,19.49,0,0,,2.9899999999999984,31-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.04.2022,151782,70.0,10.05,Electricity,Summer tires,0,1,0,Fast,19.49,0,0,,2.9899999999999984,49-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.04.2022,151712,138.0,26.41,Electricity,Summer tires,1,1,0,Fast,19.49,0,0,,2.9899999999999984,23-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.04.2022,151574,12.0,10.65,Electricity,Summer tires,1,0,0,Fast,21.28,0,0,,4.780000000000001,69-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.04.2022,151562,112.0,29.69,Electricity,Summer tires,1,1,0,Fast,21.28,0,0,,4.780000000000001,18-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.04.2022,151450,124.0,18.57,Electricity,Summer tires,1,1,0,Fast,21.28,0,0,,4.780000000000001,28-63%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.04.2022,151326,5.0,11.5,Electricity,Summer tires,1,1,0,Fast,21.28,0,0,,4.780000000000001,"-79%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.04.2022,151321,70.0,19.76,Electricity,Summer tires,0,1,0,Fast,21.28,0,0,,4.780000000000001,"22-61%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.04.2022,151251,129.0,22.4,Electricity,Summer tires,1,1,0,Fast,21.28,0,0,,4.780000000000001,6-53%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.04.2022,151122,19.0,0.36,Electricity,Summer tires,1,1,0,Fast,21.28,0,0,,4.780000000000001,66%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.03.2022,151103,75.0,8.57,Electricity,Summer tires,0,1,0,Fast,21.28,0,0,,4.780000000000001,59-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.03.2022,151028,96.0,24.17,Electricity,Summer tires,1,1,0,Fast,21.28,0,0,,4.780000000000001,44-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.03.2022,150932,70.0,31.62,Electricity,Summer tires,0,1,0,Fast,21.28,0,0,,4.780000000000001,"24-83%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,29.03.2022,150862,213.0,24.52,Electricity,Summer tires,1,1,1,Fast,21.28,0,0,,4.780000000000001,5-51%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.03.2022,150649,104.0,26.5,Electricity,Summer tires,1,1,0,Fast,21.28,0,0,,4.780000000000001,32-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.03.2022,150545,70.0,24.09,Electricity,Summer tires,0,1,0,Fast,21.28,0,0,,4.780000000000001,"32-77%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,22.03.2022,150475,170.0,28.99,Electricity,Summer tires,1,1,1,Normal,21.28,0,0,,4.780000000000001,4-57%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.03.2022,150305,115.0,22.48,Electricity,Summer tires,1,1,0,Fast,21.28,0,0,,4.780000000000001,35-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.03.2022,150190,70.0,22.27,Electricity,Summer tires,0,1,0,Fast,21.28,0,0,,4.780000000000001,"41-79%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,15.03.2022,150120,91.0,24.0,Electricity,Summer tires,1,1,1,Fast,21.28,0,0,,4.780000000000001,25-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.03.2022,150029,172.0,21.56,Electricity,Summer tires,1,1,1,Fast,21.28,0,0,,4.780000000000001,"25-62%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,10.03.2022,149857,104.0,24.07,Electricity,Winter tires,1,1,1,Normal,21.28,0,0,,4.780000000000001,40-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.03.2022,149753,78.0,8.43,Electricity,Winter tires,0,1,0,Normal,21.28,0,0,,4.780000000000001,"64-78%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.03.2022,149675,91.0,24.42,Electricity,Winter tires,1,0,0,Normal,22.58,0,0,,6.079999999999998,46-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.03.2022,149584,16.0,24.12,Electricity,Winter tires,1,0,0,Normal,22.58,0,0,,6.079999999999998,"48-80%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.03.2022,149568,93.0,14.58,Electricity,Winter tires,1,1,1,Normal,22.58,0,0,,6.079999999999998,"28-54%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,03.03.2022,149475,176.0,27.92,Electricity,Winter tires,1,1,1,Normal,22.58,0,0,,6.079999999999998,13-63%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.03.2022,149299,84.0,24.22,Electricity,Winter tires,1,1,1,Normal,22.58,0,0,,6.079999999999998,34-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2022,149215,19.0,36.0,Electricity,Winter tires,1,0,1,Normal,22.58,0,0,,6.079999999999998,7-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2022,149196,160.0,6.76,Electricity,Winter tires,0,1,1,Normal,22.58,0,0,,6.079999999999998,"1-14%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2022,149036,59.0,17.21,Electricity,Winter tires,0,1,0,Fast,22.58,0,0,,6.079999999999998,"39-69%, SWM"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2022,148977,79.0,22.9,Electricity,Winter tires,0,1,0,Fast,22.58,0,0,,6.079999999999998,"23-65%, SWM"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2022,148898,130.0,22.54,Electricity,Winter tires,0,1,0,Fast,22.58,0,0,,6.079999999999998,"7-55%, SWM"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2022,148768,86.0,23.8,Electricity,Winter tires,0,1,1,Fast,22.58,0,0,,6.079999999999998,"20-64%, SWM"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2022,148682,220.0,22.4,Electricity,Winter tires,1,1,0,Fast,22.58,0,1,,6.079999999999998,"7-49%, SWM"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2022,148462,9.0,12.34,Electricity,Winter tires,1,0,0,Normal,22.58,0,1,,6.079999999999998,"83-100%, Hotel"
+Opel,Ampera,2017,Ampera-e First Edition,150,25.02.2022,148453,12.0,27.93,Electricity,Winter tires,1,0,0,Normal,22.58,0,1,,6.079999999999998,"46-89, Hotel"
+Opel,Ampera,2017,Ampera-e First Edition,150,25.02.2022,148441,135.0,1.97,Electricity,Winter tires,1,0,1,Fast,22.58,0,1,,6.079999999999998,"50-53%, Enel X"
+Opel,Ampera,2017,Ampera-e First Edition,150,22.02.2022,148306,87.0,45.68,Electricity,Winter tires,1,1,0,Fast,24.09,0,1,,7.59,"27-100%, Hotel"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.02.2022,148219,99.0,28.38,Electricity,Winter tires,1,0,0,Fast,24.09,0,1,,7.59,"14-66%, Enel X"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.02.2022,148120,141.0,26.44,Electricity,Winter tires,0,1,0,Fast,24.09,0,1,,7.59,"13-61%, Enel X"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.02.2022,147979,121.0,34.02,Electricity,Winter tires,0,1,0,Fast,24.09,0,1,,7.59,"6-68%, Enel X"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.02.2022,147858,107.0,27.8,Electricity,Winter tires,0,1,0,Fast,24.09,0,1,,7.59,"10-60%, Enel X"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.02.2022,147751,216.0,23.45,Electricity,Winter tires,0,1,1,Fast,24.09,0,1,,7.59,"13-58%, Enel X"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.02.2022,147535,98.0,32.64,Electricity,Winter tires,1,1,1,Fast,23.26,0,1,,6.760000000000002,50-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.02.2022,147437,104.0,27.8,Electricity,Winter tires,1,1,0,Fast,23.26,0,1,,6.760000000000002,45-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.02.2022,147333,34.0,12.1,Electricity,Winter tires,1,0,0,Normal,23.26,0,1,,6.760000000000002,"59-81%, SWM"
+Opel,Ampera,2017,Ampera-e First Edition,150,15.02.2022,147299,71.0,27.9,Electricity,Winter tires,0,1,0,Normal,23.26,0,1,,6.760000000000002,"22-74%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,15.02.2022,147228,108.0,20.2,Electricity,Winter tires,1,1,0,Normal,23.26,0,1,,6.760000000000002,17-54%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.02.2022,147120,68.0,14.84,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,"38-63%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,10.02.2022,147052,70.0,10.85,Electricity,Winter tires,0,1,0,Normal,23.26,0,1,,6.760000000000002,"45-64%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,10.02.2022,146982,94.0,18.95,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,39-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.02.2022,146888,66.0,24.29,Electricity,Winter tires,0,1,0,Normal,23.26,0,1,,6.760000000000002,"29-71%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.02.2022,146822,165.0,26.82,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,7-56%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.02.2022,146657,102.0,17.76,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,"48-77%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,03.02.2022,146555,161.0,30.47,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,31-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.02.2022,146394,115.0,24.34,Electricity,Winter tires,1,1,0,Normal,23.26,0,1,,6.760000000000002,56-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.01.2022,146279,17.0,12.93,Electricity,Winter tires,1,0,0,Normal,23.26,0,1,,6.760000000000002,"83-100%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,29.01.2022,146262,8.0,0.72,Electricity,Winter tires,1,0,0,Normal,23.26,0,1,,6.760000000000002,85-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.01.2022,146254,138.0,36.34,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,"10-87%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.01.2022,146116,97.0,26.45,Electricity,Winter tires,1,1,0,Normal,23.26,0,1,,6.760000000000002,21-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.01.2022,146019,59.0,11.0,Electricity,Winter tires,1,0,1,Normal,23.26,0,1,,6.760000000000002,43-62%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.01.2022,145960,75.0,20.04,Electricity,Winter tires,0,1,0,Normal,23.26,0,1,,6.760000000000002,"40-71%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.01.2022,145885,166.0,20.7,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,34-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.01.2022,145719,83.0,28.23,Electricity,Winter tires,1,1,0,Normal,23.26,0,1,,6.760000000000002,51-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.01.2022,145636,7.0,39.1,Electricity,Winter tires,1,0,0,Normal,23.26,0,1,,6.760000000000002,18-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.01.2022,145629,44.0,8.38,Electricity,Winter tires,1,1,0,Normal,23.26,0,1,,6.760000000000002,9-19
+Opel,Ampera,2017,Ampera-e First Edition,150,16.01.2022,145585,187.0,4.31,Electricity,Winter tires,0,1,1,Normal,23.26,0,1,,6.760000000000002,"16-23%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,15.01.2022,145398,101.0,35.94,Electricity,Winter tires,1,1,1,Normal,24.4,0,1,,7.899999999999999,33-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.01.2022,145297,114.0,28.99,Electricity,Winter tires,1,1,0,Normal,24.4,0,1,,7.899999999999999,24-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.01.2022,145183,110.0,37.25,Electricity,Winter tires,1,1,1,Normal,24.4,0,1,,7.899999999999999,"5-71%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,10.01.2022,145073,117.0,22.75,Electricity,Winter tires,1,1,1,Normal,24.4,0,1,,7.899999999999999,8-49%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.01.2022,144956,90.0,7.85,Electricity,Winter tires,1,0,0,Normal,24.4,0,1,,7.899999999999999,"42-54%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.01.2022,144866,87.0,18.24,Electricity,Winter tires,1,1,0,Normal,24.4,0,1,,7.899999999999999,"54-84%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.01.2022,144779,102.0,25.37,Electricity,Winter tires,1,1,0,Normal,22.32,0,0,,5.82,48-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.12.2021,144677,43.0,14.03,Electricity,Winter tires,1,0,1,Normal,22.32,0,1,,5.82,-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.12.2021,144634,75.0,4.0,Electricity,Winter tires,0,1,0,Normal,22.32,0,1,,5.82,45-
+Opel,Ampera,2017,Ampera-e First Edition,150,29.12.2021,144559,111.0,19.63,Electricity,Winter tires,1,1,1,Normal,22.32,0,1,,5.82,45-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.12.2021,144448,147.0,44.01,Electricity,Winter tires,1,1,1,Normal,23.77,0,1,,7.27,"11-88%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,23.12.2021,144301,112.0,24.0,Electricity,Winter tires,1,1,1,Normal,23.77,0,1,,7.27,30-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.12.2021,144189,124.0,23.03,Electricity,Winter tires,1,1,0,Normal,23.77,0,1,,7.27,34-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.12.2021,144065,106.0,48.5,Electricity,Winter tires,1,1,0,Normal,21.22,0,1,,4.719999999999999,7-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.12.2021,143959,235.0,23.86,Electricity,Winter tires,1,1,0,Normal,21.22,0,1,,4.719999999999999,"5-52%, SWM"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.12.2021,143724,16.0,13.74,Electricity,Winter tires,1,0,0,Normal,23.73,0,1,,7.23,78-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.12.2021,143708,18.0,27.53,Electricity,Winter tires,1,0,0,Normal,23.73,0,1,,7.23,"37-83%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,18.12.2021,143690,98.0,1.19,Electricity,Winter tires,1,1,1,Normal,23.73,0,0,,7.23,46-47%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.12.2021,143592,118.0,26.0,Electricity,Winter tires,1,0,1,Normal,23.73,0,0,,7.23,32-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.12.2021,143474,70.0,36.0,Electricity,Winter tires,0,1,0,Normal,23.73,0,0,,7.23,19-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.12.2021,143404,72.0,19.38,Electricity,Winter tires,0,1,0,Normal,23.73,0,1,,7.23,13-46%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.12.2021,143332,164.0,14.16,Electricity,Winter tires,1,1,1,Normal,23.73,0,1,,7.23,"18-40%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,10.12.2021,143168,88.0,25.39,Electricity,Winter tires,1,1,0,Normal,23.73,0,1,,7.23,43-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.12.2021,143080,106.0,25.28,Electricity,Winter tires,1,1,1,Normal,23.73,0,1,,7.23,"36-50% BEW Typ2, 50-77% BEW CCS"
+Opel,Ampera,2017,Ampera-e First Edition,150,07.12.2021,142974,98.0,27.78,Electricity,Winter tires,1,1,0,Normal,23.73,0,1,,7.23,30-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.12.2021,142876,70.0,31.08,Electricity,Winter tires,0,1,0,Moderate,23.73,0,1,,7.23,9-65%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.12.2021,142806,168.0,11.62,Electricity,Winter tires,1,1,0,Moderate,23.73,0,1,,7.23,"14-35%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,06.12.2021,142638,84.0,3.09,Electricity,Winter tires,1,1,1,Moderate,23.73,0,1,,7.23,"70-74%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.12.2021,142554,15.0,31.42,Electricity,Winter tires,1,0,0,Normal,23.73,0,1,,7.23,55-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.12.2021,142539,27.0,16.53,Electricity,Winter tires,1,0,0,Normal,23.73,0,1,,7.23,"33-61%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.12.2021,142512,70.0,13.2,Electricity,Winter tires,1,1,0,Normal,23.73,0,1,,7.23,"14-38%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,02.12.2021,142442,109.0,6.7,Electricity,Winter tires,1,1,1,Normal,23.73,0,1,,7.23,"44-53%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.11.2021,142333,84.0,19.56,Electricity,Winter tires,1,1,0,Normal,23.29,0,1,,6.789999999999999,60-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.11.2021,142249,81.0,33.59,Electricity,Winter tires,1,1,1,Normal,22.24,0,1,,5.739999999999998,88-
+Opel,Ampera,2017,Ampera-e First Edition,150,26.11.2021,142168,183.0,25.13,Electricity,Winter tires,1,1,1,Normal,22.24,0,1,,5.739999999999998,18-61%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.11.2021,141985,100.0,25.11,Electricity,Winter tires,1,1,0,Normal,25.11,0,1,,8.61,49-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.11.2021,141885,111.0,39.29,Electricity,Winter tires,1,1,0,Normal,22.61,0,1,,6.109999999999999,"27-87%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.11.2021,141774,24.0,10.12,Electricity,Winter tires,1,0,0,Normal,22.61,0,1,,6.109999999999999,53-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.11.2021,141750,84.0,29.08,Electricity,Summer tires,1,1,1,Normal,22.61,0,1,,6.109999999999999,14-64%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.11.2021,141666,153.0,15.0,Electricity,Summer tires,1,1,1,Normal,22.61,0,1,,6.109999999999999,21-47%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.11.2021,141513,1.0,13.5,Electricity,Summer tires,1,0,0,Normal,22.61,0,1,,6.109999999999999,53-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.11.2021,141512,180.0,21.75,Electricity,Summer tires,1,1,1,Normal,22.61,0,1,,6.109999999999999,16-53%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.11.2021,141332,96.0,18.0,Electricity,Summer tires,1,1,0,Normal,22.61,0,1,,6.109999999999999,52-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.11.2021,141236,70.0,31.95,Electricity,Summer tires,0,1,0,Normal,21.16,0,0,,4.66,"31-89%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.11.2021,141166,111.0,19.0,Electricity,Summer tires,1,1,1,Normal,21.16,0,1,,4.66,25-57%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.11.2021,141055,100.0,33.82,Electricity,Summer tires,1,1,1,Fast,21.16,0,1,,4.66,"4-65%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.11.2021,140955,74.0,10.33,Electricity,Winter tires,0,1,1,Normal,21.16,0,0,,4.66,"31-51%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.11.2021,140881,195.0,29.35,Electricity,Winter tires,1,1,1,Normal,21.16,0,1,,4.66,9-59%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.11.2021,140686,122.0,25.98,Electricity,Winter tires,1,1,0,Normal,21.16,0,1,,4.66,38-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.10.2021,140564,10.0,5.0,Electricity,Winter tires,1,0,0,Normal,21.16,0,0,,4.66,"74-82%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.10.2021,140554,205.0,41.38,Electricity,Winter tires,1,1,1,Normal,21.16,0,1,,4.66,"6-77%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,28.10.2021,140349,159.0,24.54,Electricity,Winter tires,1,1,1,Normal,21.16,0,1,,4.66,33-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.10.2021,140190,83.0,25.54,Electricity,Winter tires,1,1,0,Normal,21.44,0,1,,4.940000000000001,46-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.10.2021,140107,65.0,39.36,Electricity,Winter tires,1,0,0,Fast,21.44,0,1,,4.940000000000001,10-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.10.2021,140042,68.0,13.81,Electricity,Winter tires,1,1,0,Fast,21.44,0,0,,4.940000000000001,"8-33%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,23.10.2021,139974,17.0,4.48,Electricity,Winter tires,1,0,0,Fast,21.44,0,0,,4.940000000000001,"30-37%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,23.10.2021,139957,130.0,5.24,Electricity,Winter tires,1,1,1,Fast,21.44,0,0,,4.940000000000001,26-35%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.10.2021,139827,112.0,21.0,Electricity,Summer tires,1,1,0,Fast,21.44,0,1,,4.940000000000001,43-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.10.2021,139715,8.0,17.64,Electricity,Summer tires,0,1,0,Fast,21.44,0,0,,4.940000000000001,"51-81%, BEE"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.10.2021,139707,70.0,16.55,Electricity,Summer tires,0,1,0,Fast,21.44,0,0,,4.940000000000001,"23-53%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.10.2021,139637,214.0,21.16,Electricity,Summer tires,1,1,1,Fast,21.44,0,1,,4.940000000000001,10-47%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.10.2021,139423,110.0,23.24,Electricity,Summer tires,1,1,1,Fast,21.44,0,1,,4.940000000000001,49-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.10.2021,139313,64.0,33.53,Electricity,Summer tires,0,1,0,Fast,20.83,0,0,,4.329999999999998,29-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.10.2021,139249,124.0,21.11,Electricity,Summer tires,1,1,1,Fast,20.83,0,1,,4.329999999999998,17-54%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.10.2021,139125,168.0,30.97,Electricity,Summer tires,1,1,0,Fast,20.83,0,0,,4.329999999999998,"7-62%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.10.2021,138957,165.0,22.91,Electricity,Summer tires,1,1,0,Fast,20.83,0,0,,4.329999999999998,30-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.10.2021,138792,87.0,1.0,Electricity,Summer tires,1,1,1,Fast,15.92,0,0,,-0.5800000000000001,38-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.10.2021,138705,160.0,25.86,Electricity,Summer tires,1,1,1,Fast,15.92,0,1,,-0.5800000000000001,23-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.10.2021,138545,150.0,25.95,Electricity,Summer tires,1,1,0,Fast,15.92,0,0,,-0.5800000000000001,36-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.09.2021,138395,76.0,29.65,Electricity,Summer tires,0,1,0,Fast,15.92,0,0,,-0.5800000000000001,32-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.09.2021,138319,67.0,21.56,Electricity,Summer tires,0,1,0,Fast,15.92,0,0,,-0.5800000000000001,20-56%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.09.2021,138252,125.0,1.04,Electricity,Summer tires,1,1,1,Fast,15.92,0,0,,-0.5800000000000001,"44-45%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,28.09.2021,138127,83.0,22.96,Electricity,Summer tires,1,1,0,Fast,15.92,0,0,,-0.5800000000000001,46-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.09.2021,138044,11.0,1.84,Electricity,Summer tires,1,0,0,Fast,15.92,0,0,,-0.5800000000000001,"71-74%, Enel"
+Opel,Ampera,2017,Ampera-e First Edition,150,25.09.2021,138033,117.0,9.0,Electricity,Summer tires,1,1,1,Fast,15.92,0,0,,-0.5800000000000001,54-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.09.2021,137916,161.0,26.2,Electricity,Summer tires,1,1,1,Fast,15.92,0,0,,-0.5800000000000001,42-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.09.2021,137755,117.0,19.0,Electricity,Summer tires,1,1,0,Fast,16.24,0,0,,-0.26000000000000156,54-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.09.2021,137638,8.0,15.56,Electricity,Summer tires,1,0,1,Normal,14.15,0,0,,-2.3499999999999996,68-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.09.2021,137630,207.0,18.5,Electricity,Summer tires,0,1,1,Normal,14.15,0,0,,-2.3499999999999996,35-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.09.2021,137423,167.0,29.67,Electricity,Summer tires,0,1,0,Normal,14.15,1,0,,-2.3499999999999996,22-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.09.2021,137256,158.0,18.5,Electricity,Summer tires,0,1,1,Normal,14.15,1,0,,-2.3499999999999996,19-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.09.2021,137098,291.0,34.0,Electricity,Summer tires,0,1,1,Normal,14.15,1,0,,-2.3499999999999996,"14-29, Duferco, 30-75%, Enel"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.09.2021,136807,298.0,43.52,Electricity,Summer tires,1,0,1,Moderate,14.15,1,0,,-2.3499999999999996,"21-99, Enel"
+Opel,Ampera,2017,Ampera-e First Edition,150,10.09.2021,136509,61.0,46.78,Electricity,Summer tires,1,0,1,Moderate,15.45,1,0,,-1.0500000000000007,"9-91%, Enel"
+Opel,Ampera,2017,Ampera-e First Edition,150,09.09.2021,136448,102.0,2.6,Electricity,Summer tires,1,0,1,Moderate,15.45,1,0,,-1.0500000000000007,"13-24%, Duferco"
+Opel,Ampera,2017,Ampera-e First Edition,150,09.09.2021,136346,79.0,10.08,Electricity,Summer tires,1,0,1,Moderate,15.45,1,0,,-1.0500000000000007,"26-46%, Duferco"
+Opel,Ampera,2017,Ampera-e First Edition,150,09.09.2021,136267,136.0,3.15,Electricity,Summer tires,1,0,1,Moderate,15.45,1,0,,-1.0500000000000007,"51-55%, Duferco"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.09.2021,136131,213.0,38.82,Electricity,Summer tires,0,1,1,Fast,15.45,1,0,,-1.0500000000000007,"15-83%, Enel"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.09.2021,135918,126.0,24.13,Electricity,Summer tires,0,1,0,Fast,15.45,1,0,,-1.0500000000000007,35-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.09.2021,135792,160.0,19.08,Electricity,Summer tires,0,1,0,Fast,15.45,0,0,,-1.0500000000000007,45-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.09.2021,135632,212.0,23.57,Electricity,Summer tires,0,1,1,Fast,15.45,0,0,,-1.0500000000000007,31-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.09.2021,135420,87.0,10.0,Electricity,Summer tires,1,1,1,Fast,18.78,0,0,,2.280000000000001,74-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.09.2021,135333,116.0,20.36,Electricity,Summer tires,1,1,0,Fast,18.78,0,0,,2.280000000000001,61-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.09.2021,135217,16.0,11.6,Electricity,Summer tires,1,1,1,Fast,18.78,0,0,,2.280000000000001,78-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.08.2021,135201,87.0,33.64,Electricity,Summer tires,1,1,1,Fast,18.78,0,0,,2.280000000000001,19-84%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.08.2021,135114,212.0,18.8,Electricity,Summer tires,1,1,1,Fast,18.78,0,0,,2.280000000000001,17-50%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.08.2021,134902,93.0,21.51,Electricity,Summer tires,1,1,0,Fast,18.78,0,0,,2.280000000000001,52-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.08.2021,134809,185.0,31.43,Electricity,Summer tires,1,1,0,Fast,18.78,0,0,,2.280000000000001,24-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.08.2021,134624,112.0,23.21,Electricity,Summer tires,1,1,0,Fast,18.78,0,0,,2.280000000000001,48-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.08.2021,134512,79.0,25.08,Electricity,Summer tires,1,1,1,Fast,17.82,0,0,,1.3200000000000003,"40-83%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.08.2021,134433,170.0,20.63,Electricity,Summer tires,1,1,1,Fast,17.82,0,0,,1.3200000000000003,28-63%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.08.2021,134263,100.0,22.75,Electricity,Summer tires,1,1,0,Fast,17.82,0,0,,1.3200000000000003,42-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.08.2021,134163,81.0,13.89,Electricity,Summer tires,0,1,0,Fast,17.82,0,0,,1.3200000000000003,"47-70%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,17.08.2021,134082,158.0,26.15,Electricity,Summer tires,1,1,0,Fast,17.82,0,0,,1.3200000000000003,26-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.08.2021,133924,23.0,0.39,Electricity,Summer tires,0,1,0,Fast,17.82,0,0,,1.3200000000000003,83-84
+Opel,Ampera,2017,Ampera-e First Edition,150,14.08.2021,133901,93.0,14.25,Electricity,Summer tires,1,1,0,Fast,15.32,0,0,,-1.1799999999999997,68-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.08.2021,133808,92.0,23.71,Electricity,Summer tires,1,1,0,Fast,18.61,0,0,,2.1099999999999994,52-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.08.2021,133716,60.0,4.65,Electricity,Summer tires,1,0,0,Fast,18.61,0,0,,2.1099999999999994,70-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.08.2021,133656,149.0,37.82,Electricity,Summer tires,0,1,0,Fast,18.61,0,0,,2.1099999999999994,"17-81%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.08.2021,133507,164.0,20.37,Electricity,Summer tires,1,1,0,Fast,18.61,0,0,,2.1099999999999994,"30-68%, SWM"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.08.2021,133343,82.0,13.4,Electricity,Summer tires,1,1,0,Fast,16.34,0,0,,-0.16000000000000014,65-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.08.2021,133261,93.0,20.0,Electricity,Summer tires,1,1,0,Fast,17.11,0,0,,0.6099999999999994,54-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.08.2021,133168,100.0,32.05,Electricity,Summer tires,1,1,1,Fast,17.11,0,0,,0.6099999999999994,25-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.08.2021,133068,228.0,20.0,Electricity,Summer tires,1,1,0,Fast,17.11,0,0,,0.6099999999999994,18-53%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.07.2021,132840,208.0,21.0,Electricity,Summer tires,1,1,0,Fast,15.1,0,0,,-1.4000000000000004,52-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.07.2021,132632,110.0,25.1,Electricity,Summer tires,1,1,1,Fast,15.1,0,0,,-1.4000000000000004,61-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.07.2021,132522,130.0,11.29,Electricity,Summer tires,1,0,0,Fast,15.1,0,0,,-1.4000000000000004,"-89%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.07.2021,132392,96.0,22.0,Electricity,Summer tires,1,1,1,Fast,15.1,0,0,,-1.4000000000000004,62-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.07.2021,132296,149.0,27.78,Electricity,Summer tires,1,1,1,Fast,15.1,0,0,,-1.4000000000000004,"40-86%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,15.07.2021,132147,182.0,24.98,Electricity,Summer tires,1,1,1,Fast,15.1,0,0,,-1.4000000000000004,33-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.07.2021,131965,103.0,16.01,Electricity,Summer tires,1,1,1,Normal,15.54,0,0,,-0.9600000000000009,63-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.07.2021,131862,7.0,11.94,Electricity,Summer tires,1,0,1,Normal,18.87,0,0,,2.370000000000001,73-91%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.07.2021,131855,136.0,24.35,Electricity,Summer tires,0,1,0,Normal,18.87,0,0,,2.370000000000001,"24-74%, Aldi"
+Opel,Ampera,2017,Ampera-e First Edition,150,09.07.2021,131719,69.0,28.2,Electricity,Summer tires,0,1,0,Normal,18.87,0,0,,2.370000000000001,"28-77%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,09.07.2021,131650,185.0,17.18,Electricity,Summer tires,0,1,0,Normal,18.87,0,0,,2.370000000000001,"23-55%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.07.2021,131465,85.0,28.27,Electricity,Summer tires,0,1,1,Normal,18.87,0,0,,2.370000000000001,"52-89%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.07.2021,131380,133.0,20.4,Electricity,Summer tires,0,1,1,Normal,18.87,0,0,,2.370000000000001,"39-74%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.07.2021,131247,281.0,42.02,Electricity,Summer tires,1,1,1,Normal,18.87,0,0,,2.370000000000001,"8-81%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,07.07.2021,130966,30.0,11.91,Electricity,Summer tires,1,0,1,Normal,18.87,0,0,,2.370000000000001,"83-100.8%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,06.07.2021,130936,28.0,6.22,Electricity,Summer tires,1,0,1,Normal,18.87,0,0,,2.370000000000001,"79-89%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.07.2021,130907,150.0,38.01,Electricity,Summer tires,1,1,1,Normal,18.87,0,0,,2.370000000000001,"18-85%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.07.2021,130758,74.0,16.39,Electricity,Summer tires,1,1,0,Normal,18.87,0,0,,2.370000000000001,"32-60%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,02.07.2021,130684,187.0,13.0,Electricity,Summer tires,1,1,1,Normal,18.87,0,0,,2.370000000000001,"34-56%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,01.07.2021,130497,162.0,22.46,Electricity,Summer tires,0,1,1,Normal,18.87,0,0,,2.370000000000001,"57-96%, Lidl"
+Opel,Ampera,2017,Ampera-e First Edition,150,28.06.2021,130335,14.0,3.26,Electricity,Summer tires,1,0,0,Normal,18.87,0,0,,2.370000000000001,"96-100%, NewMotion"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.06.2021,130321,210.0,46.75,Electricity,Summer tires,1,1,1,Normal,18.87,0,0,,2.370000000000001,"26-100%, NewMotion"
+Opel,Ampera,2017,Ampera-e First Edition,150,26.06.2021,130110,21.0,20.19,Electricity,Summer tires,1,0,0,Normal,17.85,0,0,,1.3500000000000014,"56-89%, NewMotion"
+Opel,Ampera,2017,Ampera-e First Edition,150,25.06.2021,130090,217.0,17.08,Electricity,Summer tires,1,0,0,Normal,17.85,0,0,,1.3500000000000014,"33-62%, NewMotion"
+Opel,Ampera,2017,Ampera-e First Edition,150,24.06.2021,129872,3.0,14.27,Electricity,Summer tires,1,0,0,Normal,17.85,0,0,,1.3500000000000014,"73-95%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,24.06.2021,129870,185.0,14.7,Electricity,Summer tires,0,1,1,Normal,17.85,0,0,,1.3500000000000014,"48-74%, Lidl"
+Opel,Ampera,2017,Ampera-e First Edition,150,23.06.2021,129685,7.0,19.12,Electricity,Summer tires,1,0,0,Normal,17.85,0,0,,1.3500000000000014,"74-100%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,23.06.2021,129678,197.0,33.23,Electricity,Summer tires,1,0,1,Normal,17.85,0,0,,1.3500000000000014,"14-73%, Lidl"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.06.2021,129481,144.0,29.76,Electricity,Summer tires,0,1,0,Normal,17.85,1,0,,1.3500000000000014,"16-70%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.06.2021,129336,141.0,27.91,Electricity,Summer tires,0,1,0,Normal,17.85,1,0,,1.3500000000000014,"19-65%, EnBW kostenlos"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.06.2021,129196,217.0,25.8,Electricity,Summer tires,0,1,0,Normal,17.85,1,0,,1.3500000000000014,"19-65%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.06.2021,128979,101.0,12.18,Electricity,Summer tires,1,1,1,Fast,18.44,0,0,,1.9400000000000013,-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.06.2021,128877,108.0,27.99,Electricity,Summer tires,1,1,0,Fast,18.44,0,0,,1.9400000000000013,53-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.06.2021,128770,102.0,13.13,Electricity,Summer tires,1,1,1,Fast,18.44,0,0,,1.9400000000000013,57-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.06.2021,128668,111.0,47.56,Electricity,Summer tires,1,1,0,Fast,18.44,0,0,,1.9400000000000013,-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.06.2021,128556,86.0,23.27,Electricity,Summer tires,1,1,1,Fast,18.44,0,0,,1.9400000000000013,37-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.06.2021,128471,70.0,19.33,Electricity,Summer tires,0,1,0,Fast,18.44,0,0,,1.9400000000000013,33-65%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.06.2021,128401,128.0,18.63,Electricity,Summer tires,1,1,1,Fast,18.44,0,0,,1.9400000000000013,"18-55%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,09.06.2021,128273,162.0,23.0,Electricity,Summer tires,1,1,1,Fast,18.44,0,0,,1.9400000000000013,17-57%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.06.2021,128110,161.0,23.13,Electricity,Summer tires,1,1,1,Fast,18.44,0,0,,1.9400000000000013,23-63%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.06.2021,127950,108.0,25.19,Electricity,Summer tires,1,1,0,Fast,18.44,0,0,,1.9400000000000013,27-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.06.2021,127842,86.0,0.29,Electricity,Summer tires,1,0,0,Fast,18.44,0,0,,1.9400000000000013,58-59%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.05.2021,127756,133.0,30.38,Electricity,Summer tires,1,1,1,Fast,18.44,0,0,,1.9400000000000013,21-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.05.2021,127623,83.0,17.93,Electricity,Summer tires,1,1,0,Fast,18.44,0,0,,1.9400000000000013,37-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.05.2021,127540,293.0,32.74,Electricity,Summer tires,1,1,1,Fast,18.44,0,0,,1.9400000000000013,11-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.05.2021,127247,96.0,25.78,Electricity,Summer tires,1,1,0,Fast,18.44,0,0,,1.9400000000000013,52-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.05.2021,127151,48.0,7.23,Electricity,Summer tires,1,1,0,Fast,18.44,1,0,,1.9400000000000013,"-79%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,06.05.2021,127103,70.0,38.18,Electricity,Summer tires,0,1,0,Fast,18.44,0,0,,1.9400000000000013,11-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.05.2021,127033,166.0,14.64,Electricity,Summer tires,1,1,1,Fast,18.44,0,0,,1.9400000000000013,15-41%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.05.2021,126867,200.0,25.67,Electricity,Summer tires,1,1,1,Normal,18.44,0,0,,1.9400000000000013,28-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.04.2021,126667,102.0,21.17,Electricity,Summer tires,1,1,0,Fast,20.75,0,1,,4.25,57-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.04.2021,126565,6.0,56.55,Electricity,Summer tires,1,0,0,Fast,17.92,0,0,,1.4200000000000017,-1-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.04.2021,126559,112.0,0.96,Electricity,Summer tires,1,1,1,Fast,17.92,0,0,,1.4200000000000017,"-2-0%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.04.2021,126447,295.0,16.49,Electricity,Summer tires,1,1,1,Fast,17.92,0,0,,1.4200000000000017,4-34%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.04.2021,126152,78.0,31.1,Electricity,Summer tires,1,1,1,Normal,18.18,0,0,,1.6799999999999997,47-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.04.2021,126074,180.0,26.88,Electricity,Summer tires,1,1,1,Normal,18.18,0,1,,1.6799999999999997,19-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.04.2021,125894,241.0,30.32,Electricity,Summer tires,1,1,1,Normal,18.18,0,1,,1.6799999999999997,22-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.04.2021,125653,220.0,33.44,Electricity,Summer tires,1,1,1,Normal,18.18,0,1,,1.6799999999999997,"12-41%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,09.04.2021,125433,125.0,26.57,Electricity,Summer tires,1,1,0,Normal,18.18,0,1,,1.6799999999999997,45-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.04.2021,125308,32.0,10.72,Electricity,Summer tires,1,0,1,Normal,18.18,0,1,,1.6799999999999997,77-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.04.2021,125276,125.0,42.08,Electricity,Summer tires,1,1,0,Fast,18.18,0,1,,1.6799999999999997,"12-86%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,29.03.2021,125151,161.0,22.01,Electricity,Summer tires,1,1,1,Normal,18.18,0,1,,1.6799999999999997,12-51%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.03.2021,124990,169.0,18.8,Electricity,Winter tires,1,1,1,Normal,18.18,0,1,,1.6799999999999997,30-63%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.03.2021,124821,108.0,35.53,Electricity,Winter tires,1,1,0,Normal,22.96,0,1,,6.460000000000001,35-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.03.2021,124713,97.0,11.54,Electricity,Winter tires,1,1,0,Normal,22.96,0,1,,6.460000000000001,"56-75%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.03.2021,124616,83.0,18.42,Electricity,Winter tires,1,1,0,Normal,23.69,0,1,,7.190000000000001,65-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.03.2021,124533,14.0,4.56,Electricity,Winter tires,1,0,0,Normal,23.69,0,0,,7.190000000000001,88-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.03.2021,124519,65.0,44.15,Electricity,Winter tires,1,1,0,Normal,23.26,0,0,,6.760000000000002,20-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.03.2021,124454,52.0,15.37,Electricity,Winter tires,1,1,0,Normal,23.26,0,0,,6.760000000000002,18-46%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.03.2021,124402,23.0,11.28,Electricity,Winter tires,1,0,0,Normal,23.26,0,0,,6.760000000000002,27-41%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.03.2021,124379,87.0,3.79,Electricity,Winter tires,1,1,1,Normal,23.26,0,0,,6.760000000000002,"24-30%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.03.2021,124292,91.0,22.45,Electricity,Winter tires,1,1,1,Normal,23.26,0,0,,6.760000000000002,11-51%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.03.2021,124201,79.0,17.02,Electricity,Winter tires,1,1,1,Normal,23.26,0,0,,6.760000000000002,15-45%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.03.2021,124122,161.0,23.39,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,5-47%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.03.2021,123961,81.0,33.05,Electricity,Winter tires,1,1,0,Normal,23.26,0,1,,6.760000000000002,6-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.03.2021,123880,109.0,9.01,Electricity,Winter tires,1,1,1,Normal,23.26,0,0,,6.760000000000002,24-40%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.02.2021,123771,145.0,20.78,Electricity,Winter tires,1,0,1,Normal,23.26,0,0,,6.760000000000002,"23-60%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,24.02.2021,123626,93.0,32.37,Electricity,Winter tires,1,1,0,Normal,23.26,0,1,,6.760000000000002,15-62%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.02.2021,123533,84.0,12.3,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,30-48%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.02.2021,123449,161.0,29.37,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,6-58%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.02.2021,123288,115.0,26.28,Electricity,Winter tires,1,1,0,Normal,23.26,0,1,,6.760000000000002,19-66#
+Opel,Ampera,2017,Ampera-e First Edition,150,12.02.2021,123173,78.0,28.6,Electricity,Winter tires,0,1,0,Normal,23.26,0,1,,6.760000000000002,"18-70%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,12.02.2021,123095,182.0,26.55,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,4-52#
+Opel,Ampera,2017,Ampera-e First Edition,150,09.02.2021,122913,98.0,29.02,Electricity,Winter tires,1,1,0,Normal,23.26,0,1,,6.760000000000002,41-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.02.2021,122815,70.0,36.7,Electricity,Winter tires,0,1,0,Normal,23.26,0,1,,6.760000000000002,"24-90%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.02.2021,122745,162.0,23.88,Electricity,Winter tires,1,1,1,Moderate,23.26,0,1,,6.760000000000002,5-49%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.02.2021,122583,161.0,28.0,Electricity,Winter tires,1,1,1,Normal,23.26,0,1,,6.760000000000002,16-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.02.2021,122422,105.0,27.21,Electricity,Winter tires,1,1,0,Normal,23.26,0,1,,6.760000000000002,26-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.01.2021,122317,147.0,27.15,Electricity,Winter tires,1,0,0,Normal,23.26,0,1,,6.760000000000002,"36-75%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,22.01.2021,122170,108.0,25.5,Electricity,Winter tires,1,0,1,Normal,23.26,0,1,,6.760000000000002,38-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.01.2021,122062,5.0,16.98,Electricity,Winter tires,1,0,0,Normal,23.26,0,1,,6.760000000000002,"54-83%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,13.01.2021,122057,72.0,5.3,Electricity,Winter tires,1,0,0,Normal,23.26,0,1,,6.760000000000002,57-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.01.2021,121985,48.0,36.11,Electricity,Winter tires,1,1,0,Fast,23.26,0,1,,6.760000000000002,"38-94%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,07.01.2021,121937,25.0,14.99,Electricity,Winter tires,0,1,0,Fast,23.26,0,1,,6.760000000000002,"30-56%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,07.01.2021,121912,122.0,8.3,Electricity,Winter tires,0,1,0,Fast,23.26,0,1,,6.760000000000002,"28-42%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.01.2021,121790,116.0,48.47,Electricity,Winter tires,1,1,1,Normal,27.66,0,1,,11.16,15-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.01.2021,121674,92.0,25.89,Electricity,Winter tires,1,1,0,Normal,27.66,0,1,,11.16,14-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.01.2021,121582,63.0,4.92,Electricity,Winter tires,1,0,0,Normal,27.66,0,1,,11.16,"46-55%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,25.12.2020,121519,68.0,46.66,Electricity,Winter tires,1,1,1,Normal,27.66,0,1,,11.16,11-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.12.2020,121451,119.0,18.93,Electricity,Winter tires,1,1,0,Normal,27.66,0,1,,11.16,-49%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.12.2020,121332,16.0,6.83,Electricity,Winter tires,1,0,0,Normal,27.66,0,1,,11.16,53-65%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.12.2020,121316,35.0,5.72,Electricity,Winter tires,1,0,0,Normal,27.66,0,1,,11.16,54-62%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.12.2020,121281,3.0,14.68,Electricity,Winter tires,1,0,0,Normal,27.66,0,1,,11.16,"45-71%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.12.2020,121278,41.0,5.95,Electricity,Winter tires,1,0,1,Normal,27.66,0,1,,11.16,"35-46%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.12.2020,121237,43.0,3.74,Electricity,Winter tires,1,0,0,Normal,27.66,0,1,,11.16,"41-48%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,09.12.2020,121194,50.0,6.63,Electricity,Winter tires,1,0,0,Normal,27.66,0,1,,11.16,"56-66%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,07.12.2020,121144,88.0,14.61,Electricity,Winter tires,1,1,0,Normal,27.66,0,0,,11.16,"55-80%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.12.2020,121056,84.0,21.17,Electricity,Winter tires,1,1,0,Normal,25.2,0,1,,8.7,55-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.12.2020,120972,19.0,33.37,Electricity,Winter tires,1,0,0,Normal,21.21,0,1,,4.710000000000001,"38-88%, 4.6% Ladeverluste"
+Opel,Ampera,2017,Ampera-e First Edition,150,01.12.2020,120953,22.0,16.32,Electricity,Winter tires,1,0,0,Normal,21.21,0,1,,4.710000000000001,23-39%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.12.2020,120931,4.0,2.08,Electricity,Winter tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,27-31%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.11.2020,120927,99.0,8.2,Electricity,Winter tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,"15-28%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.11.2020,120828,173.0,23.4,Electricity,Winter tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,11-53%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.11.2020,120655,91.0,28.53,Electricity,Winter tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,34-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.11.2020,120564,128.0,30.47,Electricity,Winter tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,"17-71%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,12.11.2020,120436,110.0,25.58,Electricity,Winter tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,25-68%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.11.2020,120326,8.0,14.07,Electricity,Winter tires,1,0,0,Normal,21.21,0,0,,4.710000000000001,31-56%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.11.2020,120318,131.0,10.87,Electricity,Winter tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,"12-32%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,06.11.2020,120187,107.0,29.93,Electricity,Winter tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,19-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.11.2020,120080,121.0,26.0,Electricity,Summer tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,19-63%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.10.2020,119959,83.0,28.97,Electricity,Summer tires,1,1,0,Normal,21.21,0,1,,4.710000000000001,13-63%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.10.2020,119876,205.0,9.3,Electricity,Summer tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,29-41%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.10.2020,119671,94.0,27.48,Electricity,Summer tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,37-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.10.2020,119577,216.0,39.08,Electricity,Summer tires,1,1,1,Normal,21.21,0,1,,4.710000000000001,3-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.10.2020,119361,183.0,24.49,Electricity,Summer tires,1,1,0,Normal,21.21,0,0,,4.710000000000001,"30-76%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,17.10.2020,119178,119.0,32.81,Electricity,Summer tires,1,0,1,Normal,21.21,0,0,,4.710000000000001,50-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.10.2020,119059,155.0,34.86,Electricity,Summer tires,0,1,0,Normal,21.21,0,0,,4.710000000000001,26-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.10.2020,118904,200.0,28.56,Electricity,Summer tires,0,1,1,Normal,21.21,0,0,,4.710000000000001,29-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.10.2020,118704,11.0,9.0,Electricity,Summer tires,1,0,0,Normal,21.21,0,0,,4.710000000000001,86-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.10.2020,118693,36.0,5.15,Electricity,Summer tires,1,0,0,Normal,18.88,0,0,,2.379999999999999,"82-89%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.10.2020,118657,78.0,38.1,Electricity,Summer tires,0,1,0,Normal,18.88,0,0,,2.379999999999999,"27-93%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.10.2020,118579,169.0,24.12,Electricity,Summer tires,1,1,0,Normal,18.88,0,1,,2.379999999999999,12-54%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.10.2020,118410,157.0,25.2,Electricity,Summer tires,1,1,1,Normal,18.88,0,1,,2.379999999999999,27-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.10.2020,118253,202.0,33.65,Electricity,Summer tires,1,1,1,Normal,18.88,0,1,,2.379999999999999,23-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.10.2020,118051,180.0,31.93,Electricity,Summer tires,1,1,1,Normal,18.88,0,0,,2.379999999999999,39-91%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.10.2020,117871,91.0,27.92,Electricity,Summer tires,1,1,0,Fast,18.88,0,0,,2.379999999999999,53-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.10.2020,117780,75.0,21.09,Electricity,Summer tires,1,1,1,Normal,18.88,0,0,,2.379999999999999,"45-81%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,03.10.2020,117705,94.0,17.65,Electricity,Summer tires,1,1,1,Normal,18.88,0,0,,2.379999999999999,38-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.10.2020,117611,211.0,26.89,Electricity,Summer tires,1,1,1,Normal,18.88,0,0,,2.379999999999999,15-61%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.09.2020,117400,190.0,27.34,Electricity,Summer tires,1,1,1,Normal,18.88,0,0,,2.379999999999999,35-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.09.2020,117210,105.0,32.07,Electricity,Summer tires,0,1,1,Fast,18.88,0,0,,2.379999999999999,47-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.09.2020,117105,247.0,48.6,Electricity,Summer tires,1,1,1,Moderate,18.88,1,0,,2.379999999999999,3-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.09.2020,116858,128.0,32.0,Electricity,Summer tires,0,1,0,Moderate,18.88,1,0,,2.379999999999999,24-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.09.2020,116730,144.0,23.67,Electricity,Summer tires,1,1,1,Moderate,18.88,1,0,,2.379999999999999,30-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.09.2020,116586,258.0,25.41,Electricity,Summer tires,0,1,1,Moderate,18.88,1,0,,2.379999999999999,30-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.09.2020,116328,34.0,12.25,Electricity,Summer tires,1,0,1,Moderate,18.88,1,0,,2.379999999999999,"82-100%, Duferco"
+Opel,Ampera,2017,Ampera-e First Edition,150,23.09.2020,116294,85.0,14.64,Electricity,Summer tires,1,0,1,Moderate,14.03,1,0,,-2.4700000000000006,"66-89%, Duferco"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.09.2020,116209,6.0,13.45,Electricity,Summer tires,1,0,0,Moderate,14.03,1,0,,-2.4700000000000006,"63-84%, Duferco"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.09.2020,116203,67.0,10.68,Electricity,Summer tires,1,0,1,Moderate,14.03,1,0,,-2.4700000000000006,"46-63%, Duferco"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.09.2020,116136,211.0,13.0,Electricity,Summer tires,1,1,1,Moderate,14.03,1,0,,-2.4700000000000006,"42-59%, Duferco"
+Opel,Ampera,2017,Ampera-e First Edition,150,15.09.2020,115925,162.0,23.96,Electricity,Summer tires,0,1,0,Moderate,14.48,1,0,,-2.0199999999999996,49-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.09.2020,115763,166.0,21.95,Electricity,Summer tires,0,1,0,Moderate,14.48,1,0,,-2.0199999999999996,48-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.09.2020,115597,44.0,18.55,Electricity,Summer tires,0,1,0,Moderate,14.48,1,0,,-2.0199999999999996,59-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.09.2020,115553,168.0,18.64,Electricity,Summer tires,0,1,0,Moderate,14.48,1,0,,-2.0199999999999996,42-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.09.2020,115385,213.0,17.36,Electricity,Summer tires,1,1,1,Normal,14.48,0,0,,-2.0199999999999996,45-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.09.2020,115172,16.0,10.88,Electricity,Summer tires,1,0,0,Fast,14.48,1,0,,-2.0199999999999996,88–100%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.09.2020,115156,109.0,25.85,Electricity,Summer tires,1,1,0,Fast,16.62,0,0,,0.120000000000001,48-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.09.2020,115047,191.0,29.06,Electricity,Summer tires,1,1,1,Fast,16.62,0,0,,0.120000000000001,25-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.09.2020,114856,176.0,26.03,Electricity,Summer tires,1,1,1,Fast,16.62,0,0,,0.120000000000001,39-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.09.2020,114680,134.0,21.07,Electricity,Summer tires,1,1,1,Fast,16.62,0,0,,0.120000000000001,"56-89%, BEW AC"
+Opel,Ampera,2017,Ampera-e First Edition,150,03.09.2020,114546,183.0,29.81,Electricity,Summer tires,1,1,1,Fast,16.62,0,0,,0.120000000000001,37-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.09.2020,114363,98.0,20.76,Electricity,Summer tires,1,1,1,Fast,21.18,0,0,,4.68,56-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.08.2020,114265,60.0,47.61,Electricity,Summer tires,1,0,1,Fast,15.81,0,0,,-0.6899999999999995,2-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.08.2020,114205,249.0,7.76,Electricity,Summer tires,1,1,1,Fast,15.81,0,0,,-0.6899999999999995,"5-19%, BEW DC"
+Opel,Ampera,2017,Ampera-e First Edition,150,25.08.2020,113956,161.0,18.93,Electricity,Summer tires,1,1,1,Fast,15.81,0,0,,-0.6899999999999995,42-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.08.2020,113795,162.0,26.87,Electricity,Summer tires,1,1,1,Fast,16.59,0,0,,0.08999999999999986,45-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.08.2020,113633,193.0,35.16,Electricity,Summer tires,1,1,1,Fast,16.17,0,0,,-0.3299999999999983,28-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.08.2020,113440,184.0,29.71,Electricity,Summer tires,1,1,1,Fast,16.17,0,0,,-0.3299999999999983,29-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.08.2020,113256,182.0,33.04,Electricity,Summer tires,1,1,1,Fast,16.17,0,0,,-0.3299999999999983,23-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.08.2020,113074,195.0,28.65,Electricity,Summer tires,1,1,1,Fast,16.17,0,0,,-0.3299999999999983,24-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.08.2020,112879,98.0,31.62,Electricity,Summer tires,1,1,1,Fast,16.17,0,0,,-0.3299999999999983,25-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.08.2020,112781,40.0,6.17,Electricity,Summer tires,1,0,1,Fast,16.17,0,0,,-0.3299999999999983,45-55%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.08.2020,112741,100.0,1.71,Electricity,Summer tires,1,1,1,Fast,16.17,0,0,,-0.3299999999999983,"46-49%, BEW AC"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.08.2020,112641,165.0,32.0,Electricity,Summer tires,1,1,1,Fast,16.17,0,0,,-0.3299999999999983,22-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.08.2020,112476,82.0,32.89,Electricity,Summer tires,0,1,1,Normal,16.17,0,0,,-0.3299999999999983,16-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.08.2020,112394,283.0,15.14,Electricity,Summer tires,1,1,1,Fast,16.17,0,0,,-0.3299999999999983,"7-35%, eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.07.2020,112111,156.0,29.0,Electricity,Summer tires,1,1,1,Normal,17.19,0,0,,0.6900000000000013,37-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.07.2020,111955,111.0,15.03,Electricity,Summer tires,1,1,1,Normal,17.19,0,0,,0.6900000000000013,"49-76%, eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.07.2020,111844,271.0,36.14,Electricity,Summer tires,1,1,0,Normal,17.19,0,0,,0.6900000000000013,14-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.07.2020,111573,208.0,36.0,Electricity,Summer tires,1,1,0,Normal,17.19,1,0,,0.6900000000000013,21-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.07.2020,111365,213.0,36.5,Electricity,Summer tires,0,1,1,Normal,17.19,1,0,,0.6900000000000013,"15-79%, eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.07.2020,111152,135.0,23.48,Electricity,Summer tires,0,1,1,Normal,17.19,1,0,,0.6900000000000013,39-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.07.2020,111017,116.0,36.24,Electricity,Summer tires,0,1,0,Normal,17.19,1,0,,0.6900000000000013,18-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.07.2020,110901,159.0,28.66,Electricity,Summer tires,1,1,0,Normal,17.19,1,0,,0.6900000000000013,"12-65%, eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,06.07.2020,110742,92.0,16.24,Electricity,Summer tires,0,1,0,Normal,17.19,0,0,,0.6900000000000013,43-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.07.2020,110650,165.0,31.1,Electricity,Summer tires,1,1,0,Normal,17.19,0,0,,0.6900000000000013,"19-75%, eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.07.2020,110485,125.0,32.54,Electricity,Summer tires,1,1,0,Normal,17.19,0,0,,0.6900000000000013,18-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.07.2020,110360,272.0,26.9,Electricity,Summer tires,1,1,1,Normal,17.19,0,0,,0.6900000000000013,"19-61%, eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,29.06.2020,110088,90.0,14.39,Electricity,Summer tires,1,0,1,Normal,15.99,0,0,,-0.5099999999999998,79-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.06.2020,109998,236.0,34.62,Electricity,Summer tires,1,1,1,Normal,14.67,0,0,,-1.83,40-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.06.2020,109762,82.0,32.78,Electricity,Summer tires,1,1,1,Normal,18.58,0,0,,2.0799999999999983,49-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.06.2020,109680,193.0,30.33,Electricity,Summer tires,1,1,1,Normal,18.58,0,0,,2.0799999999999983,"18-71%, Eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.06.2020,109487,97.0,19.58,Electricity,Summer tires,0,1,0,Normal,18.58,0,0,,2.0799999999999983,"39-73%, Eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.06.2020,109390,135.0,33.58,Electricity,Summer tires,0,1,0,Normal,18.58,0,0,,2.0799999999999983,"13-72%, Eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.06.2020,109255,117.0,19.59,Electricity,Summer tires,0,1,0,Normal,18.58,0,0,,2.0799999999999983,"26-63%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.06.2020,109138,188.0,16.6,Electricity,Summer tires,1,1,1,Normal,18.58,0,0,,2.0799999999999983,"28-64%, Eins 9,41 kWh, Maingau 7,17kWh"
+Opel,Ampera,2017,Ampera-e First Edition,150,18.06.2020,108950,120.0,39.0,Electricity,Summer tires,1,1,1,Fast,18.58,0,0,,2.0799999999999983,21-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.06.2020,108830,139.0,7.83,Electricity,Summer tires,1,1,1,Fast,18.58,0,0,,2.0799999999999983,59-
+Opel,Ampera,2017,Ampera-e First Edition,150,09.06.2020,108691,194.0,35.69,Electricity,Summer tires,1,1,1,Fast,18.58,0,0,,2.0799999999999983,25-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.06.2020,108497,102.0,37.0,Electricity,Summer tires,1,1,0,Fast,17.02,0,0,,0.5199999999999996,25-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.06.2020,108395,279.0,27.85,Electricity,Summer tires,1,1,1,Normal,17.02,0,0,,0.5199999999999996,5-55%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.05.2020,108116,125.0,19.7,Electricity,Summer tires,1,1,0,Fast,15.34,0,0,,-1.1600000000000001,56-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.05.2020,107991,226.0,34.16,Electricity,Summer tires,1,1,1,Fast,15.34,0,0,,-1.1600000000000001,34-95%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.05.2020,107765,115.0,26.17,Electricity,Summer tires,1,1,0,Fast,19.82,0,0,,3.3200000000000003,46-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.05.2020,107650,123.0,21.0,Electricity,Summer tires,1,1,1,Normal,19.82,0,0,,3.3200000000000003,46-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.05.2020,107527,101.0,22.26,Electricity,Summer tires,1,0,0,Normal,18.88,0,1,,2.379999999999999,52-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.05.2020,107426,52.0,6.62,Electricity,Summer tires,1,0,0,Normal,18.88,0,1,,2.379999999999999,77-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.05.2020,107374,15.0,8.56,Electricity,Summer tires,1,0,0,Normal,16.33,0,0,,-0.1700000000000017,77-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.05.2020,107359,16.0,8.33,Electricity,Summer tires,1,0,0,Normal,16.33,0,0,,-0.1700000000000017,66-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.05.2020,107343,125.0,8.58,Electricity,Summer tires,1,1,1,Fast,16.33,0,0,,-0.1700000000000017,54-68%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.05.2020,107218,161.0,34.29,Electricity,Summer tires,1,1,1,Fast,21.3,0,1,,4.800000000000001,32-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.05.2020,107057,161.0,31.61,Electricity,Summer tires,1,1,0,Fast,19.63,0,1,,3.129999999999999,37-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.04.2020,106896,134.0,19.99,Electricity,Summer tires,1,1,0,Fast,14.92,0,0,,-1.58,56-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.04.2020,106762,104.0,17.41,Electricity,Summer tires,1,1,1,Fast,16.74,0,0,,0.23999999999999844,66-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.04.2020,106658,93.0,36.71,Electricity,Summer tires,1,1,1,Fast,17.98,0,0,,1.4800000000000004,27-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.04.2020,106565,182.0,12.73,Electricity,Summer tires,1,1,1,Normal,17.98,0,0,,1.4800000000000004,37-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.04.2020,106383,181.0,35.35,Electricity,Summer tires,1,1,1,Normal,19.53,0,1,,3.030000000000001,25-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.04.2020,106202,169.0,32.27,Electricity,Summer tires,1,1,1,Normal,19.09,0,1,,2.59,35-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.04.2020,106033,169.0,32.13,Electricity,Summer tires,1,1,1,Normal,19.01,0,1,,2.5100000000000016,34-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.04.2020,105864,97.0,31.2,Electricity,Summer tires,1,1,0,Normal,20.93,0,1,,4.43,37-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.04.2020,105767,14.0,21.37,Electricity,Summer tires,1,0,0,Normal,20.93,0,1,,4.43,35-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.04.2020,105753,79.0,4.63,Electricity,Summer tires,1,1,1,Normal,20.93,0,0,,4.43,-34%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.04.2020,105674,162.0,7.41,Electricity,Summer tires,1,1,1,Normal,20.93,0,1,,4.43,41-54#
+Opel,Ampera,2017,Ampera-e First Edition,150,31.03.2020,105512,165.0,36.77,Electricity,Summer tires,1,1,1,Normal,20.93,0,1,,4.43,37-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.03.2020,105347,121.0,36.65,Electricity,Summer tires,1,1,1,Normal,20.93,0,1,,4.43,41-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.03.2020,105226,86.0,7.77,Electricity,Summer tires,1,1,1,Normal,20.93,0,1,,4.43,"78-88%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,18.03.2020,105140,92.0,27.56,Electricity,Summer tires,1,1,0,Normal,20.93,0,0,,4.43,57-100^
+Opel,Ampera,2017,Ampera-e First Edition,150,17.03.2020,105048,67.0,9.2,Electricity,Summer tires,1,0,0,Normal,20.93,0,1,,4.43,"-88%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,13.03.2020,104981,82.0,25.85,Electricity,Summer tires,0,1,0,Normal,20.93,0,0,,4.43,52-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.03.2020,104899,99.0,30.75,Electricity,Summer tires,1,1,0,Normal,20.93,0,0,,4.43,29-
+Opel,Ampera,2017,Ampera-e First Edition,150,12.03.2020,104800,70.0,12.62,Electricity,Summer tires,0,1,0,Normal,20.93,0,0,,4.43,43-65Z
+Opel,Ampera,2017,Ampera-e First Edition,150,12.03.2020,104730,169.0,30.98,Electricity,Summer tires,1,1,1,Normal,20.93,0,1,,4.43,14-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.03.2020,104561,180.0,31.32,Electricity,Winter tires,1,1,0,Normal,20.93,0,1,,4.43,18-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.03.2020,104381,165.0,31.86,Electricity,Winter tires,1,1,1,Normal,20.93,0,1,,4.43,26-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.03.2020,104216,126.0,30.49,Electricity,Winter tires,1,1,0,Normal,20.93,0,1,,4.43,33-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.03.2020,104090,93.0,19.9,Electricity,Winter tires,1,1,1,Normal,20.93,0,1,,4.43,50-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.03.2020,103997,162.0,31.79,Electricity,Winter tires,1,1,1,Normal,20.93,0,1,,4.43,28-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.03.2020,103835,172.0,30.94,Electricity,Winter tires,1,1,0,Normal,20.93,0,1,,4.43,32-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.03.2020,103663,112.0,29.41,Electricity,Winter tires,1,1,1,Normal,20.93,0,1,,4.43,48-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.03.2020,103551,70.0,23.6,Electricity,Winter tires,0,1,0,Normal,20.93,0,0,,4.43,43-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.03.2020,103481,165.0,29.84,Electricity,Winter tires,1,1,1,Normal,20.93,0,1,,4.43,17-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.03.2020,103316,228.0,30.68,Electricity,Winter tires,1,1,1,Normal,20.93,0,1,,4.43,20-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.02.2020,103088,89.0,27.08,Electricity,Winter tires,1,1,1,Normal,20.93,0,1,,4.43,59-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2020,102999,65.0,31.49,Electricity,Winter tires,0,1,0,Normal,21.0,0,0,,4.5,38-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2020,102934,161.0,29.79,Electricity,Winter tires,1,1,1,Normal,21.0,0,0,,4.5,10-63#
+Opel,Ampera,2017,Ampera-e First Edition,150,26.02.2020,102773,186.0,30.79,Electricity,Winter tires,1,1,1,Normal,21.0,0,0,,4.5,18-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.02.2020,102587,194.0,33.02,Electricity,Winter tires,1,1,0,Normal,21.0,0,0,,4.5,26-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.02.2020,102393,133.0,31.55,Electricity,Winter tires,1,1,1,Normal,21.0,0,0,,4.5,33-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.02.2020,102260,62.0,21.37,Electricity,Winter tires,1,1,0,Normal,21.0,0,0,,4.5,51-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.02.2020,102198,75.0,18.73,Electricity,Winter tires,0,1,0,Normal,21.0,0,0,,4.5,36-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.02.2020,102123,162.0,22.44,Electricity,Winter tires,1,1,0,Normal,21.0,0,1,,4.5,22-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.02.2020,101961,158.0,30.46,Electricity,Winter tires,1,1,1,Normal,21.0,0,1,,4.5,28-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.02.2020,101803,169.0,32.08,Electricity,Winter tires,1,1,1,Normal,21.0,0,1,,4.5,28-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.02.2020,101634,167.0,32.81,Electricity,Winter tires,1,1,1,Normal,21.0,0,1,,4.5,34-9%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.02.2020,101467,106.0,32.36,Electricity,Winter tires,1,0,0,Normal,21.0,0,1,,4.5,37-91%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.02.2020,101361,27.0,6.74,Electricity,Winter tires,1,0,0,Normal,21.0,0,1,,4.5,63-
+Opel,Ampera,2017,Ampera-e First Edition,150,15.02.2020,101334,8.0,30.85,Electricity,Winter tires,0,1,0,Normal,21.0,0,0,,4.5,16-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.02.2020,101326,150.0,2.57,Electricity,Winter tires,1,1,1,Normal,21.0,0,1,,4.5,14-17
+Opel,Ampera,2017,Ampera-e First Edition,150,14.02.2020,101176,185.0,31.32,Electricity,Winter tires,1,1,1,Normal,21.0,0,1,,4.5,13-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.02.2020,100991,176.0,32.58,Electricity,Winter tires,1,1,1,Normal,21.0,0,1,,4.5,23-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.02.2020,100815,171.0,32.07,Electricity,Winter tires,1,1,0,Normal,21.0,0,1,,4.5,34-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.02.2020,100644,137.0,29.62,Electricity,Winter tires,1,1,1,Normal,21.0,0,1,,4.5,52-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.02.2020,100507,8.0,34.45,Electricity,Winter tires,1,0,0,Normal,21.0,0,0,,4.5,42-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.02.2020,100499,101.0,4.31,Electricity,Winter tires,1,1,0,Normal,21.0,0,1,,4.5,"38-44%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,07.02.2020,100398,150.0,30.91,Electricity,Winter tires,1,1,0,Normal,21.0,0,1,,4.5,20-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.02.2020,100248,169.0,30.78,Electricity,Winter tires,1,1,1,Normal,21.0,0,1,,4.5,24-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.02.2020,100079,103.0,30.18,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,38-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.02.2020,99976,63.0,29.79,Electricity,Winter tires,0,1,0,Normal,20.84,0,1,,4.34,23-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.02.2020,99913,170.0,24.31,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,6-49%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.02.2020,99743,79.0,31.52,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,19-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.02.2020,99664,161.0,5.42,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,
+Opel,Ampera,2017,Ampera-e First Edition,150,31.01.2020,99503,86.0,20.36,Electricity,Winter tires,1,1,0,Normal,20.84,0,1,,4.34,"59-92%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,31.01.2020,99417,172.0,1.0,Electricity,Winter tires,1,1,0,Normal,20.84,0,1,,4.34,37-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.01.2020,99245,162.0,31.36,Electricity,Winter tires,1,1,0,Normal,20.84,0,1,,4.34,46-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.01.2020,99083,87.0,31.43,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,52-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.01.2020,98996,91.0,9.3,Electricity,Winter tires,1,1,0,Normal,20.84,0,1,,4.34,68-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.01.2020,98905,150.0,29.6,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,50-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.01.2020,98755,92.0,33.29,Electricity,Winter tires,1,1,0,Normal,20.84,0,1,,4.34,43-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.01.2020,98663,123.0,23.35,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,36-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.01.2020,98540,159.0,28.1,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,32-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.01.2020,98381,158.0,27.59,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,44-8%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.01.2020,98223,95.0,29.62,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,54-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.01.2020,98128,71.0,31.43,Electricity,Winter tires,0,1,0,Normal,20.84,0,1,,4.34,36-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.01.2020,98057,159.0,31.41,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,8-63%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.01.2020,97898,102.0,32.18,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,10-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.01.2020,97796,125.0,13.44,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,"-53%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,17.01.2020,97671,160.0,31.48,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,20-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.01.2020,97511,171.0,29.38,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,25-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.01.2020,97340,161.0,28.83,Electricity,Winter tires,1,1,1,Normal,20.84,0,1,,4.34,36-84%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.01.2020,97179,94.0,26.07,Electricity,Winter tires,1,1,0,Normal,20.84,0,1,,4.34,49-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.01.2020,97085,71.0,23.53,Electricity,Winter tires,0,1,0,Normal,20.84,0,0,,4.34,43-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.01.2020,97014,183.0,31.28,Electricity,Winter tires,1,1,0,Normal,20.84,0,0,,4.34,14-Zi%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.01.2020,96831,102.0,29.4,Electricity,Winter tires,1,1,0,Normal,20.84,0,0,,4.34,33-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.01.2020,96729,73.0,2.9,Electricity,Winter tires,0,1,0,Normal,20.84,0,0,,4.34,64-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.01.2020,96656,173.0,32.95,Electricity,Winter tires,1,1,0,Normal,20.84,0,0,,4.34,31-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.01.2020,96483,105.0,31.68,Electricity,Winter tires,1,1,0,Normal,20.84,0,0,,4.34,42-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.01.2020,96378,70.0,18.15,Electricity,Winter tires,0,1,0,Normal,20.84,0,0,,4.34,56-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.01.2020,96308,102.0,31.5,Electricity,Winter tires,1,1,0,Normal,20.84,0,1,,4.34,24-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.01.2020,96206,158.0,14.02,Electricity,Winter tires,1,1,0,Normal,20.84,0,1,,4.34,37-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.01.2020,96048,170.0,49.79,Electricity,Winter tires,1,1,0,Normal,20.84,0,1,,4.34,"27-100%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.01.2020,95878,93.0,22.99,Electricity,Winter tires,1,1,1,Normal,24.72,0,1,,8.219999999999999,52-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.01.2020,95785,103.0,28.81,Electricity,Winter tires,1,1,0,Normal,23.89,0,0,,7.390000000000001,42-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.01.2020,95682,59.0,18.77,Electricity,Winter tires,0,1,0,Normal,23.89,0,0,,7.390000000000001,51-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.01.2020,95623,89.0,33.85,Electricity,Winter tires,1,1,0,Normal,23.89,0,1,,7.390000000000001,15-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.12.2019,95534,64.0,13.71,Electricity,Winter tires,1,0,0,Normal,23.89,0,1,,7.390000000000001,31-53%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.12.2019,95470,32.0,15.66,Electricity,Winter tires,1,0,0,Normal,23.89,0,1,,7.390000000000001,"33-60%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.12.2019,95438,155.0,16.5,Electricity,Winter tires,1,1,1,Normal,23.89,0,1,,7.390000000000001,26-46%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.12.2019,95283,159.0,34.77,Electricity,Winter tires,0,1,1,Moderate,23.89,0,1,,7.390000000000001,13-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.12.2019,95124,55.0,18.64,Electricity,Winter tires,1,1,0,Normal,23.89,0,1,,7.390000000000001,47-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.12.2019,95069,187.0,32.68,Electricity,Winter tires,1,0,0,Normal,23.89,0,1,,7.390000000000001,-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.12.2019,94882,65.0,17.86,Electricity,Winter tires,1,0,0,Normal,23.89,0,1,,7.390000000000001,-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.12.2019,94817,70.0,15.4,Electricity,Winter tires,1,1,0,Normal,22.0,0,1,,5.5,66-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.12.2019,94747,31.0,21.62,Electricity,Winter tires,0,1,0,Normal,21.67,0,1,,5.170000000000002,57-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.12.2019,94716,71.0,26.32,Electricity,Winter tires,0,1,0,Normal,21.67,0,1,,5.170000000000002,23-72
+Opel,Ampera,2017,Ampera-e First Edition,150,17.12.2019,94645,159.0,18.86,Electricity,Winter tires,1,1,1,Normal,21.67,0,1,,5.170000000000002,15-49%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.12.2019,94486,137.0,29.17,Electricity,Winter tires,1,1,0,Normal,21.67,0,1,,5.170000000000002,23-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.12.2019,94349,12.0,20.27,Electricity,Winter tires,1,0,0,Normal,21.67,0,1,,5.170000000000002,34-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.12.2019,94337,128.0,3.41,Electricity,Winter tires,1,1,1,Normal,21.67,0,1,,5.170000000000002,
+Opel,Ampera,2017,Ampera-e First Edition,150,13.12.2019,94209,165.0,30.83,Electricity,Winter tires,1,1,1,Normal,21.67,0,1,,5.170000000000002,25-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.12.2019,94044,159.0,27.18,Electricity,Winter tires,1,1,1,Normal,21.67,0,1,,5.170000000000002,4
+Opel,Ampera,2017,Ampera-e First Edition,150,11.12.2019,93885,167.0,45.33,Electricity,Winter tires,1,1,1,Normal,21.67,0,1,,5.170000000000002,26-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.12.2019,93718,120.0,22.04,Electricity,Winter tires,1,1,0,Normal,22.05,0,1,,5.550000000000001,54-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.12.2019,93598,15.0,27.25,Electricity,Winter tires,1,0,0,Normal,22.05,0,0,,5.550000000000001,51-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.12.2019,93583,102.0,11.56,Electricity,Winter tires,1,1,0,Normal,22.05,0,1,,5.550000000000001,37-56%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.12.2019,93481,89.0,21.52,Electricity,Winter tires,1,1,0,Normal,22.05,0,0,,5.550000000000001,-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.12.2019,93392,105.0,31.85,Electricity,Winter tires,1,1,0,Normal,22.05,0,0,,5.550000000000001,18-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.12.2019,93287,77.0,12.84,Electricity,Winter tires,0,1,0,Normal,22.05,0,0,,5.550000000000001,38-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.12.2019,93210,182.0,29.84,Electricity,Winter tires,1,1,1,Normal,22.05,0,1,,5.550000000000001,14-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.12.2019,93028,96.0,33.25,Electricity,Winter tires,1,1,1,Normal,22.05,0,1,,5.550000000000001,26-83
+Opel,Ampera,2017,Ampera-e First Edition,150,03.12.2019,92932,69.0,16.12,Electricity,Winter tires,0,1,0,Normal,22.05,0,0,,5.550000000000001,43-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.12.2019,92863,81.0,29.5,Electricity,Winter tires,1,1,1,Normal,22.05,0,1,,5.550000000000001,16-68%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.12.2019,92782,47.0,6.45,Electricity,Winter tires,1,0,0,Normal,22.05,0,0,,5.550000000000001,37-48%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.12.2019,92735,105.0,24.43,Electricity,Winter tires,1,1,0,Normal,22.05,0,0,,5.550000000000001,17-57%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.12.2019,92630,21.0,7.99,Electricity,Winter tires,1,0,0,Normal,22.05,0,1,,5.550000000000001,47-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.11.2019,92609,92.0,28.8,Electricity,Winter tires,1,1,1,Normal,22.05,0,0,,5.550000000000001,9-52%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.11.2019,92517,31.0,7.55,Electricity,Winter tires,1,0,1,Normal,22.05,0,1,,5.550000000000001,35-48%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.11.2019,92486,71.0,4.29,Electricity,Winter tires,1,1,0,Normal,22.05,0,0,,5.550000000000001,37-44%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.11.2019,92415,137.0,26.6,Electricity,Winter tires,1,0,1,Normal,22.05,0,1,,5.550000000000001,14-61%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.11.2019,92278,70.0,9.25,Electricity,Winter tires,1,1,0,Normal,22.05,0,1,,5.550000000000001,49-65%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.11.2019,92208,116.0,26.86,Electricity,Winter tires,1,1,1,Normal,22.05,0,1,,5.550000000000001,28-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.11.2019,92092,159.0,36.3,Electricity,Winter tires,1,1,0,Fast,22.05,0,1,,5.550000000000001,4-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.11.2019,91933,100.0,31.95,Electricity,Winter tires,0,1,0,Fast,22.05,0,1,,5.550000000000001,12-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.11.2019,91833,173.0,7.47,Electricity,Winter tires,1,1,0,Fast,22.05,0,1,,5.550000000000001,38-50%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.11.2019,91660,73.0,23.7,Electricity,Winter tires,1,1,0,Fast,24.6,0,1,,8.100000000000001,61-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.11.2019,91587,71.0,29.01,Electricity,Winter tires,1,1,0,Fast,24.6,0,0,,8.100000000000001,41-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.11.2019,91516,174.0,25.52,Electricity,Winter tires,1,1,1,Fast,24.6,0,1,,8.100000000000001,23-Ru6
+Opel,Ampera,2017,Ampera-e First Edition,150,20.11.2019,91342,104.0,25.4,Electricity,Winter tires,1,1,1,Fast,21.76,0,1,,5.260000000000002,48-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.11.2019,91238,71.0,21.57,Electricity,All-year tires,1,1,0,Fast,21.76,0,0,,5.260000000000002,48-84%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.11.2019,91167,158.0,27.27,Electricity,Winter tires,1,1,1,Fast,21.76,0,1,,5.260000000000002,27-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.11.2019,91009,95.0,29.89,Electricity,Winter tires,1,1,1,Normal,21.76,0,1,,5.260000000000002,38-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.11.2019,90914,151.0,30.0,Electricity,Winter tires,0,1,0,Moderate,21.76,0,1,,5.260000000000002,20-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.11.2019,90763,173.0,34.33,Electricity,Winter tires,1,1,0,Moderate,21.76,0,1,,5.260000000000002,15-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.11.2019,90590,179.0,34.15,Electricity,Winter tires,1,1,0,Normal,21.76,0,1,,5.260000000000002,19-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.11.2019,90411,119.0,29.83,Electricity,Winter tires,1,1,0,Fast,21.41,0,1,,4.91,40-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.11.2019,90292,61.0,13.68,Electricity,Winter tires,0,1,0,Fast,21.41,0,1,,4.91,66-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.11.2019,90231,104.0,31.83,Electricity,Winter tires,1,1,1,Fast,21.41,0,1,,4.91,31-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.11.2019,90127,63.0,18.03,Electricity,Winter tires,0,1,0,Fast,21.41,0,1,,4.91,39-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.11.2019,90064,190.0,30.31,Electricity,Winter tires,1,1,1,Fast,21.41,0,1,,4.91,13-65%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.11.2019,89874,160.0,29.28,Electricity,Winter tires,1,1,1,Fast,21.41,0,1,,4.91,32-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.11.2019,89714,99.0,32.33,Electricity,Winter tires,1,1,1,Fast,21.41,0,1,,4.91,39-95%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.11.2019,89615,186.0,32.51,Electricity,Winter tires,1,1,1,Fast,21.41,0,0,,4.91,18-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.11.2019,89429,111.0,30.63,Electricity,Winter tires,1,0,1,Fast,21.41,0,1,,4.91,33-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.11.2019,89318,76.0,19.53,Electricity,Winter tires,0,1,0,Fast,21.41,0,0,,4.91,37-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.11.2019,89242,83.0,30.86,Electricity,Winter tires,1,1,1,Fast,21.41,0,1,,4.91,14-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.11.2019,89159,97.0,6.3,Electricity,Winter tires,1,1,0,Fast,21.41,0,0,,4.91,36-48%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.11.2019,89062,171.0,32.46,Electricity,Winter tires,1,1,0,Fast,21.41,0,0,,4.91,16-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.11.2019,88891,216.0,31.58,Electricity,Winter tires,1,1,1,Fast,21.41,0,0,,4.91,24-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.11.2019,88675,120.0,34.25,Electricity,Winter tires,1,1,1,Fast,21.41,0,0,,4.91,-93%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.10.2019,88555,154.0,33.47,Electricity,Winter tires,1,1,1,Fast,21.41,0,0,,4.91,20-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.10.2019,88401,174.0,32.2,Electricity,Winter tires,1,1,1,Fast,21.41,0,0,,4.91,21-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.10.2019,88227,158.0,32.23,Electricity,Winter tires,1,1,1,Fast,21.41,0,0,,4.91,34-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.10.2019,88069,109.0,21.81,Electricity,Winter tires,1,1,1,Fast,20.01,0,0,,3.5100000000000016,55-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.10.2019,87960,92.0,16.9,Electricity,Summer tires,1,1,1,Fast,17.45,0,0,,0.9499999999999993,-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.10.2019,87868,163.0,28.0,Electricity,Summer tires,1,1,1,Fast,17.45,0,1,,0.9499999999999993,33-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.10.2019,87705,166.0,27.44,Electricity,Summer tires,1,1,1,Fast,17.45,0,1,,0.9499999999999993,38-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.10.2019,87539,172.0,31.14,Electricity,Summer tires,1,1,1,Fast,17.45,0,1,,0.9499999999999993,35-84%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.10.2019,87367,152.0,25.5,Electricity,Summer tires,1,0,1,Fast,16.78,0,1,,0.28000000000000114,49-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.10.2019,87215,132.0,21.42,Electricity,Summer tires,1,1,1,Fast,16.23,0,0,,-0.2699999999999996,55-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.10.2019,87083,251.0,13.56,Electricity,Summer tires,1,1,1,Fast,17.13,0,0,,0.629999999999999,-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.10.2019,86832,164.0,32.38,Electricity,Summer tires,1,1,1,Fast,17.13,0,0,,0.629999999999999,36-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.10.2019,86668,171.0,30.6,Electricity,Summer tires,1,1,1,Fast,17.13,0,0,,0.629999999999999,33-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.10.2019,86497,150.0,28.31,Electricity,Summer tires,1,1,1,Fast,17.13,0,0,,0.629999999999999,36-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.10.2019,86347,144.0,32.82,Electricity,Summer tires,1,1,1,Fast,17.13,0,0,,0.629999999999999,23-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.10.2019,86203,42.0,10.93,Electricity,Summer tires,0,0,1,Normal,17.13,0,0,,0.629999999999999,42-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.10.2019,86161,89.0,9.44,Electricity,Summer tires,0,1,0,Normal,17.13,0,0,,0.629999999999999,27-43%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.10.2019,86072,117.0,6.15,Electricity,Summer tires,1,1,0,Normal,17.13,0,0,,0.629999999999999,"47-57%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,13.10.2019,85955,262.0,40.39,Electricity,Summer tires,1,1,0,Normal,17.13,0,0,,0.629999999999999,7-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.10.2019,85693,113.0,11.63,Electricity,Summer tires,1,1,1,Normal,17.13,0,0,,0.629999999999999,"75-92%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,11.10.2019,85580,31.0,27.0,Electricity,Summer tires,0,1,1,Fast,17.13,0,0,,0.629999999999999,55-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.10.2019,85549,259.0,27.43,Electricity,Summer tires,0,1,1,Fast,17.13,0,0,,0.629999999999999,15-63%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.10.2019,85290,131.0,35.85,Electricity,Summer tires,1,1,0,Fast,17.13,0,0,,0.629999999999999,"17-82%, NewMotion"
+Opel,Ampera,2017,Ampera-e First Edition,150,11.10.2019,85159,70.0,23.4,Electricity,Summer tires,1,1,0,Fast,17.13,0,0,,0.629999999999999,40-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.10.2019,85089,181.0,15.88,Electricity,Summer tires,1,1,0,Fast,17.13,0,0,,0.629999999999999,41-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.10.2019,84908,146.0,30.39,Electricity,Summer tires,1,1,1,Fast,17.13,0,0,,0.629999999999999,53-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.10.2019,84762,158.0,29.63,Electricity,Summer tires,1,1,1,Fast,17.13,0,0,,0.629999999999999,49-95%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.10.2019,84604,91.0,32.26,Electricity,Summer tires,1,1,0,Fast,17.13,0,0,,0.629999999999999,43-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.10.2019,84513,84.0,24.14,Electricity,Summer tires,1,1,0,Fast,17.13,0,0,,0.629999999999999,28-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.10.2019,84429,213.0,28.8,Electricity,Summer tires,1,1,1,Fast,17.13,0,0,,0.629999999999999,10-58%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.10.2019,84216,165.0,27.31,Electricity,Summer tires,1,1,0,Fast,19.64,0,0,,3.1400000000000006,"46-89%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.10.2019,84051,1.0,5.29,Electricity,Summer tires,1,0,0,Normal,19.64,0,0,,3.1400000000000006,"88-100%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.10.2019,84050,1.0,46.3,Electricity,Summer tires,1,0,0,Normal,18.94,0,0,,2.4400000000000013,15-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.10.2019,84049,210.0,7.08,Electricity,Summer tires,1,1,0,Fast,18.94,0,0,,2.4400000000000013,"4-15%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,02.10.2019,83839,168.0,31.63,Electricity,Summer tires,1,1,0,Fast,18.94,0,0,,2.4400000000000013,24-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.10.2019,83671,221.0,28.63,Electricity,Summer tires,1,1,1,Fast,18.94,0,0,,2.4400000000000013,23-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.09.2019,83450,123.0,19.45,Electricity,Summer tires,1,1,1,Fast,15.81,0,0,,-0.6899999999999995,69-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.09.2019,83327,105.0,18.73,Electricity,Summer tires,1,1,0,Fast,17.89,0,0,,1.3900000000000006,57-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.09.2019,83222,172.0,30.0,Electricity,Summer tires,1,1,0,Fast,17.89,0,0,,1.3900000000000006,40-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.09.2019,83050,170.0,31.23,Electricity,Summer tires,1,1,0,Fast,17.89,0,0,,1.3900000000000006,37-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.09.2019,82880,86.0,13.36,Electricity,Summer tires,1,1,1,Fast,14.83,0,0,,-1.67,69-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.09.2019,82794,89.0,23.62,Electricity,Summer tires,1,1,0,Fast,14.83,0,0,,-1.67,46-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.09.2019,82705,172.0,32.0,Electricity,Summer tires,1,1,0,Fast,14.83,0,0,,-1.67,15-68%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.09.2019,82533,83.0,32.07,Electricity,Summer tires,1,1,0,Fast,14.83,0,0,,-1.67,18-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.09.2019,82450,259.0,10.23,Electricity,Summer tires,0,1,1,Moderate,14.83,0,0,,-1.67,20-37%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.09.2019,82191,283.0,32.86,Electricity,Summer tires,0,1,1,Moderate,14.83,0,0,,-1.67,18-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.09.2019,81908,113.0,41.36,Electricity,Summer tires,0,1,0,Moderate,12.62,1,0,,-3.880000000000001,"30-98%, NewMotion"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.09.2019,81795,184.0,9.56,Electricity,Summer tires,1,0,1,Moderate,12.62,1,0,,-3.880000000000001,"35-52%, Enel, CCS, 10,4kWh aus Guthaben"
+Opel,Ampera,2017,Ampera-e First Edition,150,18.09.2019,81611,242.0,17.11,Electricity,Summer tires,1,0,1,Moderate,12.62,1,0,,-3.880000000000001,"49-78%, Enel, CCS, 19,05kWh aus Guthaben"
+Opel,Ampera,2017,Ampera-e First Edition,150,15.09.2019,81369,244.0,46.4,Electricity,Summer tires,1,0,1,Moderate,11.97,1,0,,-4.529999999999999,"20-98%, Eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,12.09.2019,81125,218.0,8.9,Electricity,Summer tires,1,0,1,Moderate,11.97,0,0,,-4.529999999999999,"56-71%, Enel, CCS, 9,68kWh aus Guthaben"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.09.2019,80907,249.0,48.86,Electricity,Summer tires,0,1,0,Normal,16.65,1,0,,0.14999999999999858,"19-98%, Eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.09.2019,80658,1.0,1.6,Electricity,Summer tires,0,0,0,Moderate,16.65,0,0,,0.14999999999999858,"85-86%, Maingau an Ionity"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.09.2019,80657,106.0,18.68,Electricity,Summer tires,0,1,1,Moderate,16.65,0,0,,0.14999999999999858,"55-85%, Duferca, CCS, 20,49 kWh berechnet"
+Opel,Ampera,2017,Ampera-e First Edition,150,07.09.2019,80551,43.0,5.0,Electricity,Summer tires,0,1,0,Normal,16.65,0,0,,0.14999999999999858,75-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.09.2019,80508,9.0,10.5,Electricity,Summer tires,0,1,0,Normal,16.65,0,0,,0.14999999999999858,69-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.09.2019,80499,30.0,0.31,Electricity,Summer tires,0,1,0,Normal,16.65,0,0,,0.14999999999999858,"78-78%, Enel Typ2, CCS startet nicht, 0,30kWh aus Guthaben "
+Opel,Ampera,2017,Ampera-e First Edition,150,07.09.2019,80469,171.0,20.34,Electricity,Summer tires,0,1,0,Moderate,16.65,0,0,,0.14999999999999858,44-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.09.2019,80298,184.0,29.89,Electricity,Summer tires,0,1,1,Normal,16.65,0,0,,0.14999999999999858,"29-82%, Eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,06.09.2019,80114,9.0,2.47,Electricity,Summer tires,1,0,0,Normal,16.65,0,0,,0.14999999999999858,77-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.09.2019,80105,266.0,31.22,Electricity,Summer tires,1,1,0,Fast,16.65,0,0,,0.14999999999999858,25-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.09.2019,79839,93.0,24.45,Electricity,Summer tires,1,1,0,Fast,16.65,0,0,,0.14999999999999858,64-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.09.2019,79746,88.0,18.3,Electricity,Summer tires,1,1,0,Fast,17.42,1,0,,0.9200000000000017,58-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.09.2019,79658,169.0,32.38,Electricity,Summer tires,1,1,0,Fast,17.42,0,0,,0.9200000000000017,26-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.09.2019,79489,163.0,30.95,Electricity,Summer tires,1,1,1,Fast,17.42,0,0,,0.9200000000000017,25-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.09.2019,79326,92.0,29.0,Electricity,Summer tires,1,1,0,Fast,17.42,0,0,,0.9200000000000017,25-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.09.2019,79234,171.0,19.4,Electricity,Summer tires,1,1,0,Fast,17.42,0,0,,0.9200000000000017,15-48%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.08.2019,79063,189.0,21.85,Electricity,Summer tires,0,1,0,Fast,17.42,1,0,,0.9200000000000017,31-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.08.2019,78874,164.0,45.54,Electricity,Summer tires,0,1,0,Fast,16.51,1,0,,0.010000000000001563,16-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.08.2019,78710,244.0,24.74,Electricity,Summer tires,1,1,1,Fast,16.51,1,0,,0.010000000000001563,22-64%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.08.2019,78466,174.0,20.15,Electricity,Summer tires,1,1,0,Fast,16.51,0,0,,0.010000000000001563,55-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.08.2019,78292,164.0,32.7,Electricity,Summer tires,1,1,1,Fast,16.51,0,0,,0.010000000000001563,49-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.08.2019,78128,162.0,25.2,Electricity,Summer tires,1,1,1,Fast,15.56,1,0,,-0.9399999999999995,50-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.08.2019,77966,91.0,24.88,Electricity,Summer tires,1,1,0,Fast,15.42,1,0,,-1.08,51-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.08.2019,77875,14.0,9.39,Electricity,Summer tires,1,0,0,Normal,15.42,0,0,,-1.08,57-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.08.2019,77861,70.0,11.75,Electricity,Summer tires,0,1,0,Normal,15.42,0,0,,-1.08,40-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.08.2019,77791,331.0,28.48,Electricity,Summer tires,1,1,1,Normal,15.42,0,0,,-1.08,14-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.08.2019,77460,107.0,28.57,Electricity,Summer tires,1,1,1,Fast,15.42,0,0,,-1.08,43-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.08.2019,77353,77.0,3.31,Electricity,Summer tires,1,1,0,Fast,15.42,0,0,,-1.08,68-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.08.2019,77276,162.0,28.05,Electricity,Summer tires,1,1,1,Fast,17.31,0,0,,0.8099999999999987,44-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.08.2019,77114,173.0,29.97,Electricity,Summer tires,1,1,1,Fast,16.44,0,0,,-0.05999999999999872,40-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.08.2019,76941,158.0,34.25,Electricity,Summer tires,1,1,1,Fast,16.44,0,0,,-0.05999999999999872,32-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.08.2019,76783,200.0,31.18,Electricity,Summer tires,1,1,1,Fast,16.44,0,0,,-0.05999999999999872,23-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.08.2019,76583,169.0,29.16,Electricity,Summer tires,0,1,0,Fast,16.44,1,0,,-0.05999999999999872,"29-79%, Eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,17.08.2019,76414,137.0,31.14,Electricity,Summer tires,1,1,0,Normal,16.44,1,0,,-0.05999999999999872,24-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.08.2019,76277,226.0,15.44,Electricity,Summer tires,1,1,0,Normal,16.44,1,0,,-0.05999999999999872,34-59%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.08.2019,76051,255.0,38.46,Electricity,Summer tires,1,1,1,Fast,16.44,0,0,,-0.05999999999999872,"21-85%, Eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.08.2019,75796,168.0,33.85,Electricity,Summer tires,1,1,1,Fast,16.44,0,0,,-0.05999999999999872,46-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.08.2019,75628,174.0,29.46,Electricity,Summer tires,1,1,1,Fast,16.44,0,0,,-0.05999999999999872,42-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.08.2019,75454,143.0,14.2,Electricity,Summer tires,1,1,1,Fast,15.5,0,0,,-1.0,67-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.08.2019,75311,91.0,22.08,Electricity,Summer tires,1,1,1,Fast,15.5,0,0,,-1.0,68-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.08.2019,75220,164.0,25.0,Electricity,Summer tires,1,1,1,Fast,15.24,0,0,,-1.2599999999999998,49-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.08.2019,75056,160.0,26.0,Electricity,Summer tires,1,1,1,Fast,16.25,0,0,,-0.25,48-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.08.2019,74896,172.0,31.58,Electricity,Summer tires,1,1,1,Fast,16.02,0,0,,-0.4800000000000004,37-89%{
+Opel,Ampera,2017,Ampera-e First Edition,150,06.08.2019,74724,162.0,34.35,Electricity,Summer tires,1,1,1,Fast,16.02,0,0,,-0.4800000000000004,28-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.08.2019,74562,191.0,30.45,Electricity,Summer tires,1,1,0,Normal,16.02,0,0,,-0.4800000000000004,20-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.08.2019,74371,319.0,35.25,Electricity,Summer tires,1,1,1,Normal,16.02,1,0,,-0.4800000000000004,"15-74%, Swisscharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,02.08.2019,74052,89.0,17.79,Electricity,Summer tires,1,1,1,Fast,16.02,0,0,,-0.4800000000000004,68-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.08.2019,73963,180.0,27.3,Electricity,Summer tires,1,1,1,Fast,15.17,0,0,,-1.33,47-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.08.2019,73783,158.0,24.99,Electricity,Summer tires,1,1,1,Fast,15.82,0,0,,-0.6799999999999997,49-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.07.2019,73625,181.0,28.14,Electricity,Summer tires,1,1,1,Fast,15.55,0,0,,-0.9499999999999993,43-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.07.2019,73444,165.0,26.91,Electricity,Summer tires,1,1,1,Fast,16.31,0,0,,-0.19000000000000128,46-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.07.2019,73279,116.0,16.29,Electricity,Summer tires,1,1,1,Fast,14.04,0,0,,-2.460000000000001,63-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.07.2019,73163,81.0,12.95,Electricity,Summer tires,1,1,1,Fast,15.99,0,0,,-0.5099999999999998,72-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.07.2019,73082,162.0,23.53,Electricity,Summer tires,1,1,1,Fast,14.52,0,0,,-1.9800000000000004,53-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.07.2019,72920,156.0,22.4,Electricity,Summer tires,1,1,1,Fast,14.36,0,0,,-2.1400000000000006,55-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.07.2019,72764,172.0,23.88,Electricity,Summer tires,1,1,1,Fast,14.36,0,0,,-2.1400000000000006,52-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.07.2019,72592,173.0,31.08,Electricity,Summer tires,1,1,1,Fast,14.36,0,0,,-2.1400000000000006,38-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.07.2019,72419,241.0,29.18,Electricity,Summer tires,1,1,1,Fast,14.36,0,0,,-2.1400000000000006,32-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.07.2019,72178,161.0,25.0,Electricity,Summer tires,1,1,1,Fast,15.53,0,0,,-0.9700000000000006,49-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.07.2019,72017,156.0,24.05,Electricity,Summer tires,1,1,1,Fast,15.42,0,0,,-1.08,52-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.07.2019,71861,172.0,28.74,Electricity,Summer tires,1,1,1,Fast,16.71,0,0,,0.21000000000000085,43-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.07.2019,71689,178.0,27.48,Electricity,Summer tires,1,1,1,Fast,15.44,0,0,,-1.0600000000000005,46-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.07.2019,71511,86.0,14.57,Electricity,Summer tires,1,1,1,Fast,16.94,0,0,,0.4400000000000013,66-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.07.2019,71425,87.0,11.98,Electricity,Summer tires,1,1,1,Fast,13.77,0,0,,-2.7300000000000004,71-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.07.2019,71338,178.0,34.0,Electricity,Summer tires,1,1,0,Fast,16.3,0,0,,-0.1999999999999993,35-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.07.2019,71160,184.0,25.0,Electricity,Summer tires,1,1,1,Fast,16.3,0,0,,-0.1999999999999993,45-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.07.2019,70976,159.0,25.98,Electricity,Summer tires,1,1,1,Fast,16.34,0,0,,-0.16000000000000014,49-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.07.2019,70817,170.0,28.91,Electricity,Summer tires,1,1,1,Fast,17.01,0,0,,0.5100000000000016,43-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.07.2019,70647,91.0,28.21,Electricity,Summer tires,1,1,1,Fast,18.02,0,0,,1.5199999999999996,44-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.07.2019,70556,134.0,26.5,Electricity,Summer tires,0,1,0,Fast,18.02,0,0,,1.5199999999999996,26-
+Opel,Ampera,2017,Ampera-e First Edition,150,07.07.2019,70422,209.0,33.6,Electricity,Summer tires,0,1,0,Fast,18.02,0,0,,1.5199999999999996,"13-65%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,07.07.2019,70213,255.0,39.76,Electricity,Summer tires,0,1,0,Fast,18.02,0,0,,1.5199999999999996,"11-77%, Eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,06.07.2019,69958,82.0,18.92,Electricity,Summer tires,1,1,0,Fast,18.02,0,0,,1.5199999999999996,73-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.07.2019,69876,224.0,41.03,Electricity,Summer tires,0,1,0,Fast,18.02,0,0,,1.5199999999999996,"20-87%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.07.2019,69652,107.0,40.7,Electricity,Summer tires,0,1,0,Fast,18.02,0,0,,1.5199999999999996,"22-87%, Eins"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.07.2019,69545,253.0,16.92,Electricity,Summer tires,1,1,0,Fast,18.02,0,0,,1.5199999999999996,"25-54%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.07.2019,69292,77.0,11.0,Electricity,Summer tires,1,1,1,Fast,18.02,0,0,,1.5199999999999996,83-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.07.2019,69215,164.0,30.96,Electricity,Summer tires,1,1,0,Fast,18.02,0,0,,1.5199999999999996,53-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.07.2019,69051,182.0,30.85,Electricity,Summer tires,1,1,0,Fast,16.95,0,0,,0.4499999999999993,41-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.07.2019,68869,169.0,26.88,Electricity,Summer tires,1,1,0,Fast,15.91,0,0,,-0.5899999999999999,47-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.07.2019,68700,244.0,27.71,Electricity,Summer tires,1,1,1,Normal,15.49,1,0,,-1.0099999999999998,44-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.06.2019,68456,10.0,54.93,Electricity,Summer tires,1,0,0,Normal,15.49,1,0,,-1.0099999999999998,11-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.06.2019,68446,216.0,2.58,Electricity,Summer tires,0,1,1,Fast,15.49,1,0,,-1.0099999999999998,9-13%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.06.2019,68230,211.0,24.74,Electricity,Summer tires,1,1,1,Fast,15.49,1,0,,-1.0099999999999998,27-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.06.2019,68019,172.0,26.0,Electricity,Summer tires,1,1,1,Fast,15.49,1,0,,-1.0099999999999998,44-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.06.2019,67847,178.0,23.78,Electricity,Summer tires,1,1,1,Fast,15.49,1,0,,-1.0099999999999998,48-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.06.2019,67669,156.0,23.75,Electricity,Summer tires,1,1,1,Fast,15.22,0,0,,-1.2799999999999994,52-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.06.2019,67513,107.0,13.05,Electricity,Summer tires,1,1,1,Normal,12.2,0,0,,-4.300000000000001,69-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.06.2019,67406,277.0,48.09,Electricity,Summer tires,0,1,1,Fast,16.86,0,0,,0.35999999999999943,14-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.06.2019,67129,3.0,5.76,Electricity,Summer tires,1,0,1,Normal,16.86,0,0,,0.35999999999999943,85-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.06.2019,67126,3.0,11.61,Electricity,Summer tires,1,0,1,Normal,16.86,0,0,,0.35999999999999943,68-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.06.2019,67123,104.0,8.52,Electricity,Summer tires,1,0,1,Normal,16.86,0,0,,0.35999999999999943,55-68%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.06.2019,67019,11.0,6.25,Electricity,Summer tires,1,0,0,Normal,16.86,1,0,,0.35999999999999943,69-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.06.2019,67008,216.0,37.0,Electricity,Summer tires,1,1,0,Fast,16.86,1,0,,0.35999999999999943,"5-68%, incl. Fahrsicherheitstraining"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.06.2019,66792,245.0,22.39,Electricity,Summer tires,1,1,1,Fast,16.86,1,0,,0.35999999999999943,"35-73%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.06.2019,66547,161.0,32.34,Electricity,Summer tires,1,1,1,Fast,16.86,1,0,,0.35999999999999943,49-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.06.2019,66386,162.0,26.04,Electricity,Summer tires,1,1,1,Fast,16.07,0,0,,-0.4299999999999997,49-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.06.2019,66224,111.0,26.02,Electricity,Summer tires,1,1,0,Fast,15.4,0,0,,-1.0999999999999996,49-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.06.2019,66113,130.0,9.0,Electricity,Summer tires,1,1,1,Fast,15.4,0,0,,-1.0999999999999996,"57-72%, InCharge 6kWh und Maingau 3kWh"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.06.2019,65983,113.0,28.0,Electricity,Summer tires,1,1,1,Fast,15.4,0,0,,-1.0999999999999996,40-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.06.2019,65870,79.0,4.14,Electricity,Summer tires,0,1,0,Fast,15.4,0,0,,-1.0999999999999996,64-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.06.2019,65791,172.0,26.0,Electricity,Summer tires,1,1,0,Fast,15.4,0,0,,-1.0999999999999996,43-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.06.2019,65619,71.0,20.72,Electricity,Summer tires,0,1,0,Fast,17.55,0,1,,1.0500000000000007,57-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.06.2019,65548,116.0,23.19,Electricity,Summer tires,1,1,0,Fast,17.55,0,1,,1.0500000000000007,39-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.06.2019,65432,244.0,30.88,Electricity,Summer tires,0,1,0,Normal,17.55,0,1,,1.0500000000000007,16-68%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.06.2019,65188,76.0,48.55,Electricity,Summer tires,0,1,0,Normal,17.55,0,0,,1.0500000000000007,10-92
+Opel,Ampera,2017,Ampera-e First Edition,150,10.06.2019,65111,218.0,3.9,Electricity,Summer tires,1,1,1,Normal,17.55,0,0,,1.0500000000000007,"30-37%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.06.2019,64894,86.0,18.1,Electricity,Summer tires,0,1,0,Normal,16.58,0,0,,0.0799999999999983,62-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.06.2019,64808,243.0,36.44,Electricity,Summer tires,1,1,1,Normal,16.58,0,0,,0.0799999999999983,23-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.06.2019,64565,162.0,28.63,Electricity,Summer tires,1,1,1,Fast,17.67,0,0,,1.1700000000000017,44-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.06.2019,64403,160.0,23.6,Electricity,Summer tires,1,1,1,Fast,14.75,1,0,,-1.75,53-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.06.2019,64242,156.0,22.86,Electricity,Summer tires,1,1,1,Fast,14.65,1,0,,-1.8499999999999996,54-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.06.2019,64087,159.0,24.08,Electricity,Summer tires,1,1,1,Fast,15.14,1,0,,-1.3599999999999994,52-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.06.2019,63928,102.0,13.97,Electricity,Summer tires,1,1,0,Normal,13.7,0,0,,-2.8000000000000007,68-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.06.2019,63826,138.0,24.87,Electricity,Summer tires,0,1,1,Normal,18.02,1,0,,1.5199999999999996,50-91%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.06.2019,63688,29.0,16.3,Electricity,Summer tires,1,0,0,Moderate,18.6,0,0,,2.1000000000000014,"67-80%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,01.06.2019,63659,65.0,21.76,Electricity,Summer tires,1,0,0,Moderate,18.6,0,0,,2.1000000000000014,34-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.05.2019,63594,117.0,19.21,Electricity,Summer tires,1,1,0,Fast,18.6,0,0,,2.1000000000000014,"12-47%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.05.2019,63477,209.0,16.64,Electricity,Summer tires,1,1,0,Fast,18.6,0,1,,2.1000000000000014,"17-47%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,29.05.2019,63268,87.0,33.71,Electricity,Summer tires,1,1,0,Fast,18.6,0,1,,2.1000000000000014,24-
+Opel,Ampera,2017,Ampera-e First Edition,150,28.05.2019,63181,88.0,7.85,Electricity,Summer tires,1,1,0,Fast,18.6,0,0,,2.1000000000000014,42-55%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.05.2019,63093,156.0,30.32,Electricity,Summer tires,1,1,1,Fast,18.6,0,1,,2.1000000000000014,19-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.05.2019,62937,220.0,31.5,Electricity,Summer tires,1,1,1,Normal,18.6,0,1,,2.1000000000000014,16-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.05.2019,62717,214.0,39.0,Electricity,Summer tires,1,0,1,Normal,18.6,0,0,,2.1000000000000014,19-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.05.2019,62503,147.0,30.0,Electricity,Summer tires,1,1,0,Fast,18.6,0,1,,2.1000000000000014,35-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.05.2019,62356,171.0,34.86,Electricity,Summer tires,1,1,0,Fast,18.6,0,1,,2.1000000000000014,18-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.05.2019,62185,168.0,31.54,Electricity,Summer tires,1,1,0,Fast,18.6,0,1,,2.1000000000000014,26-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.05.2019,62017,161.0,24.3,Electricity,Summer tires,1,1,0,Fast,18.6,0,1,,2.1000000000000014,49-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.05.2019,61856,92.0,16.0,Electricity,Summer tires,1,1,0,Fast,18.6,0,1,,2.1000000000000014,74-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.05.2019,61764,17.0,2.38,Electricity,Summer tires,1,0,0,Normal,18.6,0,0,,2.1000000000000014,"99-100%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.05.2019,61747,40.0,13.19,Electricity,Summer tires,1,0,0,Normal,18.6,0,0,,2.1000000000000014,InCharge
+Opel,Ampera,2017,Ampera-e First Edition,150,17.05.2019,61707,83.0,15.0,Electricity,Summer tires,1,1,0,Fast,20.02,0,0,,3.5199999999999996,65-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.05.2019,61624,158.0,33.0,Electricity,Summer tires,1,1,0,Fast,20.02,0,1,,3.5199999999999996,29-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.05.2019,61466,157.0,32.99,Electricity,Summer tires,1,1,0,Fast,20.02,0,1,,3.5199999999999996,29-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.05.2019,61309,172.0,33.15,Electricity,Summer tires,1,1,0,Fast,20.02,0,1,,3.5199999999999996,27-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.05.2019,61137,105.0,31.32,Electricity,Summer tires,1,1,0,Fast,20.26,0,1,,3.7600000000000016,38-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.05.2019,61032,70.0,15.77,Electricity,Summer tires,0,1,0,Fast,20.26,0,0,,3.7600000000000016,46-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.05.2019,60962,178.0,31.62,Electricity,Summer tires,1,1,0,Fast,20.26,0,1,,3.7600000000000016,14-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.05.2019,60784,172.0,29.49,Electricity,Summer tires,1,1,0,Fast,20.26,0,1,,3.7600000000000016,21-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.05.2019,60612,163.0,32.68,Electricity,Summer tires,1,1,0,Fast,20.26,0,1,,3.7600000000000016,21-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.05.2019,60449,102.0,33.31,Electricity,Summer tires,1,1,0,Fast,20.26,0,1,,3.7600000000000016,24-81^
+Opel,Ampera,2017,Ampera-e First Edition,150,05.05.2019,60347,152.0,16.64,Electricity,Summer tires,0,1,0,Fast,20.26,0,1,,3.7600000000000016,30-62%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.05.2019,60195,173.0,40.94,Electricity,Summer tires,1,1,0,Fast,23.66,0,1,,7.16,"17-90%, EnBW Prepaid"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.05.2019,60022,99.0,17.37,Electricity,Summer tires,1,1,0,Fast,20.87,0,0,,4.370000000000001,"66-90%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,03.05.2019,59923,101.0,27.95,Electricity,Summer tires,1,1,0,Fast,20.87,0,1,,4.370000000000001,57-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.05.2019,59822,70.0,20.58,Electricity,Summer tires,0,1,0,Fast,20.87,0,0,,4.370000000000001,55-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.05.2019,59752,106.0,31.4,Electricity,Summer tires,1,1,0,Fast,20.87,0,1,,4.370000000000001,23-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.04.2019,59646,88.0,8.98,Electricity,Summer tires,1,1,0,Fast,20.87,0,1,,4.370000000000001,44-59%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.04.2019,59558,163.0,30.57,Electricity,Summer tires,0,0,0,Fast,20.87,0,1,,4.370000000000001,18-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.04.2019,59395,167.0,32.71,Electricity,Summer tires,0,1,0,Fast,20.87,0,1,,4.370000000000001,20-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.04.2019,59228,78.0,30.28,Electricity,Summer tires,0,1,0,Fast,20.87,0,0,,4.370000000000001,"25-81%, EnBW Prepaid"
+Opel,Ampera,2017,Ampera-e First Edition,150,28.04.2019,59150,85.0,8.14,Electricity,Summer tires,0,1,0,Fast,20.87,0,0,,4.370000000000001,39-53%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.04.2019,59065,195.0,32.48,Electricity,Summer tires,1,1,1,Fast,20.87,0,1,,4.370000000000001,"10-70%, EnBW Prepaid"
+Opel,Ampera,2017,Ampera-e First Edition,150,26.04.2019,58870,112.0,25.43,Electricity,Summer tires,1,1,0,Fast,17.43,0,1,,0.9299999999999997,48-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.04.2019,58758,77.0,9.89,Electricity,Summer tires,0,1,0,Fast,17.43,0,0,,0.9299999999999997,67-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.04.2019,58681,92.0,21.29,Electricity,Summer tires,1,1,1,Fast,17.43,0,1,,0.9299999999999997,54-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.04.2019,58589,82.0,13.43,Electricity,Summer tires,1,1,0,Fast,17.43,0,0,,0.9299999999999997,"63-85%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,24.04.2019,58507,157.0,27.6,Electricity,Summer tires,1,1,1,Fast,17.43,0,1,,0.9299999999999997,40-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.04.2019,58350,148.0,31.08,Electricity,Summer tires,1,1,1,Fast,17.43,0,1,,0.9299999999999997,33-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.04.2019,58202,165.0,28.21,Electricity,Summer tires,1,1,1,Normal,17.43,0,0,,0.9299999999999997,31-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.04.2019,58037,120.0,9.22,Electricity,Summer tires,1,1,1,Normal,17.43,0,0,,0.9299999999999997,"61-76%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,18.04.2019,57917,171.0,22.05,Electricity,Summer tires,1,1,0,Fast,19.02,0,0,,2.5199999999999996,63-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.04.2019,57746,92.0,27.97,Electricity,Summer tires,1,1,0,Fast,19.02,0,1,,2.5199999999999996,57-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.04.2019,57654,81.0,16.0,Electricity,Summer tires,0,1,0,Fast,19.75,0,0,,3.25,-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.04.2019,57573,115.0,28.1,Electricity,Summer tires,1,1,0,Fast,20.51,0,1,,4.010000000000002,43-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.04.2019,57458,39.0,3.48,Electricity,Summer tires,1,0,0,Normal,20.51,0,1,,4.010000000000002,"82-85%, InCharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,11.04.2019,57419,164.0,41.07,Electricity,Summer tires,1,1,0,Fast,20.83,0,0,,4.329999999999998,26-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.04.2019,57255,169.0,28.29,Electricity,Summer tires,1,1,1,Fast,20.83,0,1,,4.329999999999998,32-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.04.2019,57086,86.0,23.04,Electricity,Summer tires,1,1,0,Fast,19.46,0,1,,2.960000000000001,53-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.04.2019,57000,28.0,7.3,Electricity,Summer tires,1,0,0,Normal,19.46,0,0,,2.960000000000001,"69-80%, Swisscharge"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.04.2019,56972,70.0,22.95,Electricity,Summer tires,0,1,0,Fast,19.46,0,0,,2.960000000000001,34-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.04.2019,56902,239.0,28.54,Electricity,Summer tires,1,1,1,Fast,19.46,0,1,,2.960000000000001,10-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.04.2019,56663,48.0,7.6,Electricity,Summer tires,0,0,1,Normal,19.46,0,0,,2.960000000000001,63-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.04.2019,56615,154.0,34.8,Electricity,Summer tires,1,1,1,Fast,19.46,0,0,,2.960000000000001,20-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.04.2019,56461,181.0,32.6,Electricity,Summer tires,1,1,0,Fast,19.46,0,1,,2.960000000000001,21-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.04.2019,56280,162.0,32.54,Electricity,Summer tires,1,1,1,Fast,20.48,0,1,,3.9800000000000004,36-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.04.2019,56118,173.0,32.33,Electricity,Summer tires,1,1,1,Fast,20.48,0,1,,3.9800000000000004,36-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.04.2019,55945,161.0,32.68,Electricity,Summer tires,1,1,1,Fast,20.48,0,1,,3.9800000000000004,35-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.04.2019,55784,98.0,29.1,Electricity,Summer tires,1,1,1,Fast,20.48,0,1,,3.9800000000000004,40-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.03.2019,55686,116.0,14.19,Electricity,Winter tires,0,1,0,Fast,20.48,0,0,,3.9800000000000004,49-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.03.2019,55570,114.0,32.89,Electricity,Winter tires,1,1,1,Fast,20.48,0,0,,3.9800000000000004,"20-81%, Telekom"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.03.2019,55456,133.0,16.1,Electricity,Winter tires,1,1,1,Normal,20.48,0,0,,3.9800000000000004,40-
+Opel,Ampera,2017,Ampera-e First Edition,150,29.03.2019,55323,180.0,22.85,Electricity,Winter tires,0,1,1,Fast,20.48,0,0,,3.9800000000000004,"36-80%, Telekom"
+Opel,Ampera,2017,Ampera-e First Edition,150,28.03.2019,55143,31.0,18.98,Electricity,Winter tires,1,0,0,Normal,20.48,0,0,,3.9800000000000004,62-93%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.03.2019,55112,166.0,30.83,Electricity,Winter tires,1,1,0,Fast,20.48,0,0,,3.9800000000000004,20-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.03.2019,54946,88.0,32.03,Electricity,Winter tires,1,1,0,Fast,20.48,0,0,,3.9800000000000004,23-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.03.2019,54858,80.0,4.84,Electricity,Winter tires,1,1,0,Fast,20.48,0,0,,3.9800000000000004,"48-56%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,05.03.2019,54778,179.0,30.9,Electricity,Winter tires,1,1,1,Fast,20.48,0,1,,3.9800000000000004,30-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.03.2019,54599,152.0,36.58,Electricity,Winter tires,1,1,0,Fast,20.48,0,1,,3.9800000000000004,41-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.03.2019,54447,100.0,24.61,Electricity,Winter tires,1,1,1,Fast,20.48,0,1,,3.9800000000000004,55-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.03.2019,54347,170.0,29.0,Electricity,Winter tires,1,1,0,Fast,20.48,0,1,,3.9800000000000004,41-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.02.2019,54177,98.0,24.59,Electricity,Winter tires,1,1,1,Fast,20.48,0,1,,3.9800000000000004,63-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2019,54079,70.0,24.52,Electricity,Winter tires,0,1,0,Fast,20.48,0,1,,3.9800000000000004,55-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2019,54009,78.0,26.69,Electricity,Winter tires,1,1,1,Fast,20.48,0,1,,3.9800000000000004,33-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2019,53931,16.0,6.65,Electricity,Winter tires,1,0,0,Fast,20.48,0,1,,3.9800000000000004,"-61%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,26.02.2019,53915,87.0,6.33,Electricity,Winter tires,1,1,0,Fast,20.48,0,1,,3.9800000000000004,45-57%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.02.2019,53828,160.0,21.67,Electricity,Winter tires,1,1,1,Fast,20.48,0,1,,3.9800000000000004,39-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.02.2019,53668,102.0,31.39,Electricity,Winter tires,1,1,0,Fast,20.48,0,1,,3.9800000000000004,41-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.02.2019,53566,164.0,29.24,Electricity,Winter tires,1,1,0,Fast,20.48,0,1,,3.9800000000000004,26-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.02.2019,53402,182.0,35.22,Electricity,Winter tires,1,1,0,Fast,20.48,0,1,,3.9800000000000004,"37-93%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,23.02.2019,53220,88.0,26.98,Electricity,Winter tires,1,1,0,Fast,21.66,0,1,,5.16,"62-100%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,22.02.2019,53132,174.0,34.21,Electricity,Winter tires,1,1,0,Fast,21.66,0,1,,5.16,34-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.02.2019,52958,162.0,30.66,Electricity,Winter tires,1,1,0,Fast,21.66,0,1,,5.16,48-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.02.2019,52796,92.0,23.62,Electricity,Winter tires,1,1,0,Normal,20.46,0,1,,3.960000000000001,65-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.02.2019,52704,92.0,21.6,Electricity,Winter tires,1,1,0,Normal,20.46,0,1,,3.960000000000001,"62-95%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.02.2019,52612,162.0,31.08,Electricity,Winter tires,1,1,0,Normal,20.46,0,1,,3.960000000000001,40-91%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.02.2019,52450,164.0,30.69,Electricity,Winter tires,1,1,1,Normal,20.46,0,1,,3.960000000000001,41-91%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.02.2019,52286,96.0,17.01,Electricity,Winter tires,1,0,1,Normal,20.46,0,1,,3.960000000000001,"72-97%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.02.2019,52190,189.0,44.96,Electricity,Winter tires,0,1,0,Fast,23.79,0,1,,7.289999999999999,"23-100%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.02.2019,52001,52.0,28.15,Electricity,Winter tires,0,1,0,Fast,23.48,0,1,,6.98,"58-100%, RFID Visa"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.02.2019,51949,180.0,30.62,Electricity,Winter tires,0,1,0,Fast,23.48,0,1,,6.98,"23-75%, Telekom"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.02.2019,51769,84.0,30.09,Electricity,Winter tires,0,1,0,Fast,23.48,0,1,,6.98,44-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.02.2019,51685,9.0,11.19,Electricity,Winter tires,0,1,0,Fast,23.48,0,1,,6.98,"62-80%, Telekom"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.02.2019,51676,43.0,23.86,Electricity,Winter tires,0,1,0,Fast,23.48,0,1,,6.98,"23-65%, Telekom"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.02.2019,51633,72.0,11.52,Electricity,Winter tires,1,1,0,Fast,23.48,0,1,,6.98,23-42%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.02.2019,51561,91.0,2.73,Electricity,Winter tires,1,1,0,Fast,23.48,0,1,,6.98,"51-55%, Telekom"
+Opel,Ampera,2017,Ampera-e First Edition,150,12.02.2019,51470,71.0,25.57,Electricity,Winter tires,0,1,0,Normal,23.48,0,1,,6.98,45-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.02.2019,51399,167.0,32.18,Electricity,Winter tires,1,1,0,Normal,23.48,0,1,,6.98,17-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.02.2019,51232,105.0,31.86,Electricity,Winter tires,1,1,0,Normal,23.48,0,1,,6.98,26-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.02.2019,51127,103.0,10.78,Electricity,Winter tires,0,1,0,Fast,23.48,0,1,,6.98,"47-64%, Telekom"
+Opel,Ampera,2017,Ampera-e First Edition,150,10.02.2019,51024,42.0,0.76,Electricity,Winter tires,1,1,0,Fast,23.48,0,1,,6.98,"82-83, Telekom"
+Opel,Ampera,2017,Ampera-e First Edition,150,10.02.2019,50982,183.0,44.78,Electricity,Winter tires,1,1,0,Fast,24.47,0,1,,7.969999999999999,"28–100%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,09.02.2019,50799,103.0,19.8,Electricity,Winter tires,1,1,0,Normal,19.22,0,1,,2.719999999999999,81-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.02.2019,50696,91.0,26.0,Electricity,Winter tires,1,1,0,Normal,22.71,0,1,,6.210000000000001,58-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.02.2019,50605,79.0,34.19,Electricity,Winter tires,1,1,0,Normal,22.71,0,1,,6.210000000000001,32-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.02.2019,50526,165.0,30.16,Electricity,Winter tires,1,1,0,Normal,22.71,0,1,,6.210000000000001,13-
+Opel,Ampera,2017,Ampera-e First Edition,150,06.02.2019,50361,180.0,31.37,Electricity,Winter tires,1,1,0,Normal,22.71,0,1,,6.210000000000001,27-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.02.2019,50181,113.0,32.2,Electricity,Winter tires,1,1,0,Normal,22.71,0,1,,6.210000000000001,43-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.02.2019,50068,55.0,11.99,Electricity,Winter tires,1,0,0,Normal,22.71,0,1,,6.210000000000001,70-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.02.2019,50013,63.0,17.7,Electricity,Winter tires,0,1,0,Normal,22.71,0,1,,6.210000000000001,65-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.02.2019,49950,168.0,34.31,Electricity,Winter tires,1,1,0,Normal,22.71,0,1,,6.210000000000001,29-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.01.2019,49782,169.0,28.0,Electricity,Winter tires,1,1,0,Normal,22.71,0,1,,6.210000000000001,40-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.01.2019,49613,91.0,23.3,Electricity,Winter tires,1,1,0,Normal,25.66,0,1,,9.16,66-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.01.2019,49522,9.0,9.82,Electricity,Winter tires,1,0,0,Normal,25.66,0,1,,9.16,84-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.01.2019,49513,71.0,13.69,Electricity,Winter tires,0,1,0,Normal,25.66,0,1,,9.16,67-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.01.2019,49442,96.0,32.3,Electricity,Winter tires,1,1,1,Normal,25.66,0,1,,9.16,37-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.01.2019,49346,70.0,17.77,Electricity,Winter tires,0,1,0,Normal,25.66,0,1,,9.16,41-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.01.2019,49276,158.0,30.14,Electricity,Winter tires,1,1,1,Normal,25.66,0,1,,9.16,20-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.01.2019,49118,19.0,37.82,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,"39-100%, EnBw"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.01.2019,49099,97.0,4.7,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,
+Opel,Ampera,2017,Ampera-e First Edition,150,18.01.2019,49002,180.0,30.0,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,29-77
+Opel,Ampera,2017,Ampera-e First Edition,150,17.01.2019,48822,95.0,26.0,Electricity,Winter tires,1,1,1,Normal,23.57,0,1,,7.07,53-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.01.2019,48727,70.0,15.3,Electricity,Winter tires,0,1,0,Normal,23.57,0,1,,7.07,61-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.01.2019,48657,98.0,29.1,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,38-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.01.2019,48559,74.0,30.34,Electricity,Winter tires,0,1,0,Normal,23.57,0,1,,7.07,22-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.01.2019,48485,72.0,22.35,Electricity,Winter tires,0,1,0,Normal,23.57,0,1,,7.07,14-52%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.01.2019,48413,115.0,8.51,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,"26-38%,  24min, 21kW Durchschnitt"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.01.2019,48298,85.0,33.85,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,14-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.01.2019,48213,119.0,6.0,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,31-41%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.01.2019,48094,75.0,27.06,Electricity,Winter tires,1,1,1,Normal,23.57,0,1,,7.07,40-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.01.2019,48019,110.0,24.0,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,27-65%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.01.2019,47909,70.0,22.29,Electricity,Winter tires,0,1,0,Normal,23.57,0,1,,7.07,35-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.01.2019,47839,84.0,28.56,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,16-64%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.01.2019,47755,99.0,15.0,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,19-43%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.01.2019,47656,181.0,25.6,Electricity,Winter tires,1,1,1,Normal,23.57,0,1,,7.07,14-57%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.01.2019,47475,97.0,32.12,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,37-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.01.2019,47378,71.0,17.0,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,44-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.01.2019,47307,173.0,33.51,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,16-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.01.2019,47134,74.0,39.0,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,27-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.01.2019,47060,177.0,27.09,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,13-56%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.01.2019,46883,161.0,30.83,Electricity,Winter tires,1,1,1,Normal,23.57,0,1,,7.07,37-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.01.2019,46722,147.0,33.37,Electricity,Winter tires,1,1,0,Normal,23.57,0,1,,7.07,45-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.12.2018,46575,64.0,16.4,Electricity,Winter tires,1,1,0,Normal,25.63,0,1,,9.129999999999999,"79-100%, EnBW"
+Opel,Ampera,2017,Ampera-e First Edition,150,28.12.2018,46511,82.0,38.89,Electricity,Winter tires,1,1,0,Normal,22.32,0,1,,5.82,43-100
+Opel,Ampera,2017,Ampera-e First Edition,150,27.12.2018,46429,8.0,39.58,Electricity,Winter tires,1,1,0,Normal,22.32,0,1,,5.82,7-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.12.2018,46421,203.0,4.0,Electricity,Winter tires,1,1,1,Normal,22.32,0,1,,5.82,2-8%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.12.2018,46218,68.0,24.0,Electricity,Winter tires,1,0,1,Normal,22.32,0,1,,5.82,42-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.12.2018,46150,110.0,16.0,Electricity,Winter tires,1,1,0,Normal,22.32,0,1,,5.82,45-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.12.2018,46040,66.0,30.68,Electricity,Winter tires,0,1,1,Normal,22.32,0,1,,5.82,28-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.12.2018,45974,97.0,2.73,Electricity,Winter tires,1,1,1,Normal,22.32,0,1,,5.82,51-55%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.12.2018,45877,85.0,34.17,Electricity,Winter tires,0,1,0,Normal,22.32,0,1,,5.82,25-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.12.2018,45792,162.0,20.8,Electricity,Winter tires,1,1,0,Normal,22.32,0,1,,5.82,23-57%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.12.2018,45630,176.0,25.07,Electricity,Winter tires,1,1,0,Normal,22.32,0,1,,5.82,40-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.12.2018,45454,103.0,23.23,Electricity,Winter tires,1,1,0,Normal,22.55,0,1,,6.050000000000001,67-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.12.2018,45351,70.0,15.43,Electricity,Winter tires,0,1,0,Normal,22.04,0,1,,5.539999999999999,76-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.12.2018,45281,89.0,21.28,Electricity,Winter tires,1,1,1,Normal,23.91,0,1,,7.41,60-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.12.2018,45192,93.0,32.89,Electricity,Winter tires,1,1,0,Fast,24.87,0,1,,8.370000000000001,"53-100%, SWA Ladekarte"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.12.2018,45099,96.0,25.32,Electricity,Winter tires,0,1,0,Fast,24.87,0,1,,8.370000000000001,"42-90%, Maingau 50min"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.12.2018,45003,15.0,5.93,Electricity,Winter tires,0,0,1,Fast,24.87,0,1,,8.370000000000001,77-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.12.2018,44988,17.0,4.0,Electricity,Winter tires,0,1,0,Fast,24.87,0,1,,8.370000000000001,74-
+Opel,Ampera,2017,Ampera-e First Edition,150,14.12.2018,44971,8.0,5.98,Electricity,Winter tires,0,1,0,Fast,24.87,0,1,,8.370000000000001,72-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.12.2018,44963,115.0,11.43,Electricity,Winter tires,1,1,1,Fast,24.87,0,1,,8.370000000000001,57-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.12.2018,44848,162.0,46.0,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,27-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.12.2018,44686,99.0,24.25,Electricity,Winter tires,1,1,0,Fast,21.91,0,1,,5.41,52-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.12.2018,44587,71.0,32.23,Electricity,Winter tires,0,1,0,Fast,21.91,0,1,,5.41,"28-83%, bei 2* Außentemperatur Akku von 13* auf 15* gestiegen nach 10min Vmax"
+Opel,Ampera,2017,Ampera-e First Edition,150,11.12.2018,44516,110.0,30.59,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,8-59%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.12.2018,44406,70.0,3.08,Electricity,Winter tires,0,1,0,Normal,21.91,0,1,,5.41,-46%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.12.2018,44336,115.0,26.01,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,33-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.12.2018,44221,31.0,4.14,Electricity,Winter tires,1,0,1,Normal,21.91,0,1,,5.41,"61-67%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.12.2018,44190,61.0,6.46,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,63-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.12.2018,44129,83.0,13.78,Electricity,Winter tires,0,1,0,Normal,21.91,0,1,,5.41,63-84%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.12.2018,44046,107.0,29.2,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,41-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.12.2018,43939,67.0,9.94,Electricity,Winter tires,0,1,0,Normal,21.91,0,1,,5.41,58-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.12.2018,43872,171.0,30.07,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,3280%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.12.2018,43701,159.0,31.72,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,40-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.12.2018,43542,99.0,32.7,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,40-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.12.2018,43443,71.0,17.67,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.12.2018,43372,213.0,31.53,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,15-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.12.2018,43159,136.0,33.49,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.11.2018,43023,121.0,30.95,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,41-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.11.2018,42902,79.0,10.48,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,69-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.11.2018,42823,93.0,31.41,Electricity,Winter tires,1,1,1,Normal,21.91,0,1,,5.41,44-95%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.11.2018,42730,80.0,16.32,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,52-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.11.2018,42650,92.0,28.01,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,35-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.11.2018,42558,81.0,7.63,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,58-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.11.2018,42477,169.0,28.8,Electricity,Winter tires,1,1,0,Normal,21.91,0,1,,5.41,42-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.11.2018,42308,122.0,29.31,Electricity,Winter tires,1,1,0,Normal,21.29,0,1,,4.789999999999999,57-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.11.2018,42186,101.0,18.16,Electricity,Winter tires,1,1,0,Normal,21.29,0,1,,4.789999999999999,-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.11.2018,42085,93.0,34.99,Electricity,Winter tires,1,1,0,Normal,24.0,0,1,,7.5,50-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.11.2018,41992,89.0,30.38,Electricity,Winter tires,1,1,0,Normal,24.0,0,1,,7.5,33-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.11.2018,41903,119.0,27.0,Electricity,Winter tires,1,1,0,Normal,24.0,0,1,,7.5,18-61%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.11.2018,41784,71.0,37.0,Electricity,Winter tires,0,1,0,Fast,24.0,0,1,,7.5,5-64%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.11.2018,41713,193.0,14.91,Electricity,Winter tires,1,1,0,Fast,24.0,0,1,,7.5,8-34%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.11.2018,41520,94.0,30.94,Electricity,Winter tires,1,1,0,Fast,24.0,0,1,,7.5,31-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.11.2018,41426,83.0,2.0,Electricity,Winter tires,1,1,0,Fast,24.0,0,1,,7.5,"67-68%, mehrmals NewMotion"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.11.2018,41343,121.0,29.92,Electricity,Winter tires,1,1,0,Fast,24.0,0,1,,7.5,56-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.11.2018,41222,73.0,43.28,Electricity,Winter tires,1,1,1,Fast,23.26,0,1,,6.760000000000002,"28-100%, SWA Ladekarte"
+Opel,Ampera,2017,Ampera-e First Edition,150,17.11.2018,41149,63.0,3.29,Electricity,Winter tires,1,0,0,Fast,23.26,0,1,,6.760000000000002,"58-63%, Elektronauten Prepaid, 3.7kWh, 10min"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.11.2018,41086,73.0,16.8,Electricity,Winter tires,0,1,0,Fast,23.26,0,1,,6.760000000000002,57-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.11.2018,41013,103.0,19.41,Electricity,Winter tires,1,1,0,Fast,23.26,0,1,,6.760000000000002,53-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.11.2018,40910,80.0,12.0,Electricity,Winter tires,0,1,0,Fast,23.26,0,1,,6.760000000000002,"73-91%, Ladeabbruch"
+Opel,Ampera,2017,Ampera-e First Edition,150,15.11.2018,40830,113.0,22.7,Electricity,Winter tires,1,1,0,Fast,23.26,0,1,,6.760000000000002,61-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.11.2018,40717,8.0,11.05,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,83-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.11.2018,40709,70.0,8.8,Electricity,Winter tires,0,1,0,Fast,20.73,0,1,,4.23,72-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.11.2018,40639,103.0,31.21,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,48-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.11.2018,40536,79.0,17.1,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,57-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.11.2018,40457,91.0,30.9,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,38-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.11.2018,40366,95.0,38.4,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,5-67%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.11.2018,40271,122.0,3.3,Electricity,Winter tires,1,0,1,Fast,20.73,0,1,,4.23,35-40%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.11.2018,40149,137.0,27.44,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,35-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.11.2018,40012,165.0,29.27,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,31-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.11.2018,39847,164.0,27.0,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,41-84%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.11.2018,39683,92.0,30.99,Electricity,Winter tires,1,1,1,Fast,20.73,0,1,,4.23,46-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.11.2018,39591,79.0,20.36,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,44-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.11.2018,39512,174.0,29.48,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,21-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.11.2018,39338,163.0,34.98,Electricity,Winter tires,0,1,1,Normal,20.73,0,1,,4.23,25-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.11.2018,39175,94.0,36.83,Electricity,Winter tires,0,0,1,Normal,20.73,0,1,,4.23,18-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.11.2018,39081,215.0,12.56,Electricity,Winter tires,1,0,1,Normal,20.73,0,1,,4.23,22-46%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.11.2018,38866,89.0,10.1,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,71-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.10.2018,38777,87.0,33.2,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,44-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.10.2018,38690,90.0,11.57,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,59-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.10.2018,38600,89.0,25.0,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,45-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.10.2018,38511,85.0,23.4,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,36-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.10.2018,38426,55.0,32.96,Electricity,Winter tires,1,1,1,Fast,20.73,0,1,,4.23,10-63%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.10.2018,38371,158.0,3.92,Electricity,Winter tires,1,1,1,Fast,20.73,0,1,,4.23,24-30%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.10.2018,38213,209.0,32.51,Electricity,Winter tires,1,1,0,Fast,20.73,0,1,,4.23,28-78%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.10.2018,38004,104.0,31.03,Electricity,Winter tires,1,1,0,Fast,21.7,0,1,,5.199999999999999,55-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.10.2018,37900,1.0,21.56,Electricity,Winter tires,1,0,0,Fast,21.7,0,1,,5.199999999999999,53-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.10.2018,37899,96.0,1.54,Electricity,Winter tires,1,1,0,Fast,21.7,0,1,,5.199999999999999,"52-55%, NewMotion 1,74kWh 4min"
+Opel,Ampera,2017,Ampera-e First Edition,150,22.10.2018,37803,225.0,38.31,Electricity,Summer tires,1,1,1,Fast,21.7,0,1,,5.199999999999999,25-84%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.10.2018,37578,162.0,30.94,Electricity,Summer tires,1,1,0,Fast,19.1,0,1,,2.6000000000000014,55-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.10.2018,37416,167.0,35.78,Electricity,Summer tires,1,1,0,Fast,18.25,0,1,,1.75,45-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.10.2018,37249,167.0,36.05,Electricity,Summer tires,1,1,0,Fast,18.25,0,1,,1.75,37-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.10.2018,37082,67.0,30.18,Electricity,Summer tires,1,1,0,Fast,18.25,0,0,,1.75,40-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.10.2018,37015,106.0,18.16,Electricity,Summer tires,1,1,0,Fast,18.25,0,1,,1.75,32-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.10.2018,36909,101.0,34.0,Electricity,Summer tires,1,1,0,Fast,18.25,0,0,,1.75,6-60%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.10.2018,36808,122.0,8.39,Electricity,Summer tires,0,1,0,Normal,18.25,0,0,,1.75,"24-39%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.10.2018,36686,200.0,34.17,Electricity,Summer tires,0,1,0,Normal,18.25,0,0,,1.75,"3-61%, Maingau 52min"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.10.2018,36486,106.0,27.12,Electricity,Summer tires,1,0,1,Normal,18.25,0,0,,1.75,"22-68%, Maingau 40min"
+Opel,Ampera,2017,Ampera-e First Edition,150,12.10.2018,36380,204.0,20.52,Electricity,Summer tires,0,1,0,Normal,18.25,0,0,,1.75,"12-45%, Maingau etwa 27min"
+Opel,Ampera,2017,Ampera-e First Edition,150,12.10.2018,36176,160.0,20.96,Electricity,Summer tires,0,1,0,Normal,18.25,0,0,,1.75,"39-72%, Maingau 37min"
+Opel,Ampera,2017,Ampera-e First Edition,150,12.10.2018,36016,71.0,11.17,Electricity,Summer tires,0,1,0,Fast,18.25,0,1,,1.75,65-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.10.2018,35945,180.0,22.43,Electricity,Summer tires,1,1,0,Fast,18.25,0,1,,1.75,49-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.10.2018,35765,146.0,29.0,Electricity,Summer tires,1,1,0,Fast,18.25,0,1,,1.75,52-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.10.2018,35619,132.0,24.17,Electricity,Summer tires,1,1,0,Fast,18.31,0,1,,1.8099999999999987,64-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.10.2018,35487,164.0,31.55,Electricity,Summer tires,1,1,0,Fast,19.24,0,1,,2.7399999999999984,54-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.10.2018,35323,89.0,38.0,Electricity,Summer tires,1,1,0,Fast,19.7,0,1,,3.1999999999999993,40-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.10.2018,35234,175.0,31.9,Electricity,Summer tires,1,1,0,Fast,19.7,0,0,,3.1999999999999993,17-68%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.10.2018,35059,278.0,34.54,Electricity,Summer tires,1,1,0,Fast,19.7,0,0,,3.1999999999999993,19-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.10.2018,34781,84.0,33.98,Electricity,Summer tires,1,1,0,Fast,19.7,0,0,,3.1999999999999993,33-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.09.2018,34697,287.0,41.63,Electricity,Summer tires,0,1,1,Fast,19.7,0,0,,3.1999999999999993,"18-84%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.09.2018,34410,20.0,15.82,Electricity,Summer tires,1,0,0,Fast,19.7,0,0,,3.1999999999999993,69-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.09.2018,34390,12.0,19.03,Electricity,Summer tires,1,0,0,Fast,19.7,0,0,,3.1999999999999993,49-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.09.2018,34378,78.0,15.0,Electricity,Summer tires,0,1,0,Fast,19.7,0,0,,3.1999999999999993,"25-50%, Redbull Ring"
+Opel,Ampera,2017,Ampera-e First Edition,150,29.09.2018,34300,194.0,19.67,Electricity,Summer tires,0,1,0,Fast,19.7,0,0,,3.1999999999999993,"15-48%, Maingau 29min"
+Opel,Ampera,2017,Ampera-e First Edition,150,29.09.2018,34106,215.0,32.54,Electricity,Summer tires,1,1,0,Fast,19.7,0,0,,3.1999999999999993,"25-82%, Maingau 56min"
+Opel,Ampera,2017,Ampera-e First Edition,150,28.09.2018,33891,96.0,17.0,Electricity,Summer tires,1,1,0,Fast,18.45,0,0,,1.9499999999999993,72-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.09.2018,33795,102.0,35.22,Electricity,Summer tires,1,1,0,Fast,18.45,0,0,,1.9499999999999993,43-95%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.09.2018,33693,77.0,11.2,Electricity,Summer tires,1,1,0,Fast,18.45,0,0,,1.9499999999999993,57-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.09.2018,33616,173.0,36.14,Electricity,Summer tires,1,1,1,Fast,18.45,0,0,,1.9499999999999993,23-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.09.2018,33443,186.0,33.58,Electricity,Summer tires,1,1,1,Fast,18.45,0,0,,1.9499999999999993,22-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.09.2018,33257,183.0,34.46,Electricity,Summer tires,1,1,0,Fast,18.45,0,0,,1.9499999999999993,28-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.09.2018,33074,183.0,30.09,Electricity,Summer tires,1,1,0,Fast,18.45,0,0,,1.9499999999999993,43-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.09.2018,32891,175.0,28.02,Electricity,Summer tires,1,1,0,Fast,18.45,0,0,,1.9499999999999993,48-95%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.09.2018,32716,191.0,26.34,Electricity,Summer tires,1,1,0,Fast,18.45,0,0,,1.9499999999999993,53-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.09.2018,32525,171.0,32.65,Electricity,Summer tires,1,1,0,Fast,17.17,0,0,,0.6700000000000017,52-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.09.2018,32354,150.0,36.17,Electricity,Summer tires,1,1,0,Fast,17.17,0,0,,0.6700000000000017,45-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.09.2018,32204,26.0,19.6,Electricity,Summer tires,1,0,0,Fast,17.17,0,0,,0.6700000000000017,"47-82%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,15.09.2018,32177,113.0,1.0,Electricity,Summer tires,1,1,0,Fast,17.17,0,0,,0.6700000000000017,57-58%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.09.2018,32064,110.0,25.8,Electricity,Summer tires,1,1,0,Fast,17.17,0,0,,0.6700000000000017,37-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.09.2018,31955,65.0,10.61,Electricity,Summer tires,1,1,0,Fast,17.17,0,0,,0.6700000000000017,45-62%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.09.2018,31890,162.0,27.0,Electricity,Summer tires,1,1,0,Fast,17.17,0,0,,0.6700000000000017,16-61%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.09.2018,31728,181.0,30.84,Electricity,Summer tires,1,1,0,Fast,17.17,0,0,,0.6700000000000017,8-57%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.09.2018,31547,188.0,25.36,Electricity,Summer tires,1,1,1,Fast,17.17,0,0,,0.6700000000000017,18-
+Opel,Ampera,2017,Ampera-e First Edition,150,10.09.2018,31359,243.0,36.94,Electricity,Summer tires,1,1,0,Fast,17.17,0,0,,0.6700000000000017,11-
+Opel,Ampera,2017,Ampera-e First Edition,150,09.09.2018,31116,95.0,47.77,Electricity,Summer tires,0,1,0,Fast,17.17,0,0,,0.6700000000000017,8-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.09.2018,31021,192.0,9.9,Electricity,Summer tires,0,1,0,Fast,17.17,0,0,,0.6700000000000017,"23-40%, Maingau 15min"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.09.2018,30829,200.0,32.88,Electricity,Summer tires,0,1,0,Fast,17.17,0,0,,0.6700000000000017,"25-79%, Maingau, 51min"
+Opel,Ampera,2017,Ampera-e First Edition,150,08.09.2018,30629,143.0,13.54,Electricity,Summer tires,1,1,0,Fast,17.17,0,0,,0.6700000000000017,"55-80%, Maingau 28min"
+Opel,Ampera,2017,Ampera-e First Edition,150,07.09.2018,30486,95.0,13.91,Electricity,Summer tires,1,1,0,Fast,14.64,0,0,,-1.8599999999999994,80-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.09.2018,30391,195.0,32.4,Electricity,Summer tires,1,1,0,Fast,16.62,0,0,,0.120000000000001,54-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.09.2018,30196,176.0,31.12,Electricity,Summer tires,1,1,0,Fast,18.81,0,0,,2.3099999999999987,59-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.09.2018,30020,165.0,39.58,Electricity,Summer tires,1,1,0,Fast,18.81,0,0,,2.3099999999999987,38-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.09.2018,29855,108.0,39.25,Electricity,Summer tires,1,1,0,Fast,18.81,0,0,,2.3099999999999987,23-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.09.2018,29747,70.0,4.56,Electricity,Summer tires,0,1,0,Fast,18.81,0,0,,2.3099999999999987,47-56%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.09.2018,29677,204.0,34.01,Electricity,Summer tires,1,1,0,Fast,18.81,0,0,,2.3099999999999987,14-68%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.09.2018,29473,208.0,26.64,Electricity,Summer tires,1,1,0,Fast,18.81,0,0,,2.3099999999999987,32-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.09.2018,29265,13.0,22.09,Electricity,Summer tires,1,1,0,Fast,18.77,0,0,,2.2699999999999996,68-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.09.2018,29252,117.0,30.28,Electricity,Summer tires,0,1,0,Fast,18.77,0,0,,2.2699999999999996,21-70%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.09.2018,29135,90.0,14.89,Electricity,Summer tires,0,1,0,Fast,18.77,0,0,,2.2699999999999996,36-58%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.09.2018,29045,149.0,27.94,Electricity,Summer tires,1,1,1,Fast,18.77,0,0,,2.2699999999999996,"17-63%, Maingau 41min"
+Opel,Ampera,2017,Ampera-e First Edition,150,01.09.2018,28896,197.0,11.06,Electricity,Summer tires,1,1,0,Fast,18.77,1,0,,2.2699999999999996,"40-58%, Maingau 16min"
+Opel,Ampera,2017,Ampera-e First Edition,150,31.08.2018,28699,176.0,32.75,Electricity,Summer tires,1,1,0,Fast,18.61,1,0,,2.1099999999999994,53-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.08.2018,28523,177.0,36.13,Electricity,Summer tires,1,1,0,Fast,17.62,1,0,,1.120000000000001,47-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.08.2018,28346,144.0,38.3,Electricity,Summer tires,1,1,0,Fast,17.62,1,0,,1.120000000000001,33-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.08.2018,28202,121.0,6.91,Electricity,Summer tires,1,1,0,Fast,17.62,1,0,,1.120000000000001,"68-78%, Maingau, 15min"
+Opel,Ampera,2017,Ampera-e First Edition,150,28.08.2018,28081,175.0,33.99,Electricity,Summer tires,1,1,0,Fast,17.62,1,0,,1.120000000000001,48-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.08.2018,27906,239.0,38.7,Electricity,Summer tires,1,1,1,Fast,17.62,1,0,,1.120000000000001,32-91%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.08.2018,27667,195.0,31.13,Electricity,Summer tires,1,1,0,Fast,17.62,1,0,,1.120000000000001,48-93%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.08.2018,27472,166.0,28.02,Electricity,Summer tires,1,1,0,Fast,16.88,1,0,,0.379999999999999,60-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.08.2018,27306,189.0,31.1,Electricity,Summer tires,1,1,0,Fast,16.46,1,0,,-0.03999999999999915,60-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.08.2018,27117,104.0,27.97,Electricity,Summer tires,1,1,0,Fast,17.81,1,0,,1.3099999999999987,61-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.08.2018,27013,124.0,19.42,Electricity,Summer tires,1,1,1,Fast,17.81,1,0,,1.3099999999999987,55-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.08.2018,26889,120.0,25.62,Electricity,Summer tires,1,1,0,Fast,17.81,1,0,,1.3099999999999987,48-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.08.2018,26769,70.0,11.48,Electricity,Summer tires,1,1,0,Fast,17.81,1,0,,1.3099999999999987,-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.08.2018,26699,170.0,37.42,Electricity,Summer tires,1,1,0,Fast,17.81,1,0,,1.3099999999999987,19-77%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.08.2018,26529,337.0,43.44,Electricity,Summer tires,1,1,0,Fast,17.81,1,0,,1.3099999999999987,"3-72%, Maingau 58min"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.08.2018,26192,205.0,35.88,Electricity,Summer tires,1,1,0,Fast,17.81,1,0,,1.3099999999999987,46-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.08.2018,25987,216.0,35.69,Electricity,Summer tires,1,1,0,Fast,16.52,1,0,,0.019999999999999574,48-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.08.2018,25771,202.0,35.25,Electricity,Summer tires,1,1,0,Fast,16.16,1,0,,-0.33999999999999986,49-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.08.2018,25569,185.0,30.0,Electricity,Summer tires,1,1,0,Fast,16.16,1,0,,-0.33999999999999986,50-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.08.2018,25384,180.0,33.53,Electricity,Summer tires,1,1,0,Fast,16.16,1,0,,-0.33999999999999986,48-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.08.2018,25204,268.0,36.14,Electricity,Summer tires,1,1,1,Fast,16.16,1,0,,-0.33999999999999986,35-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.08.2018,24936,194.0,32.68,Electricity,Summer tires,1,1,1,Fast,16.85,1,0,,0.3500000000000014,54-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.08.2018,24742,115.0,34.93,Electricity,Summer tires,1,1,0,Fast,16.71,1,0,,0.21000000000000085,49-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.08.2018,24627,73.0,3.21,Electricity,Summer tires,1,1,0,Fast,16.71,1,0,,0.21000000000000085,"73-77%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,01.08.2018,24554,186.0,36.0,Electricity,Summer tires,1,1,0,Fast,16.71,1,0,,0.21000000000000085,36-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.07.2018,24368,188.0,19.78,Electricity,Summer tires,1,1,1,Fast,16.71,0,0,,0.21000000000000085,54-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.07.2018,24180,205.0,31.52,Electricity,Summer tires,1,1,1,Fast,14.66,1,0,,-1.8399999999999999,50-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.07.2018,23975,162.0,22.27,Electricity,Summer tires,1,1,1,Fast,14.66,1,0,,-1.8399999999999999,63-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.07.2018,23813,163.0,30.93,Electricity,Summer tires,1,1,1,Fast,18.4,1,0,,1.8999999999999986,56-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.07.2018,23650,170.0,35.09,Electricity,Summer tires,1,1,1,Fast,18.4,1,0,,1.8999999999999986,45-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.07.2018,23480,181.0,39.08,Electricity,Summer tires,1,1,1,Fast,18.4,0,0,,1.8999999999999986,25-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.07.2018,23299,79.0,36.51,Electricity,Summer tires,1,1,1,Fast,18.4,0,0,,1.8999999999999986,22-76%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.07.2018,23220,185.0,12.0,Electricity,Summer tires,1,1,0,Fast,18.4,0,0,,1.8999999999999986,14-34%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.07.2018,23035,96.0,35.48,Electricity,Summer tires,0,1,0,Fast,18.4,0,0,,1.8999999999999986,"21-78%, Flughafen"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.07.2018,22939,213.0,10.91,Electricity,Summer tires,0,1,0,Fast,18.4,0,0,,1.8999999999999986,"30-48%, Kandel"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.07.2018,22726,42.0,38.97,Electricity,Summer tires,0,1,0,Fast,18.34,0,0,,1.8399999999999999,"44-100%, kostenlos, Koblenz"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.07.2018,22684,108.0,18.79,Electricity,Summer tires,0,1,0,Fast,18.34,0,0,,1.8399999999999999,"20-52%, Ionity, Ladeleistungsreduktion"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.07.2018,22576,147.0,20.36,Electricity,Summer tires,0,1,0,Fast,18.34,0,0,,1.8399999999999999,"18-51%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.07.2018,22429,228.0,33.3,Electricity,Summer tires,1,1,1,Normal,18.34,0,0,,1.8399999999999999,"10-63%, Lidl"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.07.2018,22201,129.0,8.52,Electricity,Summer tires,1,0,1,Normal,18.34,0,0,,1.8399999999999999,"72-82%, ChargeYourCar, Dover"
+Opel,Ampera,2017,Ampera-e First Edition,150,18.07.2018,22072,156.0,33.6,Electricity,Summer tires,1,0,1,Normal,15.09,0,0,,-1.4100000000000001,"44-100%, ChargeYourCar"
+Opel,Ampera,2017,Ampera-e First Edition,150,18.07.2018,21916,191.0,30.05,Electricity,Summer tires,0,0,1,Normal,15.09,0,0,,-1.4100000000000001,"37-85%, Polar,  54 min"
+Opel,Ampera,2017,Ampera-e First Edition,150,18.07.2018,21725,55.0,19.28,Electricity,Summer tires,1,0,1,Normal,15.09,0,0,,-1.4100000000000001,"57-86%, POD, 42 min"
+Opel,Ampera,2017,Ampera-e First Edition,150,17.07.2018,21670,159.0,17.91,Electricity,Summer tires,1,0,1,Normal,15.09,0,0,,-1.4100000000000001,"39-69%, GeniePoint, 29 min, 18,69kWh abgerechnet"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.07.2018,21511,18.0,38.08,Electricity,Summer tires,0,0,1,Normal,15.09,0,0,,-1.4100000000000001,"12-73%, GeniePoint, 1h 4min, 40.03 kWh berechnet"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.07.2018,21493,65.0,6.0,Electricity,Summer tires,0,0,1,Normal,15.09,0,0,,-1.4100000000000001,"5-15%, ecotricity, 48 min"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.07.2018,21428,243.0,5.05,Electricity,Summer tires,1,0,1,Normal,15.09,0,0,,-1.4100000000000001,"14-22%, POD, 48 min"
+Opel,Ampera,2017,Ampera-e First Edition,150,15.07.2018,21185,262.0,25.86,Electricity,Summer tires,1,0,1,Normal,15.09,0,0,,-1.4100000000000001,"36-74%, POD"
+Opel,Ampera,2017,Ampera-e First Edition,150,12.07.2018,20923,366.0,52.74,Electricity,Summer tires,1,0,1,Normal,15.09,0,0,,-1.4100000000000001,"13-91%, Polar, keine Aktivierungsgebühr"
+Opel,Ampera,2017,Ampera-e First Edition,150,04.07.2018,20557,7.0,20.99,Electricity,Summer tires,1,0,0,Normal,18.23,0,0,,1.7300000000000004,"70-100%, Polar, nur Aktivierungsgebühr"
+Opel,Ampera,2017,Ampera-e First Edition,150,03.07.2018,20550,161.0,18.56,Electricity,Summer tires,1,1,1,Normal,18.23,0,0,,1.7300000000000004,"42-71%, Polar 27min, ohne Berechnung"
+Opel,Ampera,2017,Ampera-e First Edition,150,02.07.2018,20389,121.0,27.22,Electricity,Summer tires,1,0,1,Normal,18.23,0,0,,1.7300000000000004,"41-83%, Lidl mit POD"
+Opel,Ampera,2017,Ampera-e First Edition,150,01.07.2018,20268,104.0,27.47,Electricity,Summer tires,0,1,0,Normal,18.23,0,0,,1.7300000000000004,"28-72%, Maingau, 41min"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.06.2018,20164,257.0,27.32,Electricity,Summer tires,0,1,0,Fast,18.23,0,0,,1.7300000000000004,"10-56%, Maingau, 39min"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.06.2018,19907,190.0,45.3,Electricity,Summer tires,0,1,0,Fast,18.23,0,0,,1.7300000000000004,"14-87%, Ionity"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.06.2018,19717,286.0,38.38,Electricity,Summer tires,0,1,0,Fast,18.23,0,0,,1.7300000000000004,"18-81%, EnBW, Anhängersymbol bedeutet mit Fahrradheckträger"
+Opel,Ampera,2017,Ampera-e First Edition,150,30.06.2018,19431,81.0,12.35,Electricity,Summer tires,1,1,1,Fast,15.25,0,0,,-1.25,-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.06.2018,19350,163.0,31.45,Electricity,Summer tires,1,1,1,Fast,19.29,0,0,,2.789999999999999,54-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.06.2018,19187,163.0,26.08,Electricity,Summer tires,1,1,1,Fast,16.0,0,0,,-0.5,62-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.06.2018,19024,84.0,25.14,Electricity,Summer tires,1,1,1,Fast,16.81,0,0,,0.3099999999999987,65-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.06.2018,18940,79.0,10.41,Electricity,Summer tires,1,1,1,Fast,16.81,0,0,,0.3099999999999987,67-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.06.2018,18861,151.0,33.99,Electricity,Summer tires,1,1,1,Fast,16.81,0,0,,0.3099999999999987,34-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.06.2018,18710,283.0,37.21,Electricity,Summer tires,1,1,1,Fast,16.81,0,0,,0.3099999999999987,13-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.06.2018,18427,173.0,24.16,Electricity,Summer tires,1,1,1,Fast,16.81,0,0,,0.3099999999999987,51-87%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.06.2018,18254,158.0,31.01,Electricity,Summer tires,1,1,1,Fast,16.81,0,0,,0.3099999999999987,49-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.06.2018,18096,168.0,31.83,Electricity,Summer tires,1,1,1,Fast,16.81,0,0,,0.3099999999999987,35-84%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.06.2018,17928,161.0,33.5,Electricity,Summer tires,1,1,1,Fast,16.81,0,0,,0.3099999999999987,28-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.06.2018,17767,96.0,35.86,Electricity,Summer tires,1,1,1,Fast,16.81,0,0,,0.3099999999999987,17-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.06.2018,17671,181.0,17.94,Electricity,Summer tires,0,1,0,Fast,16.81,0,0,,0.3099999999999987,10-40%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.06.2018,17490,237.0,16.57,Electricity,Summer tires,1,1,1,Fast,16.81,0,0,,0.3099999999999987,40-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.06.2018,17253,156.0,22.6,Electricity,Summer tires,1,1,1,Fast,14.49,0,0,,-2.01,65-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.06.2018,17097,161.0,33.0,Electricity,Summer tires,1,1,1,Fast,16.69,0,0,,0.19000000000000128,49-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.06.2018,16936,163.0,38.12,Electricity,Summer tires,1,1,1,Fast,16.69,0,0,,0.19000000000000128,33-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.06.2018,16773,166.0,37.19,Electricity,Summer tires,1,1,1,Fast,16.69,0,0,,0.19000000000000128,20-79%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.06.2018,16607,229.0,34.5,Electricity,Summer tires,1,1,1,Normal,16.69,0,0,,0.19000000000000128,6-62%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.06.2018,16378,167.0,5.09,Electricity,Summer tires,1,1,1,Fast,16.69,0,0,,0.19000000000000128,57-64%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.06.2018,16210,175.0,31.44,Electricity,Summer tires,1,1,1,Fast,17.02,0,0,,0.5199999999999996,51-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.06.2018,16036,201.0,40.6,Electricity,Summer tires,1,1,0,Fast,17.02,0,0,,0.5199999999999996,32-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.06.2018,15835,164.0,33.74,Electricity,Summer tires,1,1,1,Fast,17.02,0,0,,0.5199999999999996,31-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.06.2018,15671,99.0,36.36,Electricity,Summer tires,1,1,1,Fast,17.02,0,0,,0.5199999999999996,14-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.06.2018,15572,140.0,5.69,Electricity,Summer tires,0,1,0,Fast,17.02,0,0,,0.5199999999999996,"30-39%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,03.06.2018,15432,14.0,20.26,Electricity,Summer tires,0,1,0,Fast,17.02,0,0,,0.5199999999999996,42-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.06.2018,15418,251.0,20.8,Electricity,Summer tires,1,1,1,Fast,17.02,0,0,,0.5199999999999996,"8-44%, Maingau 30min"
+Opel,Ampera,2017,Ampera-e First Edition,150,02.06.2018,15167,111.0,12.74,Electricity,Summer tires,1,0,1,Normal,17.02,0,0,,0.5199999999999996,"58-79%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,02.06.2018,15056,60.0,18.28,Electricity,Summer tires,0,1,0,Fast,17.02,0,0,,0.5199999999999996,"65-92%, Maingau 46min"
+Opel,Ampera,2017,Ampera-e First Edition,150,02.06.2018,14996,150.0,31.55,Electricity,Summer tires,1,1,1,Fast,17.02,0,0,,0.5199999999999996,31-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.06.2018,14846,247.0,22.84,Electricity,Summer tires,1,1,0,Fast,17.02,0,0,,0.5199999999999996,35-73%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.06.2018,14599,175.0,28.38,Electricity,Summer tires,1,1,0,Fast,16.22,0,0,,-0.28000000000000114,60-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.05.2018,14424,91.0,27.6,Electricity,Summer tires,1,1,0,Fast,16.24,0,0,,-0.26000000000000156,61-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.05.2018,14333,101.0,9.91,Electricity,Summer tires,1,1,0,Fast,16.24,0,0,,-0.26000000000000156,68-81%
+Opel,Ampera,2017,Ampera-e First Edition,150,29.05.2018,14232,158.0,33.89,Electricity,Summer tires,1,1,1,Fast,16.24,0,0,,-0.26000000000000156,42-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.05.2018,14074,330.0,39.0,Electricity,Summer tires,1,1,1,Fast,16.24,0,0,,-0.26000000000000156,20-
+Opel,Ampera,2017,Ampera-e First Edition,150,25.05.2018,13744,172.0,30.19,Electricity,Summer tires,1,1,0,Fast,17.55,0,0,,1.0500000000000007,57-
+Opel,Ampera,2017,Ampera-e First Edition,150,24.05.2018,13572,167.0,31.25,Electricity,Summer tires,1,1,0,Fast,17.2,0,0,,0.6999999999999993,"55-100%, Autobahn 130km/h"
+Opel,Ampera,2017,Ampera-e First Edition,150,23.05.2018,13405,123.0,40.99,Electricity,Summer tires,1,1,0,Fast,17.2,0,0,,0.6999999999999993,"31-95%, Autobahn 130km/h"
+Opel,Ampera,2017,Ampera-e First Edition,150,22.05.2018,13282,83.0,12.03,Electricity,Summer tires,1,1,0,Fast,17.2,0,0,,0.6999999999999993,44-64%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.05.2018,13199,151.0,35.98,Electricity,Summer tires,1,1,0,Fast,17.2,0,0,,0.6999999999999993,6-64%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.05.2018,13048,195.0,15.86,Electricity,Summer tires,0,1,0,Fast,17.2,0,0,,0.6999999999999993,"21-49%, BEW"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.05.2018,12853,60.0,39.85,Electricity,Summer tires,0,1,1,Fast,17.2,0,0,,0.6999999999999993,"23-86%, Autobahn 130km/h"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.05.2018,12793,110.0,11.0,Electricity,Summer tires,0,1,1,Fast,17.2,0,0,,0.6999999999999993,Autobahn 130km/h
+Opel,Ampera,2017,Ampera-e First Edition,150,21.05.2018,12683,259.0,10.47,Electricity,Summer tires,1,1,1,Normal,17.2,0,0,,0.6999999999999993,"27-48%, EnBW mit Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,19.05.2018,12424,129.0,15.27,Electricity,Summer tires,1,1,1,Normal,11.84,0,0,,-4.66,76-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.05.2018,12295,99.0,27.0,Electricity,Summer tires,1,1,1,Normal,19.21,0,0,,2.710000000000001,58-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.05.2018,12196,78.0,7.0,Electricity,Summer tires,0,1,0,Normal,19.21,0,0,,2.710000000000001,79-
+Opel,Ampera,2017,Ampera-e First Edition,150,17.05.2018,12118,156.0,28.69,Electricity,Summer tires,1,1,1,Normal,18.39,0,0,,1.8900000000000006,62-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.05.2018,11962,162.0,27.34,Electricity,Summer tires,1,1,1,Normal,16.88,0,0,,0.379999999999999,60-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.05.2018,11800,101.0,23.52,Electricity,Summer tires,1,1,0,Normal,14.07,0,0,,-2.4299999999999997,67-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.05.2018,11699,420.0,49.77,Electricity,Summer tires,1,1,1,Normal,14.07,0,0,,-2.4299999999999997,9-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.04.2018,11279,176.0,33.2,Electricity,Summer tires,1,1,1,Normal,18.86,0,0,,2.3599999999999994,58-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.04.2018,11103,147.0,26.23,Electricity,Summer tires,1,1,1,Normal,16.25,0,1,,-0.25,63-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.04.2018,10956,86.0,11.63,Electricity,Summer tires,1,1,1,Normal,16.25,0,1,,-0.25,82-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.04.2018,10870,11.0,9.76,Electricity,Summer tires,1,0,0,Normal,16.19,0,0,,-0.3099999999999987,86-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.04.2018,10859,70.0,3.35,Electricity,Summer tires,1,1,1,Normal,16.19,0,0,,-0.3099999999999987,84-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.04.2018,10789,158.0,23.66,Electricity,Summer tires,1,1,1,Normal,14.97,0,0,,-1.5299999999999994,66-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,23.04.2018,10631,96.0,33.19,Electricity,Summer tires,1,1,1,Normal,16.02,0,0,,-0.4800000000000004,51-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.04.2018,10535,111.0,17.18,Electricity,Summer tires,0,1,1,Normal,16.02,1,0,,-0.4800000000000004,"45-72%, mit Radträger"
+Opel,Ampera,2017,Ampera-e First Edition,150,22.04.2018,10424,178.0,20.1,Electricity,Summer tires,1,1,1,Normal,16.02,0,0,,-0.4800000000000004,"46-76%, mit Radträger"
+Opel,Ampera,2017,Ampera-e First Edition,150,20.04.2018,10246,78.0,3.7,Electricity,Summer tires,1,1,1,Normal,16.02,0,1,,-0.4800000000000004,
+Opel,Ampera,2017,Ampera-e First Edition,150,20.04.2018,10168,159.0,23.7,Electricity,Summer tires,1,1,1,Normal,14.91,0,1,,-1.5899999999999999,67-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.04.2018,10009,154.0,23.0,Electricity,Summer tires,1,1,1,Normal,14.94,0,1,,-1.5600000000000005,68-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.04.2018,9855,161.0,30.84,Electricity,Summer tires,1,1,1,Normal,16.79,0,1,,0.28999999999999915,55-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.04.2018,9694,166.0,30.8,Electricity,Summer tires,1,1,1,Normal,16.79,0,1,,0.28999999999999915,49-95%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.04.2018,9528,261.0,37.08,Electricity,Summer tires,1,1,1,Normal,16.79,0,1,,0.28999999999999915,34-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.04.2018,9267,160.0,30.38,Electricity,Summer tires,1,1,1,Normal,18.33,0,1,,1.8299999999999983,55-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.04.2018,9107,181.0,32.02,Electricity,Summer tires,1,1,1,Normal,18.33,0,1,,1.8299999999999983,46-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.04.2018,8926,170.0,26.43,Electricity,Summer tires,1,1,1,Normal,18.33,0,1,,1.8299999999999983,55-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.04.2018,8756,162.0,35.17,Electricity,Summer tires,1,1,1,Normal,18.33,0,1,,1.8299999999999983,44-95%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.04.2018,8594,151.0,41.51,Electricity,Summer tires,0,1,0,Normal,18.33,0,0,,1.8299999999999983,21-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.04.2018,8443,5.0,9.95,Electricity,Summer tires,1,0,0,Normal,18.33,0,0,,1.8299999999999983,51-66%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.04.2018,8438,246.0,16.86,Electricity,Summer tires,1,1,1,Normal,18.33,0,1,,1.8299999999999983,25-54%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.04.2018,8192,162.0,34.37,Electricity,Summer tires,1,1,1,Normal,18.33,0,1,,1.8299999999999983,46-95%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.04.2018,8029,175.0,29.94,Electricity,Summer tires,1,1,1,Normal,17.11,0,1,,0.6099999999999994,54-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,04.04.2018,7855,86.0,24.38,Electricity,Summer tires,1,1,1,Normal,21.08,0,1,,4.579999999999998,65-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.04.2018,7769,138.0,22.84,Electricity,Summer tires,1,1,0,Normal,21.08,0,0,,4.579999999999998,55-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,31.03.2018,7631,7.0,3.64,Electricity,Summer tires,1,0,0,Normal,20.6,0,0,,4.100000000000001," 96-100%, AC Ladung hat Batterie auf 16 Grad geheizt"
+Opel,Ampera,2017,Ampera-e First Edition,150,31.03.2018,7624,34.0,18.4,Electricity,Winter tires,1,0,0,Normal,20.6,0,0,,4.100000000000001,69-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.03.2018,7590,22.0,46.55,Electricity,Winter tires,1,0,0,Normal,20.6,0,0,,4.100000000000001,5-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,30.03.2018,7568,159.0,5.04,Electricity,Winter tires,1,1,0,Normal,20.6,0,0,,4.100000000000001,-12%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.03.2018,7409,127.0,23.14,Electricity,Winter tires,0,1,0,Normal,20.6,0,1,,4.100000000000001,"19-57%, Maingau"
+Opel,Ampera,2017,Ampera-e First Edition,150,25.03.2018,7282,78.0,26.73,Electricity,Winter tires,0,1,0,Normal,20.6,0,1,,4.100000000000001,"12-59%, BEW, zzgl. 4,50€ für 15kWh Quartalspauschale"
+Opel,Ampera,2017,Ampera-e First Edition,150,25.03.2018,7204,152.0,8.97,Electricity,Winter tires,0,1,0,Normal,20.6,0,1,,4.100000000000001,"19-37%, Allego, Maingau, 36min, Ladeabbruch"
+Opel,Ampera,2017,Ampera-e First Edition,150,25.03.2018,7052,112.0,13.55,Electricity,Winter tires,0,1,0,Normal,20.6,0,1,,4.100000000000001,48-69%
+Opel,Ampera,2017,Ampera-e First Edition,150,25.03.2018,6940,178.0,33.0,Electricity,Winter tires,1,1,0,Normal,20.6,0,1,,4.100000000000001,35-83%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.03.2018,6762,78.0,38.41,Electricity,Winter tires,1,1,0,Normal,21.35,0,1,,4.850000000000001,39-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.03.2018,6684,217.0,36.12,Electricity,Winter tires,0,1,0,Normal,21.35,0,1,,4.850000000000001,"12-73% , EnBW Pauschale"
+Opel,Ampera,2017,Ampera-e First Edition,150,22.03.2018,6467,151.0,36.45,Electricity,Winter tires,0,1,0,Normal,21.35,0,1,,4.850000000000001,"23-85%, kostenlos"
+Opel,Ampera,2017,Ampera-e First Edition,150,22.03.2018,6316,139.0,37.04,Electricity,Winter tires,0,1,0,Normal,21.35,0,1,,4.850000000000001,"14-75%, EinfachStromLaden"
+Opel,Ampera,2017,Ampera-e First Edition,150,22.03.2018,6177,68.0,0.7,Electricity,Winter tires,0,1,0,Normal,21.35,0,1,,4.850000000000001,63-64%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.03.2018,6109,142.0,20.98,Electricity,Winter tires,0,1,1,Normal,21.35,0,1,,4.850000000000001,"51-83%, EinfachStromLaden"
+Opel,Ampera,2017,Ampera-e First Edition,150,21.03.2018,5967,18.0,12.16,Electricity,Winter tires,1,0,1,Normal,22.71,0,1,,6.210000000000001,-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.03.2018,5949,80.0,28.11,Electricity,Winter tires,1,1,1,Normal,22.71,0,1,,6.210000000000001,46-90%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.03.2018,5869,173.0,37.14,Electricity,Winter tires,1,1,1,Normal,22.71,0,1,,6.210000000000001,13-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.03.2018,5696,155.0,36.58,Electricity,Winter tires,1,1,1,Normal,22.71,0,1,,6.210000000000001,17-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.03.2018,5541,131.0,37.6,Electricity,Winter tires,1,1,1,Normal,22.71,0,1,,6.210000000000001,16-74%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.03.2018,5410,65.0,15.6,Electricity,Winter tires,1,1,0,Normal,22.71,0,1,,6.210000000000001,49-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,17.03.2018,5345,3.0,3.23,Electricity,Winter tires,0,1,0,Normal,22.71,0,1,,6.210000000000001,"68-72%, EinfachStromLaden (3.30kWh abgerechnet)"
+Opel,Ampera,2017,Ampera-e First Edition,150,17.03.2018,5342,96.0,9.08,Electricity,Winter tires,1,1,1,Normal,22.71,0,1,,6.210000000000001,"52-69%, EinfachStromLaden"
+Opel,Ampera,2017,Ampera-e First Edition,150,16.03.2018,5246,120.0,27.84,Electricity,Winter tires,1,1,1,Normal,22.71,0,1,,6.210000000000001,51-91%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.03.2018,5126,171.0,29.61,Electricity,Winter tires,1,1,1,Normal,22.71,0,1,,6.210000000000001,45-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.03.2018,4955,9.0,28.7,Electricity,Winter tires,1,1,0,Normal,22.71,0,1,,6.210000000000001,51-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.03.2018,4946,72.0,0.8,Electricity,Winter tires,1,1,1,Normal,22.71,0,1,,6.210000000000001,"54-54%, EinfachStromLaden (0,77kWh abgerechnet)"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.03.2018,4874,82.0,0.43,Electricity,Winter tires,1,0,0,Normal,22.71,0,1,,6.210000000000001,"77-77%, AC, EinfachStromLaden (0,24kWh abgerechnet)"
+Opel,Ampera,2017,Ampera-e First Edition,150,14.03.2018,4792,168.0,40.38,Electricity,Winter tires,1,1,1,Normal,19.93,0,1,,3.4299999999999997,39-97%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.03.2018,4624,159.0,36.5,Electricity,Winter tires,1,1,1,Normal,19.93,0,1,,3.4299999999999997,39-94%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.03.2018,4465,78.0,31.87,Electricity,Winter tires,1,1,1,Normal,19.93,0,1,,3.4299999999999997,40-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.03.2018,4387,223.0,30.66,Electricity,Winter tires,1,1,1,Normal,19.93,0,0,,3.4299999999999997,17-
+Opel,Ampera,2017,Ampera-e First Edition,150,11.03.2018,4164,82.0,20.25,Electricity,Winter tires,1,1,1,Normal,19.93,0,0,,3.4299999999999997,52-82%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.03.2018,4082,143.0,36.81,Electricity,Winter tires,0,1,0,Normal,19.93,0,0,,3.4299999999999997,14-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,11.03.2018,3939,156.0,11.26,Electricity,Winter tires,1,1,1,Normal,19.93,0,1,,3.4299999999999997,38-57%
+Opel,Ampera,2017,Ampera-e First Edition,150,10.03.2018,3783,129.0,19.07,Electricity,Winter tires,0,1,1,Normal,19.93,0,1,,3.4299999999999997,62-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.03.2018,3654,85.0,17.81,Electricity,Winter tires,1,1,1,Normal,20.95,0,1,,4.449999999999999,78-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,09.03.2018,3569,87.0,31.44,Electricity,Winter tires,1,1,1,Normal,22.35,0,1,,5.850000000000001,56-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.03.2018,3482,79.0,7.01,Electricity,Winter tires,1,1,1,Normal,22.35,0,1,,5.850000000000001,75-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,08.03.2018,3403,160.0,37.66,Electricity,Winter tires,1,1,1,Normal,22.35,0,1,,5.850000000000001,42-99%
+Opel,Ampera,2017,Ampera-e First Edition,150,07.03.2018,3243,174.0,35.65,Electricity,Winter tires,1,1,1,Normal,22.35,0,1,,5.850000000000001,45-98%
+Opel,Ampera,2017,Ampera-e First Edition,150,06.03.2018,3069,88.0,30.92,Electricity,Winter tires,1,1,1,Normal,22.81,0,1,,6.309999999999999,57-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.03.2018,2981,86.0,11.22,Electricity,Winter tires,1,1,1,Normal,22.81,0,1,,6.309999999999999,72-86%
+Opel,Ampera,2017,Ampera-e First Edition,150,05.03.2018,2895,181.0,38.85,Electricity,Winter tires,1,1,1,Normal,22.81,0,1,,6.309999999999999,38-95%
+Opel,Ampera,2017,Ampera-e First Edition,150,03.03.2018,2714,93.0,28.59,Electricity,Winter tires,1,1,1,Normal,25.41,0,1,,8.91,57-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,02.03.2018,2621,157.0,38.85,Electricity,Winter tires,1,1,1,Normal,25.41,0,1,,8.91,30-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,01.03.2018,2464,158.0,36.22,Electricity,Winter tires,1,1,1,Normal,25.41,0,1,,8.91,40-89%
+Opel,Ampera,2017,Ampera-e First Edition,150,28.02.2018,2306,78.0,21.07,Electricity,Winter tires,1,1,1,Normal,27.01,0,1,,10.510000000000002,71-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2018,2228,8.0,6.29,Electricity,Winter tires,1,0,0,Normal,25.31,0,1,,8.809999999999999,92-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2018,2220,90.0,29.28,Electricity,Winter tires,1,1,0,Fast,25.31,0,1,,8.809999999999999,"55-95%, Autobahn 130km/h"
+Opel,Ampera,2017,Ampera-e First Edition,150,27.02.2018,2130,94.0,39.3,Electricity,Winter tires,1,1,1,Normal,25.31,0,1,,8.809999999999999,31-92%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.02.2018,2036,71.0,22.64,Electricity,Winter tires,1,1,1,Normal,25.31,0,1,,8.809999999999999,37-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,26.02.2018,1965,141.0,36.0,Electricity,Winter tires,1,1,1,Fast,25.31,0,1,,8.809999999999999,6-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,24.02.2018,1824,119.0,30.83,Electricity,Winter tires,1,1,1,Normal,25.31,0,1,,8.809999999999999,26-72
+Opel,Ampera,2017,Ampera-e First Edition,150,23.02.2018,1705,168.0,33.75,Electricity,Winter tires,1,1,1,Normal,25.31,0,1,,8.809999999999999,21-71%
+Opel,Ampera,2017,Ampera-e First Edition,150,22.02.2018,1537,157.0,32.2,Electricity,Winter tires,1,1,1,Normal,25.31,0,1,,8.809999999999999,33-80%
+Opel,Ampera,2017,Ampera-e First Edition,150,21.02.2018,1380,175.0,34.23,Electricity,Winter tires,1,1,1,Normal,25.31,0,1,,8.809999999999999,38-88%
+Opel,Ampera,2017,Ampera-e First Edition,150,20.02.2018,1205,159.0,34.69,Electricity,Winter tires,1,1,1,Normal,25.31,0,1,,8.809999999999999,45-96%
+Opel,Ampera,2017,Ampera-e First Edition,150,19.02.2018,1046,86.0,21.34,Electricity,Winter tires,1,1,1,Normal,24.81,0,1,,8.309999999999999,70-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.02.2018,960,136.0,49.2,Electricity,Winter tires,1,1,1,Fast,24.89,0,1,,8.39,22-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,18.02.2018,824,132.0,17.5,Electricity,Winter tires,1,1,1,Normal,24.89,0,1,,8.39,47-72%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.02.2018,692,14.0,8.6,Electricity,Winter tires,1,0,0,Normal,25.98,0,1,,9.48,91-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.02.2018,678,77.0,23.62,Electricity,Winter tires,1,1,1,Normal,25.98,0,1,,9.48,62-95%
+Opel,Ampera,2017,Ampera-e First Edition,150,16.02.2018,601,160.0,33.0,Electricity,Winter tires,1,1,1,Normal,25.98,0,1,,9.48,46-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,15.02.2018,441,85.0,29.49,Electricity,Winter tires,1,1,1,Normal,24.67,0,1,,8.170000000000002,59-100%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.02.2018,356,78.0,26.7,Electricity,Winter tires,1,1,1,Normal,24.67,0,1,,8.170000000000002,54-85%
+Opel,Ampera,2017,Ampera-e First Edition,150,14.02.2018,278,88.0,33.52,Electricity,Winter tires,1,1,1,Normal,24.67,0,1,,8.170000000000002,27-75%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.02.2018,190,81.0,10.6,Electricity,Winter tires,1,1,0,Normal,24.67,0,1,,8.170000000000002,43-55%
+Opel,Ampera,2017,Ampera-e First Edition,150,13.02.2018,109,86.0,2.79,Electricity,Winter tires,1,1,0,Normal,24.67,0,1,,8.170000000000002,43-55%
+Opel,Ampera,2017,Ampera-e First Edition,150,12.02.2018,23,5.0,2.85,Electricity,Winter tires,1,0,0,Normal,,0,1,,,14-56%
