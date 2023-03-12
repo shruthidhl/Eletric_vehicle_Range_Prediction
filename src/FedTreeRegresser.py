@@ -8,6 +8,8 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.metrics import mean_absolute_error
 from sklearn.model_selection import RandomizedSearchCV
 from sklearn.model_selection import StratifiedKFold as skfold
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
 from matplotlib import pyplot as plt
 import plotly.express as px
 from scipy import interpolate
@@ -15,6 +17,7 @@ from scipy.interpolate import make_interp_spline, BSpline
 import seaborn as sns
 import numpy as np
 import time 
+from datetime import date 
 def read_data():
 # 1. CovType data 
     """  colnames=['Elevation','Aspect','Slope','Horizontal_Distance_To_Hydrology',
@@ -42,17 +45,43 @@ def read_data():
     # test_data=pd.read_csv(data_path+"/test.csv")
     # df=pd.concat([train_data, test_data],axis=0)
     print('current working directory', os.getcwd())
-    data_path=os.path.join(os.getcwd(), 'preprocessed.csv')
-    df=pd.read_csv(data_path)
-    df.rename({'trip_distance(km)':'Label'}, axis=1,inplace=True)
-    print('before dropping',df.shape)
-    df.dropna(axis=0,inplace=True)
-    print('after dropping',df.shape)
-    X=df.copy().iloc[:,:-1]
-    y=df.copy().iloc[:,-1:]
+    ## data_path=os.path.join(os.getcwd(), 'preprocessed.csv')
+    
+    
+    # train_df=pd.read_csv('./data/preprocessed/train_data.csv')
+    # test_df=pd.read_csv('./data/preprocessed/test_data.csv')
+    
+    #Vokwagen data 
+    train_df=pd.read_csv("./data/preprocessed/spritmoitor_train_data.csv", index_col=0)
+    test_df=pd.read_csv("./data/preprocessed/spritmoitor_train_data.csv", index_col=0)
+    train_df.drop(columns='fuel_date', axis=1, inplace=True)
+    test_df.drop(columns='fuel_date', axis=1, inplace=True)
+    
+    train_df.rename({'trip_distance(km)':'Label'}, axis=1,inplace=True)
+    test_df.rename({'trip_distance(km)':'Label'}, axis=1,inplace=True)
+    
+    print('train data before dropping',train_df.shape)
+    print('test before dropping',test_df.shape)
+    train_df.dropna(axis=0,inplace=True)
+    test_df.dropna(axis=0,inplace=True)
+    print('after dropping',train_df.shape)
+    print('after dropping',test_df.shape)
+    
+    X_train=train_df.copy().drop(columns='Label', axis=1)
+    y_train=train_df.copy().loc[:, 'Label']
+    
+    X_test=test_df.copy().drop(columns='Label', axis=1)
+    y_test=test_df.copy().loc[:, 'Label']
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=0,shuffle=True)
-    return X_train,X_test,y_train,y_test 
+
+   #PCA 
+    scalled_X_train=StandardScaler().fit_transform(X_train)
+    scalled_X_test=StandardScaler().fit_transform(X_test)
+    pca=PCA(n_components=6)
+    pca_train=pca.fit_transform(scalled_X_train)
+    # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=0,shuffle=True)
+    X_test_pc = pca.transform(scalled_X_test)
+    return pca_train,X_test_pc,y_train,y_test 
    
 
 def plotlinegraph(y_test, y_pred_test,X_test):
@@ -71,9 +100,11 @@ def plotresults(y_test, y_pred_test):
     plt.plot(x_axis, y_test, linewidth=1, label="original" )
     plt.plot(x_axis, y_pred_test, linewidth=1.1, label="predicted")
     plt.legend(loc='best', fancybox=True, shadow=True)
-    plt.title("Federated Tree GBDT Prediction Analysis")
+    plt.ylabel('Range')
+    plt.title("Federated Tree RF Prediction Analysis")
     plt.grid(True)
-    plt.savefig('./reports/FedTree_GBDT.png')
+    filename="FedTree_RF_"+date.today().strftime('%d_%m_%_Y')+".png"
+    plt.savefig('./reports/'+filename)
     plt.show()
 
     
@@ -122,7 +153,7 @@ if __name__ == '__main__':
     # no_class = y_train.Label.nunique()
     parameters={'Setting Name' : ['FedTree'], 
                 'Data' :["SpritMonitor"],
-                'Algorithm' : ['F-GBDT'],
+                'Algorithm' : ['F-RF'],
                 'Model Type' : ["Regressor"], 
                 'n_trees' : [100],
                 'bagging':[True],
@@ -130,17 +161,17 @@ if __name__ == '__main__':
                 'mean_absolute_error':[0],
               }
     hyperparameter={
-          'n_parties':[2],
+          'n_parties':[3],
           'learning_rate':[0.01,0.1,0.2 ],
           'max_depth':[4,5,6,7,8],
           'n_trees' :[100,200],
     }
-    clf = FLRegressor( mode="horizontal",objective="reg:linear",bagging = False, n_parties=2, learning_rate=0.01,n_trees=200)
-    #randCV=RandomizedSearchCV(estimator=clf, param_distributions=hyperparameter,n_jobs=100,cv=5,return_train_score=True)
+    clf = FLRegressor( mode="horizontal",objective="reg:linear",bagging = True, n_parties=3, learning_rate=0.01,n_trees=400)
+    randCV=RandomizedSearchCV(estimator=clf, param_distributions=hyperparameter,n_jobs=100,cv=3,return_train_score=True)
    
-    # randCV.fit(X_train, y_train)
+    randCV.fit(X_train, y_train)
     start = time.process_time()
-    clf.fit(X_train, y_train)
+    #clf.fit(X_train, y_train)
     print('time.process_time() - start', time.process_time() - start)
     
         
@@ -148,7 +179,7 @@ if __name__ == '__main__':
     #plotresults(X_test['power(kW)'],y_test,y_pred)
    
    
-    mse, rmse, mae, r2=evaluate_metrics(y_test, X_test,clf)
+    mse, rmse, mae, r2=evaluate_metrics(y_test, X_test,randCV)
    
     parameters['Mean_squared_error']=mse
     parameters['Root_Mean_squared_error']=rmse
