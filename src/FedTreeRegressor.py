@@ -3,7 +3,9 @@ from tokenize import Ignore
 import pandas as pd
 from sklearn.model_selection import train_test_split
 import os.path
-from fedtree import FLRegressor
+import sys
+sys.path.append('/home/shruthi/workenv/FedTree')
+from python.fedtree import FLRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.metrics import mean_absolute_error
 from sklearn.model_selection import RandomizedSearchCV
@@ -18,47 +20,17 @@ import seaborn as sns
 import numpy as np
 import time 
 from datetime import date 
+#from evaluation import evaluate_metrics
 def read_data():
-# 1. CovType data 
-    """  colnames=['Elevation','Aspect','Slope','Horizontal_Distance_To_Hydrology',
-        'Vertical_Distance_To_Hydrology','Horizontal_Distance_To_Roadways','Hillshade_9am','Hillshade_Noon',
-        'Hillshade_3pm','Horizontal_Distance_To_Fire_Points', 'Wilderness_Area_1','Wilderness_Area_2',
-        'Wilderness_Area_3','Wilderness_Area_4']
-    for i in range(1,41):
-        colnames.append("Soil_Type_"+str(i))
-        colnames.append('Label')
 
-    df = pd.read_csv('../dataset/covtype.data.gz', compression='gzip',
-            error_bad_lines=False,names=colnames) """
-
-    #2. Poker data
-    # data_path="../dataset/poker"
-    # poker_train=pd.read_csv(data_path+"/poker-hand-training-true.data",header=None,names=['S1', 'C1','S2', 'C2','S3', 'C3','S4', 'C4','S5', 'C5','Label'])
-    # poker_test=pd.read_csv(data_path+"/poker-hand-testing.data",header=None,names=['S1', 'C1','S2', 'C2','S3', 'C3','S4', 'C4','S5', 'C5','Label'])
-    # df=pd.concat([poker_train,poker_test],axis=0)
-    # X=df.copy().iloc[:,:-1]
-    # y=df.copy().iloc[:,-1:]  
-    
-    #3. Sprit Monitor
-   # data_path="/home/shosamane/FedTree/FedTree/thesis/code/"
-    # train_data=pd.read_csv(data_path+"/train.csv")
-    # test_data=pd.read_csv(data_path+"/test.csv")
-    # df=pd.concat([train_data, test_data],axis=0)
-    print('current working directory', os.getcwd())
-    ## data_path=os.path.join(os.getcwd(), 'preprocessed.csv')
-    
-    
-    # train_df=pd.read_csv('./data/preprocessed/train_data.csv')
-    # test_df=pd.read_csv('./data/preprocessed/test_data.csv')
-    
-    #Vokwagen data 
-    # train_df=pd.read_csv("./data/preprocessed/train_converted.csv", index_col=0)
-    # test_df=pd.read_csv("./data/preprocessed/test_converted.csv", index_col=0)
-    
     #Experiment 3 : Consumption data 
     train_df=pd.read_csv("./data/preprocessed/df_range_consumption_train_data.csv", index_col=0)
     test_df=pd.read_csv("./data/preprocessed/df_range_consumption_test_data.csv", index_col=0)
     
+    #Vokwagen data 
+    # train_df=pd.read_csv("./data/preprocessed/Vokwagen_train_converted.csv", index_col=0)
+    # test_df=pd.read_csv("./data/preprocessed/Vokwagen_test_converted.csv", index_col=0)
+    print('current working directory', os.getcwd())
     
     train_df.rename({'trip_distance(km)':'Label'}, axis=1,inplace=True)
     test_df.rename({'trip_distance(km)':'Label'}, axis=1,inplace=True)
@@ -77,13 +49,7 @@ def read_data():
     y_test=test_df.copy().loc[:, 'Label']
 
 
-   #PCA 
-    # scalled_X_train=StandardScaler().fit_transform(X_train)
-    # scalled_X_test=StandardScaler().fit_transform(X_test)
-    # pca=PCA(n_components=6)
-    # pca_train=pca.fit_transform(scalled_X_train)
-    # # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=0,shuffle=True)
-    # X_test_pc = pca.transform(scalled_X_test)
+
     return X_train,X_test,y_train,y_test 
    
 
@@ -124,7 +90,6 @@ def calulate_metrics(y_test, y_pred_test):
     return mse_rf, rmse_rf, mae, r2_rf
    
 
-
 def evaluate_metrics(y_test, X_test,regressor_model, tittle, timetaken):
     y_pred_test=regressor_model.predict(X_test)
     mse, rmse,mae,r2=calulate_metrics(np.round(y_test,6), np.round(y_pred_test,6))
@@ -145,6 +110,10 @@ def evaluate_metrics(y_test, X_test,regressor_model, tittle, timetaken):
     
     path="./reports/results_03072023.xlsx"
     res_new=pd.DataFrame(results, index=[0])
+    path2 ="./reports/Resultscomparision.csv"
+    resultscomp=pd.read_csv(path2)
+    resultscomp['Y_Pred_FGBDT']=y_pred_test
+    resultscomp.to_csv(path2)
     
      # read file 
     if os.path.exists(path):
@@ -160,6 +129,98 @@ def evaluate_metrics(y_test, X_test,regressor_model, tittle, timetaken):
         res_new.to_excel(path,header=True,index=False)
     plotresults(y_test, y_pred_test, tittle)
     return y_pred_test
+  
+ 
+    
+
+def runfedtree(X_train,  y_train, X_test, y_test, flag):
+    fedreg = FLRegressor( mode="horizontal",objective="reg:linear",bagging = False, n_parties=3,)
+    if flag=='base':
+        fedreg.fit(X_train, y_train)
+        start = time.process_time()
+        fedreg.fit(X_train, y_train)
+        timetaken=time.process_time() - start
+        print('time taken', timetaken)  
+        
+    else: 
+        #X_train,X_test,y_train,y_test = read_data()
+        # no_class = y_train.Label.nunique()
+        parameters={'Setting Name' : ['FedTree'], 
+                    'Data' :["SpritMonitor"],
+                    'Algorithm' : ['F-RF'],
+                    'Model Type' : ["Regressor"], 
+                    'n_trees' : [100],
+                    'bagging':[True],
+                    'mean_squared_error': [0],
+                    'mean_absolute_error':[0],
+                }
+        hyperparameter={
+            'n_parties':[3],
+            'learning_rate':[0.01,0.1,0.001 ],
+            'max_depth':[4,5,6,7,8],
+            'n_trees' :[100,200],
+        }
+        randCV=RandomizedSearchCV(estimator=fedreg, param_distributions=hyperparameter,n_jobs=100,cv=5,return_train_score=True)
+        fedreg.fit(X_train, y_train)
+        start = time.process_time()
+        fedreg.fit(X_train, y_train)
+        timetaken=time.process_time() - start
+        print('time taken', timetaken)  
+        # print('hyperparameters', randCV.best_params_)     
+        #df=pd.concat([pd.DataFrame(),pd.DataFrame(y_test),pd.DataFrame(y_pred)],axis=1)
+        #plotresults(X_test['power(kW)'],y_test,y_pred)
+        evaluate_metrics(y_test, X_test,fedreg,'Base FedTree GBDT',timetaken)
+    
+    
+    
+    
+    
+    
+    
+    
+
+###########################################################################################################################
+
+# 1. CovType data 
+    """  colnames=['Elevation','Aspect','Slope','Horizontal_Distance_To_Hydrology',
+        'Vertical_Distance_To_Hydrology','Horizontal_Distance_To_Roadways','Hillshade_9am','Hillshade_Noon',
+        'Hillshade_3pm','Horizontal_Distance_To_Fire_Points', 'Wilderness_Area_1','Wilderness_Area_2',
+        'Wilderness_Area_3','Wilderness_Area_4']
+    for i in range(1,41):
+        colnames.append("Soil_Type_"+str(i))
+        colnames.append('Label')
+
+    df = pd.read_csv('../dataset/covtype.data.gz', compression='gzip',
+            error_bad_lines=False,names=colnames) """
+
+    #2. Poker data
+    # data_path="../dataset/poker"
+    # poker_train=pd.read_csv(data_path+"/poker-hand-training-true.data",header=None,names=['S1', 'C1','S2', 'C2','S3', 'C3','S4', 'C4','S5', 'C5','Label'])
+    # poker_test=pd.read_csv(data_path+"/poker-hand-testing.data",header=None,names=['S1', 'C1','S2', 'C2','S3', 'C3','S4', 'C4','S5', 'C5','Label'])
+    # df=pd.concat([poker_train,poker_test],axis=0)
+    # X=df.copy().iloc[:,:-1]
+    # y=df.copy().iloc[:,-1:]  
+    
+    #3. Sprit Monitor
+   # data_path="/home/shosamane/FedTree/FedTree/thesis/code/"
+    # train_data=pd.read_csv(data_path+"/train.csv")
+    # test_data=pd.read_csv(data_path+"/test.csv")
+    # df=pd.concat([train_data, test_data],axis=0)
+    #print('current working directory', os.getcwd())
+    ## data_path=os.path.join(os.getcwd(), 'preprocessed.csv')
+    
+    
+    # train_df=pd.read_csv('./data/preprocessed/train_data.csv')
+    # test_df=pd.read_csv('./data/preprocessed/test_data.csv')
+    
+       #PCA 
+    # scalled_X_train=StandardScaler().fit_transform(X_train)
+    # scalled_X_test=StandardScaler().fit_transform(X_test)
+    # pca=PCA(n_components=6)
+    # pca_train=pca.fit_transform(scalled_X_train)
+    # # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=0,shuffle=True)
+    # X_test_pc = pca.transform(scalled_X_test) 
+  
     
 # def plotresults(power,y_test,y_pred,X_test):
 #     # y_test_new=np.linspace(y_test.min(),y_test.max(),400)
@@ -181,47 +242,6 @@ def evaluate_metrics(y_test, X_test,regressor_model, tittle, timetaken):
 #     plt.ylabel('range')
 #     fig.savefig('RF results.png')
     
-    
-
-if __name__ == '__main__':
-    X_train,X_test,y_train,y_test = read_data()
-    # no_class = y_train.Label.nunique()
-    parameters={'Setting Name' : ['FedTree'], 
-                'Data' :["SpritMonitor"],
-                'Algorithm' : ['F-RF'],
-                'Model Type' : ["Regressor"], 
-                'n_trees' : [100],
-                'bagging':[True],
-                'mean_squared_error': [0],
-                'mean_absolute_error':[0],
-              }
-    hyperparameter={
-          'n_parties':[3],
-          'learning_rate':[0.01,0.1,0.001 ],
-          'max_depth':[4,5,6,7,8],
-          'n_trees' :[100,200],
-    }
-    fedreg = FLRegressor( mode="horizontal",objective="reg:linear",bagging = False, n_parties=3)
-    #randCV=RandomizedSearchCV(estimator=fedreg, param_distributions=hyperparameter,n_jobs=100,cv=5,return_train_score=True)
-   
-    fedreg.fit(X_train, y_train)
-    start = time.process_time()
-    fedreg.fit(X_train, y_train)
-    timetaken=time.process_time() - start
-    print('time taken', timetaken)  
-    # print('hyperparameters', randCV.best_params_)
-    
-        
-    #df=pd.concat([pd.DataFrame(),pd.DataFrame(y_test),pd.DataFrame(y_pred)],axis=1)
-    #plotresults(X_test['power(kW)'],y_test,y_pred)
-   
-   
-    evaluate_metrics(y_test, X_test,fedreg,'Base FedTree GBDT',timetaken)
-   
-
-    
-    
-
 
 
 
